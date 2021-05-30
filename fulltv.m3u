@@ -160,7 +160,7 @@ https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="MUNDO +" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/M+.jpg" group-title="TV",MUNDO +
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/chunklist_w706760331.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="CANAL 6 (MEX)" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal_Seis_Logo.svg.png" group-title="TV",CANAL 6 (MEX)
-http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
+https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="CANAL 10 (G. ROCA)" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/canal-10-general-roca-1532.png" group-title="TV", CANAL 10 (G. ROCA)
 https://panel.dattalive.com:443/8204/8204/playlist.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="mtmad 24h" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/MTMAD%2024h.jpg" group-title="TV", MTMAD 24h
@@ -170,25 +170,27 @@ https://secure7.todostreaming.es/live/101tv-web101tv.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="TV Ferrol" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/ferroltv.png" group-title="TV", TV Ferrol
 https://directo.tvferrol.es/tv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name=" Canal Sur Andalucia" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal%20Sur%20Andalucia.png" group-title="TV",  Canal Sur Andalucia
-https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/chunklist_b2200000_DVR.m3u8?PlaylistM3UCL
+https://cdnlive.shooowit.net/rtvalive/83CRxkDnV6DVR.smil/chunklist_b2200000_DVR.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name=" Extremadura" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal%20extremadura.png" group-title="TV",  Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/channel1DVR.smil/chunklist_b1500000_DVR.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Variado" tvg-name=" La 2" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/La%202.png" group-title="TV",  La 2 HD
+https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name=" La 2" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/La%202.png" group-title="TV",  La 2
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?sd=10&rebase=on&PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name=" Telemadrid" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/telemadrid.png" group-title="TV",  Telemadrid
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8?PlaylistM3UCL
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="Lancelot TV Canarias" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Lancelot-tv.png" group-title="TV", Lancelot TV Canarias
-http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8?PlaylistM3UCL
+http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="Canal Sierra de Cádiz" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/SIERRA%20DE%20CADIZ.png" group-title="TV", CANAL SIERRA DE CADIZ
 http://217.125.136.93:8080/canalsierradecadiz1080.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="7 Murcia" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/7tv.jpg" group-title="TV", 7 Murcia
-http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8?PlaylistM3UCL
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="Costa Noroeste TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Costa-Noroeste-TV.png" group-title="TV" ,COSTA NOROESTE TV
-https://limited08.todostreaming.es/live/noroestetv-livestream.m3u8
+https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="Condavisión" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/condavision_fb.png" group-title="TV", CONDAVISION
 http://145.239.141.154:1935/live/uSCQc5ky/playlist.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="Teleonuba" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/teleonuba_fb.png" group-title="TV", TELEONUBA
-https://5d8d85cf2c308.streamlock.net:1936/live/605oPXx3/playlist.m3u8
+https://5d8d85cf2c308.streamlock.net:1936/live/605oPXx3/.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="Mírame TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Mirame-tv.png" group-title="TV" ,MIRAME TV
 https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="Azteca 7 Mexico" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/azteca-7_m.png" group-title="TV" ,AZTECA 7 (MEX)
@@ -1445,13 +1447,6 @@ http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_0650_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sRsCcT6.png" group-title="España", La 1 | HD 
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2V6Zqab.png" group-title="España", La 2 | SD 
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2V6Zqab.png" group-title="España", La 2 | HD 
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4brWBgZ.png" group-title="España", Antena 3 Internacional | HD
 https://m3u-editor.com/serve/televito85/299093905
 
@@ -1463,10 +1458,6 @@ https://m3u-editor.com/serve/televito85/299190324
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/FDPCVTq.png" group-title="España", Neox | SD
 https://m3u-editor.com/serve/televito85/298500329
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LFwKADf.png" group-title="España", Canal Sur Andalucía | FHD | Sevilla
-https://cdnlive.shooowit.net/rtvalive/83CRxkDnV6DVR.smil/chunklist_b2200000_DVR.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ahHFH2o.png" group-title="España", Sal Televisión | SD | San Fernando
 https://bit.controlstreams.com:5443/LiveApp/streams/saltv.m3u8
 
@@ -1503,13 +1494,6 @@ http://stream.fion.es:1936/live/fion.smil/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UmGxwnz.png" group-title="España",Campiña Sur | HD | Andalucía
 https://cdn01.yowi.tv/4131RI73I9/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LMFjUjf.png" group-title="España", Canal Sierra de Cádiz | FHD | Cádiz
-http://217.125.136.93:8080/canalsierradecadiz1080.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FPxwOBS.png" group-title="España", Costa Noroeste | HD | Cádiz
-https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Js1bIMS.png" group-title="España", Onda Algeciras| SD | Cádiz
 https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
 
@@ -1533,10 +1517,6 @@ https://cloudvideo.servers10.com:8081/8034/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xSyIrbC.png" group-title="España", La 7 | SD | Castilla y León 
 https://cdnlive.shooowit.net/la7live/channel1.smil/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/V4ig3Hn.png" group-title="España", 7TV | SD | Murcia
-http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8PfMrzc/Cabecera7-RIOJA.png" group-title="España", Canal 7 | SD | La Rioja
 https://pc-la7delarioja-hls.flumotion.com/playlist.m3u8
 
@@ -1569,34 +1549,15 @@ https://interalmeria.tv/directo/live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gJPQAy8.png" group-title="España", NorteVisión | HD | Canarias
 http://amaru.dyndns.org:8835/0.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qUB3ggl.png" group-title="España", Lancelot TV Canarias | SD | Lanzarote
-http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/V3vOxhQ.png" group-title="España", Noroeste Canarias | HD | Canarias
 https://cloudvideo.servers10.com:8081/8032/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Av4pEiH.png" group-title="España", RTVC Canarias | SD | Las Palmas
 https://rtvc-live1.flumotion.com/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zM65ZIl.png" group-title="España", Mírame TV | SD | Canarias
-https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pU1mb2a.png" group-title="España", Canal Costa  | HD | Huelva
 https://5d8d85cf2c308.streamlock.net:1936/live/WXP6YT/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9dQS7t7.png" group-title="España", Condavisión | HD | Huelva
-http://145.239.141.154:1935/live/uSCQc5ky/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/frBZDkX.png" group-title="España", Teleonuba | HD | Huelva
-https://5d8d85cf2c308.streamlock.net:1936/live/605oPXx3/.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OKi7Myt.png" group-title="España", Imás Televisión | SD | Puertollano
 https://secure3.todostreaming.es/live/imastv-livestream.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rEHbsL5.png" group-title="España", Extremadura | HD | Mérida
-https://cdnlive.shooowit.net/canalextremaduralive/channel1DVR.smil/chunklist_b1500000_DVR.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nwZC1ru.png" group-title="España", Aragon | SD | Zaragoza
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
@@ -1619,11 +1580,7 @@ https://cdn01.yowi.tv/GGGGGGGGGG/master.m3u8
 https://5df8a678a3840.streamlock.net/8032/8032/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/klE3Yf9.png" group-title="España", Mijas 3.40 TV | SD | Mijas
-https://d1o1m0b8hn74yt.cloudfront.net/out/v1/dcd3c3ade6994cc9ba1f6e534ff4d1e8/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f98JTsZ.png" group-title="España", Telemadrid| SD | Madrid
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8
- 
+https://d1o1m0b8hn74yt.cloudfront.net/out/v1/dcd3c3ade6994cc9ba1f6e534ff4d1e8/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wB82I4p.png" group-title="España",La Otra| SD | Madrid
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/bitrate_2.m3u8
 
@@ -1666,10 +1623,6 @@ https://secure.todostreaming.es/live/nerja-livestream.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nMzCAdy.png" group-title="España", Cáceres TV | HD | Cáceres
 https://ce2019100818001.dnssw.net/hls/ceres.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YRtVL6c.png" group-title="España", TV Ferrol | SD | Ferrol
-https://directo.tvferrol.es/tv.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CmwJnDX.png" group-title="España", Tef Televisió d'eivissa i formentera| SD | Catalán
 https://cdn01.yowi.tv/36MLCJRAR2/master.m3u8
 
@@ -1816,10 +1769,7 @@ https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9W2TvR4.png" group-title="Argentina", Canal 7 | HD | Catamarca
 https://59db7e671a1ad.streamlock.net/catamarcatelevision/catamarcatelevision/chunklist_w911626409.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eWFGnL6.png" group-title="Argentina", 9 Televida | HD | Mendoza
-https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/chunklist_w2109451929.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3RZjqEW.png" group-title="Argentina", Canal 10 TV Rionegrina| HD | Rio Negro
-https://59c5c86e10038.streamlock.net/8204/8204/chunklist.m3u8
- 
+https://5b3050bb1b2d8.streamlock.net/viviloendirecto2/canal9/chunklist_w2109451929.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/77fmNDN.png" group-title="Argentina", Canal 10 | HD | Córdoba
 https://vcp.myplaytv.com/canal10cba/smil:canal10cba.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wrIKPYR.jpg" group-title="Argentina", Litus TV | HD 
@@ -3460,8 +3410,6 @@ http://arcast.net:1935/cadena103/cadena103/playlist.m3u8?PlaylistM3UCL
 https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="799" tvg-name="Canal 10 Nortevision" tvg-logo="https://www.m3u.cl/logo/799_Canal_10_Nortevision.jpg", Canal 10 Nortevision  | AR
 https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="299" tvg-name="Canal 10 Rio Negro" tvg-logo="https://www.m3u.cl/logo/299_Canal_10_Rio_Negro.png", Canal 10 Rio Negro  | AR
-https://panel.dattalive.com:443/8204/8204/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="226" tvg-name="Canal 13 Jujuy" tvg-logo="https://www.m3u.cl/logo/226_Canal_13_Jujuy.png", Canal 13 Jujuy  | AR
 https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="254" tvg-name="Canal 2 Mar del Plata" tvg-logo="https://www.m3u.cl/logo/254_Canal_2_Mar_del_Plata.png", Canal 2 Mar del Plata  | AR
@@ -4315,8 +4263,6 @@ http://wmoy8w6ky2a7-hls-live.5centscdn.com/ctvbaq/live/chunks.m3u8?PlaylistM3UCL
 http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="141" tvg-name="Melody Channel TV" tvg-logo="https://www.m3u.cl/logo/141_Melody_Channel_TV.jpg", Melody Channel TV  | CO
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="127" tvg-name="Mundo +" tvg-logo="https://www.m3u.cl/logo/127_Mundo__.png", Mundo +  | CO
-http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="128" tvg-name="Señal Colombia" tvg-logo="https://www.m3u.cl/logo/128_Senal_Colombia.png", Señal Colombia  | CO
 https://streaming.enetres.net/85F57E947FBC4A648B8BE9DA1A772FA2024/live-1500/chunklist_w1469292640.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="129" tvg-name="Suram" tvg-logo="https://www.m3u.cl/logo/129_Suram.jpg", Suram  | CO
@@ -4382,8 +4328,6 @@ https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8?Play
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist_b1296000_DVR.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="837" tvg-name="7TV Andalucia" tvg-logo="https://www.m3u.cl/logo/837_7TV_Andalucia.jpg", 7TV Andalucia  | ES
 https://d3e0aduzg5hw8g.cloudfront.net/out/v1/7c917096d3a54e72bd4a6aa85494c8f3/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="600" tvg-name="7TV Murcia" tvg-logo="https://www.m3u.cl/logo/600_7TV_Murcia.png", 7TV Murcia  | ES
-http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="629" tvg-name="Alcarria TV" tvg-logo="https://www.m3u.cl/logo/629_Alcarria_TV.png", Alcarria TV  | ES
 http://217.182.77.27/live/alcarriatv-livestream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="601" tvg-name="Bon Dia" tvg-logo="https://www.m3u.cl/logo/601_Bon_Dia.png", Bon Dia  | ES
@@ -4418,12 +4362,8 @@ https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-p.m3u8?sd=8&r
 https://cdnlive.shooowit.net/canalextremaduralive/channel1DVR.smil/chunklist_b1500000_DVR.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="613" tvg-name="La 1" tvg-logo="https://www.m3u.cl/logo/613_La_1.png", La 1  | ES
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_0650_av-p.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="614" tvg-name="La 2" tvg-logo="https://www.m3u.cl/logo/614_La_2.png", La 2  | ES
-https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?sd=10&rebase=on&PlaylistM3UCL
 #EXTINF:-1 tvg-id="626" tvg-name="La Otra" tvg-logo="https://www.m3u.cl/logo/626_La_Otra.png", La Otra  | ES
 http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_2.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="615" tvg-name="Lancelot TV Canarias" tvg-logo="https://www.m3u.cl/logo/615_Lancelot_TV_Canarias.png", Lancelot TV Canarias  | ES
-http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="616" tvg-name="Levante TV" tvg-logo="https://www.m3u.cl/logo/616_Levante_TV.png", Levante TV  | ES
 https://i.imgur.com/Cc1CypC.mp4?PlaylistM3UCL
 #EXTINF:-1 tvg-id="597" tvg-name="Momentos G" tvg-logo="https://www.m3u.cl/logo/597_Momentos_G.png", Momentos G  | ES
@@ -4440,8 +4380,6 @@ https://cdnlive.shooowit.net/rtpalive/directo.smil/chunklist_b1500000.m3u8?Playl
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="631" tvg-name="Real Madrid TV HD" tvg-logo="https://www.m3u.cl/logo/631_Real_Madrid_TV_HD.png", Real Madrid TV HD  | ES
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="621" tvg-name="Telemadrid" tvg-logo="https://www.m3u.cl/logo/621_Telemadrid.png", Telemadrid  | ES
-http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="622" tvg-name="Television Municipal de Cordoba" tvg-logo="https://www.m3u.cl/logo/622_Television_Municipal_de_Cordoba.png", Television Municipal de Cordoba  | ES
 http://teledifusion.tv/cordoba/cordobalive/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="623" tvg-name="Travel TV" tvg-logo="https://www.m3u.cl/logo/623_Travel_TV.png", Travel TV  | ES
@@ -4483,8 +4421,6 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="521" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://www.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png", Recuerdos Retro Radio TV * | CL
 https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="664" tvg-name="Canal Once Internacional" tvg-logo="https://www.m3u.cl/logo/664_Canal_Once_Internacional.png", Canal Once Internacional  | MX
-http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="806" tvg-name="HispanTV" tvg-logo="https://www.m3u.cl/logo/806_HispanTV.png", HispanTV  | IR
 https://live1.presstv.com/live/hispan.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="642" tvg-name="8 NTV" tvg-logo="https://www.m3u.cl/logo/642_8_NTV.png", 8 NTV  | MX
