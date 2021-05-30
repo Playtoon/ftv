@@ -158,7 +158,7 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="CARACOL PLAY" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Caracol%20play.jpg" group-title="TV", Caracol PLAY
 https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="MUNDO +" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/M+.jpg" group-title="TV",MUNDO +
-http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
+http://vcp1.myplaytv.com:1935/mundomas/mundomas/chunklist_w706760331.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="CANAL 6 (MEX)" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal_Seis_Logo.svg.png" group-title="TV",CANAL 6 (MEX)
 http://mdstrm.com/live-stream-playlist_400/57b4dbf5dbbfc8f16bb63ce1.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="CANAL 10 (G. ROCA)" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/canal-10-general-roca-1532.png" group-title="TV", CANAL 10 (G. ROCA)
@@ -1947,10 +1947,6 @@ http://179.1.7.198:1935/live/TVAgroHD.stream_360p/chunklist_w842594670.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6xat1QL.png" group-title="Colombia", TV Peñol | HD | Antioquía
 https://cloud2.streaminglivehd.com:1936/8118/8118/chunklist_w1718824862.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TyVZ8Js.png" group-title="Colombia", Mundo + | HD | La Ceja
-http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dY8bbZ0.png" group-title="Colombia", Teleislas | SD | San Andrés
 https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/chunklist_w444798539.m3u8
 
