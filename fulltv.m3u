@@ -146,17 +146,17 @@ http://s5.mexside.net:1935/telemax/telemax/.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="TRC TV Campeche" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TRC%20tv.png" group-title="TV", TRC TV Campeche
 https://stream.oursnetworktv.com/latin/SRTC/chunklist_w803181694.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="8 NTV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/NTV.jpg" group-title="TV", 8 NTV
-https://60417ddeaf0d9.streamlock.net/ntv/videontv/chunklist_w87857390.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC81LzIwMjEgOToxNjozNyBQTSZoYXNoX3ZhbHVlPTV2VUE1MkpHVmwvSEhhQ3BaUkEzdGc9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9
+https://60417ddeaf0d9.streamlock.net:443/ntv/videontv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="Mexiquense TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Mexiquense%20tv.png" group-title="TV", Mexiquense TV
 https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="Presumiendo Mexico" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/PMTV.jpg" group-title="TV", Presumiendo Mexico
-https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8
+https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/chunklist_w839580219_b1428000_sleng.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="TICAVISION"tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Ticavisi%C3%B3n.png" group-title="TV", TICAVISION 
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="BHTV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/BHTV.png" group-title="TV", BHTV
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="CARACOL PLAY" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Caracol%20play.jpg" group-title="TV", Caracol PLAY
-http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?dl=1
+https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="MUNDO +" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/M+.jpg" group-title="TV",MUNDO +
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/playlist.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="CANAL 6 (MEX)" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal_Seis_Logo.svg.png" group-title="TV",CANAL 6 (MEX)
@@ -355,7 +355,7 @@ https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 #EXTINF:-1 tvg-id="Deportes" tvg-name="Sony Competencias" tvg-logo="" group-title="TV", Prueba canales2
 http://96.30.193.226:81/hls/canalaster.m3u8
 #EXTINF:-1 tvg-id="Deportes" tvg-name="Sony Competencias" tvg-logo="" group-title="TV", Prueba canales3
-https://t13n0j85szhuzy13.uzcdn193.net:8443/hls/yzfwp0ngkv.m3u8?s=WyGv10d4AcLGELyK-xuloQ&e=1621580428
+https://m3u-editor.com/serve/televito85/299163939
 #EXTINF:-1 tvg-id="Deportes" tvg-name="Sony Competencias" tvg-logo="" group-title="TV", Prueba canales4
 https://m3u-editor.com/serve/televito85/299133664
 #EXTINF:-1 tvg-id="Deportes" tvg-name="Sony Competencias" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/sony%20competencias.png" group-title="TV", Sony Competencias
@@ -1824,11 +1824,6 @@ https://59c5c86e10038.streamlock.net/8204/8204/chunklist.m3u8
 https://vcp.myplaytv.com/canal10cba/smil:canal10cba.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wrIKPYR.jpg" group-title="Argentina", Litus TV | HD 
 http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qtRtIyw.png" group-title="Argentina", Telediario Televisión | SD | Rio Cuarto
-https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WoBVuSA.png" group-title="Argentina", Universidad Nacional de Villa María | HD
 https://vivo.solumedia.com:19360/uniteve/uniteve.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/5FNngFD/Canal-13-2016.png" group-title="Argentina", El Trece | HD | Bs. As.
@@ -1983,11 +1978,6 @@ https://59ef525c24caa.streamlock.net/limontv/limontv/chunklist_w2071995549.m3u8
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vZnOTq8.png" group-title="Costa Rica", Telered | SD | Alajuela
 http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
-
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/qNrgCwF.png" group-title="Costa Rica", Ticavisión | SD | San  José
-http://k3.usastreams.com:1935/HBTV/HBTV/chunklist_w808197071.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LQHugAf.png" group-title="Costa Rica", UCR| FHD | San José  
 https://i.imgur.com/Cc1CypC.mp4
 
@@ -2172,19 +2162,8 @@ https://59d39900ebfb8.streamlock.net/8410/8410/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eGvLDVR.png" group-title="México", Canal 10 Chetumal | HD
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h8kIvLr.png" group-title="México", Canal Once | HD
-https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4uLdvzR.png" group-title="México", Mexiquense | HD
-https://5ca3e84a76d30.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K3pHu8c.jpg" group-title="México", Canal 14 | HD
 https://d3nljkrx6mjqra.cloudfront.net/out/v1/1b9d9efd27814b3b8dc570113ae54409/index_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XCN0uTV.png" group-title="México", 15TV Sabinas | SD
-https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jtEl57W.jpg" group-title="México", Telezac| FHD
 https://5e50264bd6766.streamlock.net/canal15zac/smil:canal15zac.smil/playlist.m3u8
 
@@ -2193,10 +2172,6 @@ https://5fa5de1a545ae.streamlock.net/turistik/turistik/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YkAJDFQ.png" group-title="México",Foro TV | HD
 https://stnothds-lh.akamaihd.net/i/sslf0r0tvnus_1@109755/index_1296_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7QLiC6y.png" group-title="México", RTQ | SD
-http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ePP32Al.png" group-title="México", Canal 26 | HD | Aguascalientes
 http://streamingcws10.com:1935/telemetrika3/videotelemetrika3/.m3u8
 
@@ -2306,11 +2281,7 @@ https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 https://cp.sradiotv.com:1936/8078/8078/chunklist_w428381417.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TMKkxue.png" group-title="Perú", Exitosa TV | HD 
-https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1z3t61J.png" group-title="Perú", BHTV | HD 
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
- 
+https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v9HdU7z.png" group-title="Perú", Panamericana | SD 
 https://cdnhd.iblups.com/hls/ptv2.m3u8
 
@@ -3543,8 +3514,6 @@ https://panel.dattalive.com/canal907/canal907/chunklist_w1205944599.m3u8?Playlis
 https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="275" tvg-name="Canal Coop" tvg-logo="https://www.m3u.cl/logo/275_Canal_Coop.png", Canal Coop  | AR
 https://panel.dattalive.com:443/8138/8138/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="302" tvg-name="Canal Nueve TV" tvg-logo="https://www.m3u.cl/logo/302_Canal_Nueve_TV.png", Canal Nueve TV  | AR
-https://live.canalnueve.tv/canal.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="801" tvg-name="Canal Provincial" tvg-logo="https://www.m3u.cl/logo/801_Canal_Provincial.jpg", Canal Provincial  | AR
 https://streaming.telered.com.ar/provincial/streaming/mystream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310" tvg-name="Canal Rural" tvg-logo="https://www.m3u.cl/logo/310_Canal_Rural.jpg", Canal Rural  | AR
@@ -3611,8 +3580,6 @@ https://videohd.live:19360/8020/8020.m3u8?PlaylistM3UCL
 https://stmvideo2.livecastv.com/telestrella/telestrella/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="290" tvg-name="Telecreativa" tvg-logo="https://www.m3u.cl/logo/290_Telecreativa.png", Telecreativa  | AR
 https://panel.dattalive.com:443/8012/8012/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="291" tvg-name="Telediario Televisión" tvg-logo="https://www.m3u.cl/logo/291_Telediario_Television.png", Telediario Televisión  | AR
-https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="814" tvg-name="TeleNord" tvg-logo="https://www.m3u.cl/logo/814_TeleNord.jpg", TeleNord  | AR
 http://www.coninfo.net:1935/previsoratv/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="294" tvg-name="Terramia TV" tvg-logo="https://www.m3u.cl/logo/294_Terramia_TV.png", Terramia TV  | AR
@@ -4069,8 +4036,6 @@ https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="496" tvg-name="Canal IPE" tvg-logo="https://www.m3u.cl/logo/496_Canal_IPE.png", Canal IPE  | PE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="493" tvg-name="Net TV" tvg-logo="https://www.m3u.cl/logo/493_Net_TV.png", Net TV  | AR
-https://unlimited1-cl-movistar.dps.live/nettv/nettv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="502" tvg-name="TV Marti" tvg-logo="https://www.m3u.cl/logo/502_TV_Marti.png", TV Marti  | CU
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="501" tvg-name="TVGE Internacional" tvg-logo="https://www.m3u.cl/logo/501_TVGE_Internacional.png", TVGE Internacional  | GQ
@@ -4526,8 +4491,6 @@ https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
 http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="806" tvg-name="HispanTV" tvg-logo="https://www.m3u.cl/logo/806_HispanTV.png", HispanTV  | IR
 https://live1.presstv.com/live/hispan.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="657" tvg-name="15TV Sabinas" tvg-logo="https://www.m3u.cl/logo/657_15TV_Sabinas.png", 15TV Sabinas  | MX
-https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="642" tvg-name="8 NTV" tvg-logo="https://www.m3u.cl/logo/642_8_NTV.png", 8 NTV  | MX
 https://60417ddeaf0d9.streamlock.net:443/ntv/videontv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="658" tvg-name="ADN 40" tvg-logo="https://www.m3u.cl/logo/658_ADN_40.png", ADN 40  | MX
@@ -4548,10 +4511,6 @@ https://6011c5681d877.streamlock.net:1936/canal28/canal28/playlist.m3u8?Playlist
 https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="639" tvg-name="Canal 7 SLP" tvg-logo="https://www.m3u.cl/logo/639_Canal_7_SLP.png", Canal 7 SLP  | MX
 https://mvtvstream.com:444/live/603d046595b62/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="772" tvg-name="Canal Once Mexico" tvg-logo="https://www.m3u.cl/logo/772_Canal_Once_Mexico.png", Canal Once Mexico  | MX
-https://live2.canaloncelive.tv/oncemx/smil:oncemx.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="665" tvg-name="Canal Once Nacional" tvg-logo="https://www.m3u.cl/logo/665_Canal_Once_Nacional.png", Canal Once Nacional  | MX
-http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="634" tvg-name="Central FM" tvg-logo="https://www.m3u.cl/logo/634_Central_FM.png", Central FM  | MX
 https://5fe2654d6127d.streamlock.net:443/centralfm/smil:centralfm.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="653" tvg-name="Conecta TV" tvg-logo="https://www.m3u.cl/logo/653_Conecta_TV.png", Conecta TV  | MX
@@ -4560,8 +4519,6 @@ http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
 http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="637" tvg-name="Jalisco TV" tvg-logo="https://www.m3u.cl/logo/637_Jalisco_TV.png", Jalisco TV  | MX
 https://5fa5de1a545ae.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="652" tvg-name="Mexiquense TV" tvg-logo="https://www.m3u.cl/logo/652_Mexiquense_TV.png", Mexiquense TV  | MX
-https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="666" tvg-name="Milenio TV" tvg-logo="https://www.m3u.cl/logo/666_Milenio_TV.png", Milenio TV  | MX
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="667" tvg-name="Multimedios CDMX" tvg-logo="https://www.m3u.cl/logo/667_Multimedios_CDMX.png", Multimedios CDMX  | MX
@@ -4576,24 +4533,18 @@ https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?PlaylistM3
 http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="672" tvg-name="Presumiendo Mexico" tvg-logo="https://www.m3u.cl/logo/672_Presumiendo_Mexico.jpg", Presumiendo Mexico  | MX
 https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="643" tvg-name="Quiero TV" tvg-logo="https://www.m3u.cl/logo/643_Quiero_TV.jpg", Quiero TV  | MX
-https://quierotvlive.tk/httplive/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="673" tvg-name="RCG 1 Saltillo" tvg-logo="https://www.m3u.cl/logo/673_RCG_1_Saltillo.png", RCG 1 Saltillo  | MX
 http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="674" tvg-name="RCG 2 Saltillo" tvg-logo="https://www.m3u.cl/logo/674_RCG_2_Saltillo.png", RCG 2 Saltillo  | MX
 http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="675" tvg-name="RCG 3 Saltillo" tvg-logo="https://www.m3u.cl/logo/675_RCG_3_Saltillo.png", RCG 3 Saltillo  | MX
 http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="676" tvg-name="RTQ Queretaro" tvg-logo="https://www.m3u.cl/logo/676_RTQ_Queretaro.png", RTQ Queretaro  | MX
-http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="678" tvg-name="Sipse TV Cancun" tvg-logo="https://www.m3u.cl/logo/678_Sipse_TV_Cancun.jpg", Sipse TV Cancun  | MX
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="646" tvg-name="SIZART Canal 24 Zacatecas" tvg-logo="https://www.m3u.cl/logo/646_SIZART_Canal_24_Zacatecas.png", SIZART Canal 24 Zacatecas  | MX
 https://5ca9af4645e15.streamlock.net:443/zacatecas/videozacatecas/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="677" tvg-name="Telemar Campeche" tvg-logo="https://www.m3u.cl/logo/677_Telemar_Campeche.png", Telemar Campeche  | MX
 https://59d39900ebfb8.streamlock.net/8410/8410/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="679" tvg-name="Telemax Hermosillo" tvg-logo="https://www.m3u.cl/logo/679_Telemax_Hermosillo.png", Telemax Hermosillo  | MX
-http://s5.mexside.net:1935/telemax/telemax/.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="636" tvg-name="Teleplay" tvg-logo="https://www.m3u.cl/logo/636_Teleplay.png", Teleplay  | MX
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="680" tvg-name="Teleritmo" tvg-logo="https://www.m3u.cl/logo/680_Teleritmo.png", Teleritmo  | MX
@@ -4602,8 +4553,6 @@ https://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8?Playli
 https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="681" tvg-name="Transmedia TV Morelia" tvg-logo="https://www.m3u.cl/logo/681_Transmedia_TV_Morelia.png", Transmedia TV Morelia  | MX
 http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="683" tvg-name="TRC TV Campeche" tvg-logo="https://www.m3u.cl/logo/683_TRC_TV_Campeche.png", TRC TV Campeche  | MX
-https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="638" tvg-name="TV Lobo" tvg-logo="https://www.m3u.cl/logo/638_TV_Lobo.png", TV Lobo  | MX
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="655" tvg-name="TV4 Cultura" tvg-logo="https://www.m3u.cl/logo/655_TV4_Cultura.png", TV4 Cultura  | MX
@@ -4671,8 +4620,6 @@ https://stmv.panel.mivideo.pro/cinetv/cinetv/playlist.m3u8?PlaylistM3UCL
 https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="693" tvg-name="Best Cable TV" tvg-logo="https://www.m3u.cl/logo/693_Best_Cable_TV.png", Best Cable TV  | PE
 https://live.siete.us/bestcable/bestcable/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="695" tvg-name="BHTV" tvg-logo="https://www.m3u.cl/logo/695_BHTV.png", BHTV  | 
-http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="704" tvg-name="Central TV Chosica" tvg-logo="https://www.m3u.cl/logo/704_Central_TV_Chosica.png", Central TV Chosica  | PE
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="696" tvg-name="Cultura 24 TV" tvg-logo="https://www.m3u.cl/logo/696_Cultura_24_TV.png", Cultura 24 TV  | PE
