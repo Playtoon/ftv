@@ -244,7 +244,7 @@ https://tls.cdnz.cl/iflexus/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="102651" tvg-name="Pichilemu TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Pichilemu_TV.png" group-title="TV", Pichilemu TV
 http://play.streaminghd.cl:80/roberto886/roberto886/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="79754" tvg-name="Atacama TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Atacama_TV.png" group-title="TV", Atacama TV
-https://v2.tustreaming.cl/atacamatv/tracks-v1a1/mono.m3u8
+https://v2.tustreaming.cl/atacamatv/tracks-v1a1/mono.m3u8 https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Infantil" tvg-name="LOCOMOTION" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/LOCOMOTION.png" group-title="TV", LOCOMOTION
 http://locomotiontv.com/envivo/loco_ch/stream.m3u8
@@ -633,10 +633,6 @@ https://srv1.zcast.com.br/miguel/miguel/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvNXxVS.png" group-title="Chile", am Canal | HD | Antofagasta
 https://v2.tustreaming.cl/amtv/live1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FMFLFIL.png" group-title="Chile", Atacama TV | HD | Copiapó
-https://v2.tustreaming.cl/atacamatv/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aPA11ts.png" group-title="Chile", Holvoet TV | HD | Copiapó
 https://unlimited1-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
 
@@ -3809,8 +3805,6 @@ https://v2.tustreaming.cl/amtv/live1/index.m3u8?PlaylistM3UCL
 http://srv3.zcast.com.br/cristian5592/cristian5592/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="72" tvg-name="Holvoet TV" tvg-logo="https://www.m3u.cl/logo/72_Holvoet_TV.png", Holvoet TV  | CL
 https://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="319" tvg-name="Atacama Noticias TV" tvg-logo="https://www.m3u.cl/logo/319_Atacama_Noticias_TV.png", Atacama Noticias TV  | CL
-https://stmv1.zcastbr.com/atacamanoticias/atacamanoticias/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320" tvg-name="Atacama TV" tvg-logo="https://www.m3u.cl/logo/320_Atacama_TV.png", Atacama TV  | CL
 https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="784" tvg-name="Madero TV" tvg-logo="https://www.m3u.cl/logo/784_Madero_TV.png", Madero TV  | CL
@@ -4566,8 +4560,6 @@ https://livestreamcdn.net:444/ReformaTV/ReformaTV/playlist.m3u8?PlaylistM3UCL
 http://190.205.43.236:8080/hls/nginx.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="149" tvg-name="Televen" tvg-logo="https://www.m3u.cl/logo/149_Televen.jpg", Televen  | VE
 https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="150" tvg-name="TLT" tvg-logo="https://www.m3u.cl/logo/150_TLT.png", TLT  | VE
-https://vcp.myplaytv.com/tlthd/tlthd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="151" tvg-name="TVES" tvg-logo="https://www.m3u.cl/logo/151_TVES.png", TVES  | VE
 https://edge1o.live.opencaster.com/caster/erCkqDzdGzpj.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="152" tvg-name="TVO" tvg-logo="https://www.m3u.cl/logo/152_TVO.png", TVO  | VE
