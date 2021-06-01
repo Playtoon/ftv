@@ -206,7 +206,7 @@ https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="TV Perú" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Tv_Per%C3%BA.png" group-title="TV" ,TV PERU
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="La Tele Tuya Venezuela" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TLT%20play.png" group-title="TV" ,TLT (VEN)
-https://vcp.myplaytv.com/tlthd/tlthd/chunklist_w959587271.m3u8
+https://vcp.myplaytv.com/tlthd/tlthd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="Atacama Noticias" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Atacama%20noticias.png" group-title="TV", Atacama Noticias
 https://stmv1.zcastbr.com/atacamanoticias/atacamanoticias/playlist.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="La Popular TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/LA%20POPULAR%20TV.png" group-title="TV", LA POPULAR TV HD
