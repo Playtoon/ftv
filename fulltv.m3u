@@ -194,7 +194,7 @@ https://5d8d85cf2c308.streamlock.net:1936/live/605oPXx3/.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="Mírame TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Mirame-tv.png" group-title="TV" ,MIRAME TV
 https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="Azteca 7 Mexico" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/azteca-7_m.png" group-title="TV" ,AZTECA 7 (MEX)
-https://kmx79tt2djgyca3j.ezcdn383.net:8443/hls/yv4z9a.m3u8?s=p2QhWIWScOS_nFuJ-0zMVA&e=1617680352
+https://m3u-editor.com/serve/televito85/304571708
 #EXTINF:-1 tvg-id="Variado" tvg-name="Canal Capital Colombia" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal_Capital_logo.svg.png" group-title="TV" ,CANAL CAPITAL (COL)
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="Señal Colombia" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/se%C3%B1al%20colombia.jpg" group-title="TV" ,SEÑAL COLOMBIA HD
