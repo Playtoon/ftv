@@ -18,6 +18,8 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video
 https://g1.mc-hor.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
 #EXTINF:-1 tvg-id="Noticias" tvg-name="CN 24/7 Neuquen" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/CN%2024-7.jpg" group-title="TV", CN 24/7 Neuquen
 https://panel.dattalive.com/6605140/smil:6605140.smil/chunklist_w756124762_b1300000_slen.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6V8sh3v.png" group-title="Perú", TV Peru Noticias | SD
+https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 tvg-id="Noticias" tvg-name="TeleSUR Venezuela" tvg-id="TeleSUR" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TeleSUR-Logo.svg.png" group-title="TV", TeleSUR
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 #EXTINF:-1 tvg-id="Noticias" tvg-name="RTVE24" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RTVE24.png" group-title="TV", RTVE24
@@ -198,13 +200,13 @@ https://m3u-editor.com/serve/televito85/304571708
 #EXTINF:-1 tvg-id="Variado" tvg-name="Canal Capital Colombia" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal_Capital_logo.svg.png" group-title="TV" ,CANAL CAPITAL (COL)
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="Señal Colombia" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/se%C3%B1al%20colombia.jpg" group-title="TV" ,SEÑAL COLOMBIA HD
-https://streaming.enetres.net/85F57E947FBC4A648B8BE9DA1A772FA2024/live-1500/index.m3u8
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="Panamericana Perú" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/panamericana-tv_m.png" group-title="TV" ,PANAMERICANA PERU
-https://stream-03.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFqAREqZqrhUSPiF4qsRChi0)/dm/3/x774s7s/s/live-3.m3u8
+https://cdnhd.iblups.com/hls/ptv2.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="TV Perú" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Tv_Per%C3%BA.png" group-title="TV" ,TV PERU
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="La Tele Tuya Venezuela" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TLT%20play.png" group-title="TV" ,TLT (VEN)
-https://vcp.myplaytv.com/tlthd/tlthd/chunklist_w740769207.m3u8
+https://vcp.myplaytv.com/tlthd/tlthd/chunklist_w959587271.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="Atacama Noticias" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Atacama%20noticias.png" group-title="TV", Atacama Noticias
 https://stmv1.zcastbr.com/atacamanoticias/atacamanoticias/playlist.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="La Popular TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/LA%20POPULAR%20TV.png" group-title="TV", LA POPULAR TV HD
@@ -1867,19 +1869,11 @@ https://m3u-editor.com/serve/televito85/299163939
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nBvK2Nd.png" group-title="Colombia", Noticias Caracol | HD | Bogotá
 https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Tcnx3uk.png" group-title="Colombia", Señal Colombia | HD | Bogotá
-https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
-
 #EXTINF: -1 tvg-logo="https://i.ibb.co/NmwhJNm/RCN-TV.png" group-title="Colombia", RCN | HD | Bogotá
 https://m3u-editor.com/serve/televito85/299169694
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/l1zzq8S.png" group-title="Colombia", Canal Institucional | HD | Bogotá
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iN1iXqN.png" group-title="Colombia", Canal Capital | HD | Bogotá
-https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aWvKJzr.png" group-title="Colombia", Canal Visión Dorada | SD | Caldas
 https://movil.ejeserver.com/live/visiondorada.m3u8
 
@@ -2216,22 +2210,11 @@ https://m3u-editor.com/serve/televito85/298500318
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Jrtwnsk.png" group-title="Perú", Willax | HD 
 https://m3u-editor.com/serve/televito85/298500319
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fJqimK3.png" group-title="Perú", TV Peru | SD
-https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6V8sh3v.png" group-title="Perú", TV Peru Noticias | SD
-https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PIEkgqo.jpg" group-title="Perú", Unitel | HD 
 https://cp.sradiotv.com:1936/8078/8078/chunklist_w428381417.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TMKkxue.png" group-title="Perú", Exitosa TV | HD 
 https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/v9HdU7z.png" group-title="Perú", Panamericana | SD 
-https://cdnhd.iblups.com/hls/ptv2.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TBn4g0d.png" group-title="Perú", Antares TV Tarapoto | SD
 https://5c3fb01839654.streamlock.net:554/iptvantares/liveantarestv/playlist.m3u8
  
@@ -2316,10 +2299,6 @@ https://i.imgur.com/17muPsg.mp4
 https://livestream.streamingconnect.com/hls/vtvweb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I5BYJ1s.png" group-title="Venezuela", Corazón Llanero| SD
 https://vcp.myplaytv.com/coll/coll/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sR0jZEk.png" group-title="Venezuela", Tele Tuya | SD 
-https://vcp.myplaytv.com/tlthd/tlthd/chunklist_w959587271.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z1OgEJD.png" group-title="Venezuela", Televisora de Oriente| SD 
 http://vcp1.myplaytv.com:1935/tvo/tvo/chunklist_w1157017918.m3u8
 
@@ -3976,8 +3955,6 @@ http://167.114.133.205:1935/live/pinguinotv/playlist.m3u8?PlaylistM3UCL
 https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="494" tvg-name="UCL Televisión LATAM" tvg-logo="https://www.m3u.cl/logo/494_UCL_Television_LATAM.png", UCL Televisión LATAM  | UY
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="495" tvg-name="Canal Capital" tvg-logo="https://www.m3u.cl/logo/495_Canal_Capital.png", Canal Capital  | CO
-https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="496" tvg-name="Canal IPE" tvg-logo="https://www.m3u.cl/logo/496_Canal_IPE.png", Canal IPE  | PE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="502" tvg-name="TV Marti" tvg-logo="https://www.m3u.cl/logo/502_TV_Marti.png", TV Marti  | CU
@@ -4235,8 +4212,6 @@ http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
 https://edge.teveo.com.co/live/AeAAAgAJAAFFA1IAyADIQCAAAAAAAAAAAl-Fpqm1KwItAAAA/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="2" tvg-name="Zapping Music" tvg-logo="https://www.m3u.cl/logo/2_Zapping_Music.png", Zapping Music  | CL
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="115" tvg-name="Canal Capital" tvg-logo="https://www.m3u.cl/logo/115_Canal_Capital.png", Canal Capital  | CO
-https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="116" tvg-name="Canal CNC Medellin" tvg-logo="https://www.m3u.cl/logo/116_Canal_CNC_Medellin.jpg", Canal CNC Medellin  | CO
 http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="117" tvg-name="Canal CNC Pasto" tvg-logo="https://www.m3u.cl/logo/117_Canal_CNC_Pasto.png", Canal CNC Pasto  | CO
@@ -4263,8 +4238,6 @@ http://wmoy8w6ky2a7-hls-live.5centscdn.com/ctvbaq/live/chunks.m3u8?PlaylistM3UCL
 http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="141" tvg-name="Melody Channel TV" tvg-logo="https://www.m3u.cl/logo/141_Melody_Channel_TV.jpg", Melody Channel TV  | CO
 http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="128" tvg-name="Señal Colombia" tvg-logo="https://www.m3u.cl/logo/128_Senal_Colombia.png", Señal Colombia  | CO
-https://streaming.enetres.net/85F57E947FBC4A648B8BE9DA1A772FA2024/live-1500/chunklist_w1469292640.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="129" tvg-name="Suram" tvg-logo="https://www.m3u.cl/logo/129_Suram.jpg", Suram  | CO
 https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="130" tvg-name="TDI" tvg-logo="https://www.m3u.cl/logo/130_TDI.jpg", TDI  | CO
@@ -4289,8 +4262,6 @@ http://179.1.7.198:1935/live/TVAgroHD.stream_360p/chunklist_w842594670.m3u8?Play
 https://live-edge-rbx-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-1500/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="140" tvg-name="Zoom TV" tvg-logo="https://www.m3u.cl/logo/140_Zoom_TV.jpg", Zoom TV  | CO
 https://liveingesta118.cdnmedia.tv/canalzoomtvlive/smil:especialesweb01.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="495" tvg-name="Canal Capital" tvg-logo="https://www.m3u.cl/logo/495_Canal_Capital.png", Canal Capital  | CO
-https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="112" tvg-name="Amordiscos TV" tvg-logo="https://www.m3u.cl/logo/112_Amordiscos_TV.png", Amordiscos TV  | CO
 https://5b464b69d264e.streamlock.net:/Channels_live/ngrp:amordiscos_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="36" tvg-name="Telemusica" tvg-logo="https://www.m3u.cl/logo/36_Telemusica.png", Telemusica  | CO
