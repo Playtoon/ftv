@@ -247,7 +247,7 @@ http://play.streaminghd.cl:80/roberto886/roberto886/playlist.m3u8?PlaylistM3UCL
 https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Infantil" tvg-name="LOCOMOTION" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/LOCOMOTION.png" group-title="TV", LOCOMOTION
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Infantil" tvg-name="AZTV" tvg-logo="https://lh3.googleusercontent.com/-Y39xxVnyC-s/YGO9nUlOTfI/AAAAAAABBEA/Ibwzbtm-67UtK78dc75JoB1OPmUHFnh5ACK8BGAsYHg/s512/2021-03-30.png" group-title="TV", AZ TV
 http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Infantil" tvg-logo="https://lh3.googleusercontent.com/-ZMval3cz_EU/YF5ScdbzL4I/AAAAAAABA-E/rzacWcIi1A4jxiQ7CtFqpBhFH9HLASs4wCK8BGAsYHg/s512/2021-03-26.jpg" group-title="TV", PLANETA JR
@@ -1628,10 +1628,6 @@ https://m3u-editor.com/serve/televito85/299190280
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/76sJQeC.png" group-title="Familiares", ETC TV | SD | Chile
 https://m3u-editor.com/serve/televito85/300679461
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eq9q8KW.png" group-title="Familiares", Locomotion | SD | República Dominicana 
-http://51.222.85.85:81/hls/loco/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uXxAWGB.png" group-title="Familiares", Magic Kids| SD | Argentina
 https://live.admefy.com/live/240/clean_peach_ef224.m3u8
 
@@ -3314,8 +3310,6 @@ https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
 http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="47" tvg-name="CSTV" tvg-logo="https://www.m3u.cl/logo/47_CSTV.png", CSTV  | CL
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="50" tvg-name="Locomotion" tvg-logo="https://www.m3u.cl/logo/50_Locomotion.png", Locomotion  | AR
-http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="206" tvg-name="Paka Paka" tvg-logo="https://www.m3u.cl/logo/206_Paka_Paka.jpg", Paka Paka  | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="305" tvg-name="10 TV" tvg-logo="https://www.m3u.cl/logo/305_10_TV.png", 10 TV  | AR
@@ -3632,8 +3626,6 @@ https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?Playlist
 https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="792" tvg-name="Etc TV" tvg-logo="https://www.m3u.cl/logo/792_Etc_TV.png", Etc TV  | CL
 https://unlimited1-cl-movistar.dps.live/etctv/etctv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="50" tvg-name="Locomotion" tvg-logo="https://www.m3u.cl/logo/50_Locomotion.png", Locomotion  | AR
-http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="461" tvg-name="Planeta Junior" tvg-logo="https://www.m3u.cl/logo/461_Planeta_Junior.jpg", Planeta Junior  | ES
 https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="200" tvg-name="Pequeradio TV" tvg-logo="https://www.m3u.cl/logo/200_Pequeradio_TV.jpg", Pequeradio TV  | ES
@@ -3748,8 +3740,6 @@ https://v2.tustreaming.cl/amtv/live1/index.m3u8?PlaylistM3UCL
 http://srv3.zcast.com.br/cristian5592/cristian5592/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="72" tvg-name="Holvoet TV" tvg-logo="https://www.m3u.cl/logo/72_Holvoet_TV.png", Holvoet TV  | CL
 https://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="320" tvg-name="Atacama TV" tvg-logo="https://www.m3u.cl/logo/320_Atacama_TV.png", Atacama TV  | CL
-https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="784" tvg-name="Madero TV" tvg-logo="https://www.m3u.cl/logo/784_Madero_TV.png", Madero TV  | CL
 https://videostreaming.cloudserverlatam.com:443/8040/8040/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321" tvg-name="Huasco TV" tvg-logo="https://www.m3u.cl/logo/321_Huasco_TV.jpg", Huasco TV  | CL
