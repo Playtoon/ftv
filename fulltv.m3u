@@ -455,7 +455,7 @@ http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Música" tvg-name="RETRO MUSIC TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RETRO%20MUSIC%20TV.png" group-title="TV", RETRO MUSIC TV HD
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="Música" tvg-name="U TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/U%20TV.jpg" group-title="TV", U TV
-https://edge214.rcs-rds.ro/V4-3315019-8922549f79e408d221d09cd56da2c6b1-2855520982-0-1622676719-411-utv/utv/utvmq.stream/chunklist.m3u8
+https://edge214.rcs-rds.ro/V4-3315019-8922549f79e408d221d09cd56da2c6b1-2855520982-0-1622676719-411-utv/utv/utvlq.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="Música" tvg-name="U TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/U%20TV.jpg" group-title="TV", U TV HD
 https://edge214.rcs-rds.ro/V4-8813078-4c7a863fcc63dac91bf8b1c9651e234e-2855520982-0-1622675975-411-utv/utv/utvhq.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="Música" tvg-name="POWER HD" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/POWER.png" group-title="TV", POWER HD
