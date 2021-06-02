@@ -463,9 +463,7 @@ https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Música" tvg-name="TERRAMIA TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TERRAMIA%20TV.png" group-title="TV", TERRAMIA TV
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Música" tvg-name="MUSIC TOP" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/MUSIC%20TOP.png" group-title="TV", MUSIC TOP
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Música" tvg-name="MUSIC TOP" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/MUSIC%20TOP.png" group-title="TV", MUSIC TOP HD
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Música" tvg-name="RETRO PLUS MUSIC" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="TV", RETRO PLUS MUSIC
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="Música" tvg-name="RETRO PLUS MUSIC 2" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="TV", RETRO PLUS MUSIC 2
