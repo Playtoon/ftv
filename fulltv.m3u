@@ -463,7 +463,7 @@ https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Música" tvg-name="TERRAMIA TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TERRAMIA%20TV.png" group-title="TV", TERRAMIA TV
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Música" tvg-name="MUSIC TOP" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/MUSIC%20TOP.png" group-title="TV", MUSIC TOP
-https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w288048170_b2028000_sleng.m3u8
 #EXTINF:-1 tvg-id="Música" tvg-name="RETRO PLUS MUSIC" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="TV", RETRO PLUS MUSIC
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="Música" tvg-name="RETRO PLUS MUSIC 2" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="TV", RETRO PLUS MUSIC 2
@@ -3223,8 +3223,6 @@ https://live.autistici.org/hls/vibratelevision.m3u8?PlaylistM3UCL
 https://live1.presstv.com/live/hispan.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="796" tvg-name="Euro Indie Music" tvg-logo="https://www.m3u.cl/logo/796_Euro_Indie_Music.png", Euro Indie Music  | GB
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="24" tvg-name="Music Top" tvg-logo="https://www.m3u.cl/logo/24_Music_Top.png", Music Top  | AR
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="521" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://www.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png", Recuerdos Retro Radio TV  | CL
 https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="847" tvg-name="Tango TV" tvg-logo="https://www.m3u.cl/logo/logo-M3U-negro-cl.png", Tango TV  | AR
@@ -3603,8 +3601,6 @@ http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/3.m3u8?PlaylistM3UCL
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="11" tvg-name="Mix 24-7 Baladas" tvg-logo="https://www.m3u.cl/logo/11_Mix_24_7_Baladas.png", Mix 24-7 Baladas  | CL
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/6.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="24" tvg-name="Music Top" tvg-logo="https://www.m3u.cl/logo/24_Music_Top.png", Music Top  | AR
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="26" tvg-name="RCKStudio" tvg-logo="https://www.m3u.cl/logo/26_RCKStudio.png", RCKStudio  | CL
 https://inliveserver.com:1936/11530/11530/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="36" tvg-name="Telemusica" tvg-logo="https://www.m3u.cl/logo/36_Telemusica.png", Telemusica  | CO
