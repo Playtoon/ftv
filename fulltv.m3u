@@ -354,9 +354,9 @@ https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-logo="https://i.imgur.com/zIMRPHL.png" group-title="TV", Horrorfy olympusat
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 
-#EXTINF:-1 tvg-id="Deportes" tvg-name="Sony Competencias" tvg-logo="" group-title="TV", Prueba canales
+#EXTINF:-1 tvg-id="794" tvg-name="Canal CNR Jujuy" tvg-logo="https://www.m3u.cl/logo/794_Canal_CNR_Jujuy.png" group-title="TV", CNR TV
 https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
-#EXTINF:-1 tvg-id="Deportes" tvg-name="Sony Competencias" tvg-logo="" group-title="TV", Prueba canales2
+#EXTINF:-1 tvg-id="857" tvg-name="Aster" tvg-logo="https://www.m3u.cl/logo/857_Aster.png" group-title="TV", Aster
 http://96.30.193.226:81/hls/canalaster.m3u8
 #EXTINF:-1 tvg-id="Deportes" tvg-name="Sony Competencias" tvg-logo="" group-title="TV", Prueba canales3
 https://live.autistici.org/hls/vibratelevision.m3u8?PlaylistM3UCL
@@ -365,7 +365,7 @@ https://m3u-editor.com/serve/televito85/299133664
 #EXTINF:-1 tvg-id="Deportes" tvg-name="Sony Competencias" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/sony%20competencias.png" group-title="TV", Sony Competencias
 https://sony-competencias-1.roku.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 tvg-id="Deportes" tvg-name="TyC Sports" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TyC_Sports_logo.svg.png" group-title="TV", TyC Sports
-https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8
+https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 #EXTINF:-1 tvg-id="Deportes" tvg-name="Espn 2" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/espn2.gif" group-title="TV", ESPN 2
 https://sv.tsnt.xyz/espn/espn2o_sur.m3u8?NTc0NTExNTg=
 #EXTINF:-1 tvg-id="Deportes" tvg-name="DeporTV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/dportv.jpg" group-title="TV", DeporTV
@@ -711,9 +711,6 @@ http://evo.eltelon.com:1935/live/tv4-television/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yViCCIW.png" group-title="Chile", Club TV | SD | Santa Juana
 https://paneltv.online:1936/8030/8030/chunklist_w920304718.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zkEOJj3.png" group-title="Chile", Exprezion TV | HD | Los Álamos
-https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tjpBqc7.png" group-title="Chile", Temuco Televisión| SD | Temuco
 https://5d1ca66d2d698.streamlock.net:1936/8038/8038/playlist.m3u8
 
@@ -795,40 +792,13 @@ https://m3u-editor.com/serve/televito85/304571989
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/W3rqd4P/Las-Estrellas.png" group-title="Cine y Series", Las Estrellas  | SD | Alt.
 https://m3u-editor.com/serve/televito85/304571990
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zLT9RmC.png" group-title="Cine y Series",Zee Mundo Bollywood | HD | India
-https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2upXrAZ.png" group-title="Cine y Series", ZPTV | HD | Chile
 https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tuJMNzd.png" group-title="Cine y Series", Life TV | HD | España
-http://media.profesionalhosting.com:1935/8201/8201/chunklist_w1047512158.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hgJhU1u.png" group-title="Cine y Series", Media TV| HD | España
-http://media.profesionalhosting.com:1935/8175/8175/.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Spc1n7c.png" group-title="Cine y Series", Red TV| HD | España
 http://media.profesionalhosting.com:1935/8437/8437/chunklist_w1060324053.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/elXndpw.png" group-title="Cine y Series", Rakuten  TV Comedias | HD | España
-https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mV4smeb.png" group-title="Cine y Series", Butaca TV | HD | España
-https://veranda-butacatv-1-es.samsung.wurl.com/manifest/3000.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CPSCPkI.jpg" group-title="Cine y Series", Lim | SD | Paraguay
 https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YgHu53w.png" group-title="Cine y Series", Top Cine olympusat | HD | Estados Unidos
-https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_5.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c7bRHaL.png" group-title="Cine y Series", Cine Sureño olympusat | HD | Estados Unidos
-https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master_4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5ONURCJ.png" group-title="Cine y Series", Juntos olympusat| HD | Estados Unidos
-https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zIMRPHL.png" group-title="Cine y Series", Horrorfy olympusat | HD | Estados Unidos
-https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z9v5ETn.png" group-title="Pluto TV", -Pluto TV-
@@ -1340,8 +1310,6 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 https://live1.presstv.com/live/hispan.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ic4B37s.png" group-title="Internacionales", TVGE Internacional | SD | Guinea Ecuatorial
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/989hNim.png" group-title="Internacionales", Latinos Up!| HD | Estados Unidos
-https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Pk37AN.png" group-title="Internacionales", UCL | HD | Argentina
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SeiG5UX.png" group-title="Internacionales", Rusia Today Español| HD | Rusia 
@@ -3464,18 +3432,12 @@ https://unlimited1-cl-movistar.dps.live/uct/uct.smil/playlist.m3u8?PlaylistM3UCL
 https://live1.presstv.com/live/hispan.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="324" tvg-name="El Galpon 80" tvg-logo="https://www.m3u.cl/logo/324_El_Galpon_80.png", El Galpon 80 * | CL
 https://streamyes.alsolnet.com/wtmradio/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="470" tvg-name="Zee Mundo" tvg-logo="https://www.m3u.cl/logo/470_Zee_Mundo.png", Zee Mundo  | CL
-https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="480" tvg-name="EvaStream" tvg-logo="https://www.m3u.cl/logo/480_EvaStream.png", EvaStream  | CL
 https://5e9199339b303.streamlock.net:8100/bajocerovideo/bajocerovideo/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="484" tvg-name="Infinita TV Premium" tvg-logo="https://www.m3u.cl/logo/484_Infinita_TV_Premium.png", Infinita TV Premium  | US
 https://rtmp02.portalexpress.es/infinitatv/infinitatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="474" tvg-name="Latinos Up! TV" tvg-logo="https://www.m3u.cl/logo/474_Latinos_Up__TV.png", Latinos Up! TV  | US
-https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="792" tvg-name="Etc TV" tvg-logo="https://www.m3u.cl/logo/792_Etc_TV.png", Etc TV  | CL
 https://unlimited1-cl-movistar.dps.live/etctv/etctv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="67" tvg-name="Exprezion TV" tvg-logo="https://www.m3u.cl/logo/67_Exprezion_TV.png", Exprezion TV  | CL
-https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="69" tvg-name="G Vision" tvg-logo="https://www.m3u.cl/logo/69_G_Vision.png", G Vision  | CL
 https://tls.cdnz.cl/escgabrielamistral/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="68" tvg-name="Peña Visión TV" tvg-logo="https://www.m3u.cl/logo/68_Pena_Vision_TV.png", Peña Visión TV  | CL
