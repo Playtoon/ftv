@@ -412,9 +412,9 @@ https://tls.cdnz.cl/umagtv2/smil:umagtv2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Cultural" tvg-name="Chile Channel" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Chile%20Channel.png" group-title="TV", Chile Channel
 https://v1.tustreaming.cl:19360/chilechannel/chilechannel.m3u8
 #EXTINF:-1 tvg-id="Cultural" tvg-name="tevex" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/tevex.png" group-title="TV", tevex
-https://v2.tustreaming.cl/tevex/index.m3u8?PlaylistM3UCL
+https://v4.tustreaming.cl/tevexinter/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Cultural" tvg-name="CI TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/CI%20TV.png" group-title="TV", CI TV
-https://live-edge-lon-1.cdn.enetres.net/85F57E947FBC4A648B8BE9DA1A772FA2023/live-1500/index.m3u8?PlaylistM3UCL
+https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
 #EXTINF:-1 tvg-id="Cultural" tvg-name="UAO Play" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/UAO%20Play.jpg" group-title="TV", UAO Play
 https://live-edge-rbx-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-1500/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Cultural" tvg-name="CGTN" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/CGTN_Espanol.png" group-title="TV", CGTN
@@ -557,10 +557,6 @@ http://unlimited6-cl.dps.live/contivision/contivision.smil/contivision/livestrea
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/nCw8qUd.png" group-title="Chile", Canal 13 | HD | Santiago
 https://m3u-editor.com/serve/televito85/298499897
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pjs5csg.png" group-title="Chile", Tevex | HD | Santiago
-https://v2.tustreaming.cl/tevex/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/T1NANrm.png" group-title="Chile", ARAB TV | FHD | Chile
 https://livefocamundo.com:8081/arabtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W4eGPqG.png" group-title="Chile", La Tercera TV | SD | Santiago
@@ -3468,8 +3464,6 @@ http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_gmt_-5_qko_43090_defa
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="440" tvg-name="LosDesterrados.cl" tvg-logo="https://www.m3u.cl/logo/440_LosDesterrados_cl.jpg", LosDesterrados.cl  | CL
 https://5e3483cba9114.streamlock.net/losdesterrados.cl/losdesterrados.cl/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="438" tvg-name="tevex" tvg-logo="https://www.m3u.cl/logo/438_tevex.png", tevex  | CL
-https://v2.tustreaming.cl/tevex/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="436" tvg-name="TV Salud" tvg-logo="https://www.m3u.cl/logo/436_TV_Salud.png", TV Salud  | CL
 https://srv3.zcast.com.br/mastermedia/mastermedia/tvsalud.cl.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="437" tvg-name="Campo Abierto TV" tvg-logo="https://www.m3u.cl/logo/437_Campo_Abierto_TV.png", Campo Abierto TV  | CL
@@ -3873,8 +3867,6 @@ http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8?PlaylistM3UCL
 http://66.240.236.25:1936/cncpasto/cncpasto/chunklist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="118" tvg-name="Canal Doce Sincelejo" tvg-logo="https://www.m3u.cl/logo/118_Canal_Doce_Sincelejo.png", Canal Doce Sincelejo  | CO
 http://api.new.livestream.com/accounts/27724665/events/8376416/live.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="120" tvg-name="Canal Institucional" tvg-logo="https://www.m3u.cl/logo/120_Canal_Institucional.png", Canal Institucional  | CO
-https://live-edge-lon-1.cdn.enetres.net/85F57E947FBC4A648B8BE9DA1A772FA2023/live-1500/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="119" tvg-name="Canal Trece" tvg-logo="https://www.m3u.cl/logo/119_Canal_Trece.png", Canal Trece  | CO
 https://liveingesta118.cdnmedia.tv/canaltrecelive/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="121" tvg-name="Canal TRO" tvg-logo="https://www.m3u.cl/logo/121_Canal_TRO.png", Canal TRO  | CO
