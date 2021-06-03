@@ -587,7 +587,7 @@ http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uSp9hWW.png" group-title="Chile", CNN Chile | HD | Santiago 
 https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AwzIEPu.png" group-title="Chile", Tele 13 | HD
-https://www.youtube.com/watch?v=f2t3330_mBk
+https://tvps.000webhostapp.com/usuarios/tele13chile.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fwboImE.png" group-title="Chile", Tendencias Prime 31 | HD | Ñuñoa
 https://v2.tustreaming.cl/tendenciastv/live1/tracks-v1a1/mono.m3u8
 
