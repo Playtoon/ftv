@@ -2171,10 +2171,6 @@ https://live.siete.us:1991/mascumbiatvonline/mascumbiatvonline/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t5x4qH1.png" group-title="Musicales", Telemúsica | HD |Argentina
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oL08hHh.png" group-title="Musicales", Music Top| HD |Argentina
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w288048170_b2028000_sleng.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pFpolwD.png" group-title="Musicales", Teleritmo| SD |México
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
