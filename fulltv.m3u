@@ -504,7 +504,7 @@ https://inliveserver.com:1936/11530/11530/playlist.m3u8
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Música" tvg-name="TuTv Chile" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Tu%20tv%20music.png" group-title="TV", TU TV MUSIC
 https://tvstreaming.cl:1936/tutv/tutv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Música" tvg-name"RU TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RU%20TV.png" group-title="TV", Ruido TV
+#EXTINF:-1 tvg-id="Música" tvg-name"RU TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RU%20TV.png" group-title="TV", Ruidos TV
 https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Variado" tvg-name="ClickTv" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/ClickTv.png" group-title="TV", ClickTv
@@ -643,10 +643,6 @@ https://livefocamundo.com:8081/cdlcyerko/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lSHiAWz.png" group-title="Chile", Canal VTV| HD | Quillota
 https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IwJYqfE.png" group-title="Chile", Canal TUTV| HD | Quillota
-https://tvstreaming.cl:1936/tutv/tutv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZSpzX1F.png" group-title="Chile", TV Quinta Región | HD | Valparaíso
 https://srv1.zcast.com.br/daniel2525/daniel2525/playlist.m3u8
 
@@ -2506,11 +2502,7 @@ https://unlimited6-cl.dps.live/radioztv/radioztv.smil/playlist.m3u8
 https://inliveserver.com:1936/11012/11012/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7sQUpIn.png" group-title="Radios Chilenas Con Video", Romántica TV| SD | Ñuñoa
-http://unlimited6-cl.dps.live/romanticatv/romanticatv.smil/romanticatv/livestream1/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Vi9orzr.png" group-title="Radios Chilenas Con Video", Ruidos TV| SD | Santiago
-https://593b04c4c5670.streamlock.net/8038/8038/playlist.m3u8
- 
+http://unlimited6-cl.dps.live/romanticatv/romanticatv.smil/romanticatv/livestream1/chunks.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jL7zgG5.png" group-title="Radios Chilenas Con Video", Tele Angol FM | SD | Angol
 http://unlimited1-cl.dps.live/teleangolradio/teleangolradio.smil/teleangolradio/livestream1/chunks.m3u8
 
@@ -3227,8 +3219,6 @@ https://5eae379fb77bb.streamlock.net:443/8034/8034/playlist.m3u8?PlaylistM3UCL
 https://eu1.servers10.com:8081/8140/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="12" tvg-name="Awka" tvg-logo="https://www.m3u.cl/logo/12_Awka.png", Awka * | AR
 https://stmv1.questreaming.com/awkasonido/awkasonido/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="13" tvg-name="Ruidos TV" tvg-logo="https://www.m3u.cl/logo/13_Ruidos_TV.png", Ruidos TV * | CL
-https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="796" tvg-name="Euro Indie Music" tvg-logo="https://www.m3u.cl/logo/796_Euro_Indie_Music.png", Euro Indie Music * | GB
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="849" tvg-name="High Music" tvg-logo="https://www.m3u.cl/logo/849_High_Music.jpg", High Music * | CL
@@ -3545,8 +3535,6 @@ https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.
 https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="43" tvg-name="Turbo Mix TV" tvg-logo="https://www.m3u.cl/logo/43_Turbo_Mix_TV.png", Turbo Mix TV  | PE
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="25" tvg-name="TuTv Quillota" tvg-logo="https://www.m3u.cl/logo/25_TuTv_Quillota.png", TuTv Quillota  | CL
-https://tvstreaming.cl:1936/tutv/tutv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="19" tvg-name="TV Exitos" tvg-logo="https://www.m3u.cl/logo/19_TV_Exitos.png", TV Exitos  | DO
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="34" tvg-name="TV vconline.cl" tvg-logo="https://www.m3u.cl/logo/34_TV_vconline_cl.png", TV vconline.cl  | CL
