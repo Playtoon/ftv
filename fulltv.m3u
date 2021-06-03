@@ -588,12 +588,6 @@ http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8
 https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AwzIEPu.png" group-title="Chile", Tele 13 | HD
 https://www.youtube.com/watch?v=f2t3330_mBk
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sL057W6.png" group-title="Chile", Cámara De Diputados| FHD | Valparaíso
-http://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y8qHQUw.png" group-title="Chile", TV Senado | FHD | Valparaíso
-https://janus-tv-ply.senado.cl/playlist/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fwboImE.png" group-title="Chile", Tendencias Prime 31 | HD | Ñuñoa
 https://v2.tustreaming.cl/tendenciastv/live1/tracks-v1a1/mono.m3u8
 
@@ -2671,10 +2665,6 @@ https://unlimited3-cl.dps.live/biobiovaldivia/aac/icecast.audio
 
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/H245HFn.png" group-title="Radios Chilenas", Bio Bio Valparaiso (96.7 FM)
 https://unlimited3-cl.dps.live/biobiovalparaiso/aac/icecast.audio
-
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/6w6Nusa.png" group-title="Radios Chilenas", Cámara de Diputados (Online)
-http://camara.03.wl.cdnz.cl/camara5/live/playlist.m3u8
-
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/qAtdVTf.png" group-title="Radios Chilenas", Canal 95 (88.1 FM Antofagasta)
 https://streaming.conectaapp.cl/canal95
 
@@ -3241,10 +3231,6 @@ https://unlimited2-cl.dps.live/tvu/tvu.smil/playlist.m3u8?PlaylistM3UCL
 https://unlimited2-cl.dps.live/uatv/uatv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="57" tvg-name="Ufrovision" tvg-logo="https://www.m3u.cl/logo/57_Ufrovision.png", Ufrovision  | CL
 https://mdstrm.com/live-stream-playlist/580a80b827de0ae2086ea6d8.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="445" tvg-name="Camara de Diputados" tvg-logo="https://www.m3u.cl/logo/445_Camara_de_Diputados.png", Camara de Diputados  | CL
-https://camara.03.cl.cdnz.cl/camara19/live/chunklist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="444" tvg-name="TV Senado" tvg-logo="https://www.m3u.cl/logo/444_TV_Senado.png", TV Senado  | CL
-https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="441" tvg-name="Teatro del Lago" tvg-logo="https://www.m3u.cl/logo/441_Teatro_del_Lago.png", Teatro del Lago  | CL
 https://mdstrm.com/live-stream-playlist/5eee24e3ed5b6d0761a11a31.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="448" tvg-name="TVN 24 Horas 2" tvg-logo="https://www.m3u.cl/logo/448_TVN_24_Horas_2.png", TVN 24 Horas 2  | CL
@@ -3320,9 +3306,7 @@ https://unlimited6-cl.dps.live/vox/vox.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="76" tvg-name="Canal 2 de San Antonio" tvg-logo="https://www.m3u.cl/logo/76_Canal_2_de_San_Antonio.png", Canal 2 de San Antonio  | CL
 http://unlimited6-cl.dps.live/canal2/canal2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="333" tvg-name="Plaza TV" tvg-logo="https://www.m3u.cl/logo/333_Plaza_TV.jpg", Plaza TV  | CL
-https://tvstreaming.cl:1936/8158/8158/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="336" tvg-name="Tendencias TV" tvg-logo="https://www.m3u.cl/logo/336_Tendencias_TV.jpg", Tendencias TV  | CL
-https://v2.tustreaming.cl/tendenciastv/live1/index.m3u8?PlaylistM3UCL
+https://tvstreaming.cl:1936/8158/8158/playlist.m3u8?PlaylistM3UCLCL
 #EXTINF:-1 tvg-id="337" tvg-name="Buin Somos Todos" tvg-logo="https://www.m3u.cl/logo/337_Buin_Somos_Todos.png", Buin Somos Todos  | CL
 https://bst.buin.cl/0.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="339" tvg-name="GTV" tvg-logo="https://www.m3u.cl/logo/339_GTV.png", GTV  | CL
