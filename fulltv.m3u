@@ -1574,10 +1574,6 @@ http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tktkokI.png" group-title="Argentina", Canal Rural | SD | Buenos Aires 
 https://cda2.streaming.ws/elrural/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/M4pdL75.png" group-title="Argentina", Chacra TV | SD | Buenos Aires
-http://s8.stweb.tv:1935/chacra/live/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pwPbESx.png" group-title="Argentina", Sicardi TV | HD | Villa Garibaldi
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
@@ -3078,8 +3074,6 @@ https://cda2.alsolnet.com/elrural/live/playlist.m3u8?PlaylistM3UCL
 https://5f700d5b2c46f.streamlock.net/catamarcatelevision/catamarcatelevision/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="815" tvg-name="Celta TV" tvg-logo="https://www.m3u.cl/logo/815_Celta_TV.jpg", Celta TV  | AR
 https://vivo.solumedia.com:19360/celta/celta.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="278" tvg-name="Chacra TV" tvg-logo="https://www.m3u.cl/logo/278_Chacra_TV.png", Chacra TV  | AR
-https://s8.stweb.tv/chacra/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="280" tvg-name="CL3 Cablevision" tvg-logo="https://www.m3u.cl/logo/280_CL3_Cablevision.png", CL3 Cablevision  | AR
 http://videostream.shockmedia.com.ar:1935/cl3cable/cl3cable/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="281" tvg-name="El 10 TV Salta" tvg-logo="https://www.m3u.cl/logo/281_El_10_TV_Salta.png", El 10 TV Salta  | AR
