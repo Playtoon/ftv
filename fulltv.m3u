@@ -494,6 +494,10 @@ http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/4.m3u8?PlaylistM3UCL
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Música" tvg-name="Mix 24-7 Vintage" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Mix%2024-7.png" group-title="TV", Mix 24-7 Actual
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/6.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="469" tvg-name="Mix 24-7 Conciertos Live" tvg-logo="https://www.m3u.cl/logo/469_Mix_24_7_Conciertos_Live.png", Mix 24-7 Conciertos
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/7.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="468" tvg-name="Mix 24-7 Puro Rock" tvg-logo="https://www.m3u.cl/logo/468_Mix_24_7_Puro_Rock.png", Mix 24-7 Puro Rock
+http://159.69.56.148:25461/live/PuroRock/PuroRock24-7.com/25.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Música" tvg-name="RCKStudio" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RCK%20STUDIO.png" group-title="TV", RCK STUDIO
 https://inliveserver.com:1936/11530/11530/playlist.m3u8
 #EXTINF:-1 tvg-id="Música" tvg-name="Zapping TV Music" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/ZAPPING%20MUSIC.png" group-title="TV", ZAPPING MUSIC
