@@ -610,7 +610,7 @@ https://unlimited6-cl.dps.live/atv/atv.smil/atv/livestream2/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WvNXxVS.png" group-title="Chile", am Canal | HD | Antofagasta
 https://v2.tustreaming.cl/amtv/live1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aPA11ts.png" group-title="Chile", Holvoet TV | HD | Copiapó
-https://unlimited1-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
+https://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I8DXpfo.png" group-title="Chile", TV Elqui | HD | La Serena
 https://593b04c4c5670.streamlock.net/8116/8116/playlist.m3u8
 
@@ -620,7 +620,7 @@ https://593b04c4c5670.streamlock.net/8116/8116/chunklist_w883424850.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/62DM1qo.png" group-title="Chile", Thema TV | HD | La Serena
 https://unlimited2-cl.dps.live/thema/thema.smil/thema/livestream1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lSHiAWz.png" group-title="Chile", Canal VTV| HD | Los Andes - San Felipe
-http://unlimited1-cl.dps.live/vtv/vtv.smil/vtv/livestream1/chunks.m3u8
+https://unlimited10-cl.dps.live/vtv/vtv.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/icRZe9N.png" group-title="Chile", Frecuencia 7| HD | Los Andes 
 https://5eae379fb77bb.streamlock.net/8048/8048/chunklist_w1287602443.m3u8
@@ -3243,16 +3243,10 @@ http://unlimited1-us.dps.live/poderjudicial1/poderjudicial1.smil/playlist.m3u8?P
 http://www.m3u.cl/channel/meganoticias.php?PlaylistM3UCL
 #EXTINF:-1 tvg-id="434" tvg-name="Teletón TV" tvg-logo="https://www.m3u.cl/logo/434_Teleton_TV.png", Teletón TV  | CL
 https://mdstrm.com/live-stream-playlist/5d6d5f05a2f6f407b0147965.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="430" tvg-name="Sello de Raza TV" tvg-logo="https://www.m3u.cl/logo/430_Sello_de_Raza_TV.png", Sello de Raza TV  | CL
-https://v2.tustreaming.cl/mastermedia/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="489" tvg-name="FashionTV New York" tvg-logo="https://www.m3u.cl/logo/489_FashionTV_New_York.jpg", FashionTV New York  | US
 http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="490" tvg-name="FashionTV Paris" tvg-logo="https://www.m3u.cl/logo/490_FashionTV_Paris.jpg", FashionTV Paris  | US
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="436" tvg-name="TV Salud" tvg-logo="https://www.m3u.cl/logo/436_TV_Salud.png", TV Salud  | CL
-https://srv3.zcast.com.br/mastermedia/mastermedia/tvsalud.cl.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="437" tvg-name="Campo Abierto TV" tvg-logo="https://www.m3u.cl/logo/437_Campo_Abierto_TV.png", Campo Abierto TV  | CL
-https://v2.tustreaming.cl/campoabierto/live1/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="70" tvg-name="Arcatel" tvg-logo="https://www.m3u.cl/logo/70_Arcatel.png", Arcatel  | CL
 https://unlimited10-cl.dps.live/arcatel/arcatel.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="311" tvg-name="Arica TV" tvg-logo="https://www.m3u.cl/logo/311_Arica_TV.png", Arica TV  | CL
@@ -3261,20 +3255,12 @@ https://5d1ca66d2d698.streamlock.net:1936/8002/8002/playlist.m3u8?PlaylistM3UCL
 http://cl.streaminghd.cl/cappissima/cappissima/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="313" tvg-name="Puerta Norte" tvg-logo="https://www.m3u.cl/logo/313_Puerta_Norte.png", Puerta Norte  | CL
 https://593b04c4c5670.streamlock.net/8170/8170/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="314" tvg-name="Iquique TV" tvg-logo="https://www.m3u.cl/logo/314_Iquique_TV.png", Iquique TV  | CL
-https://marine2.miplay.cl/arcatel/iquiquetv720/video.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="315" tvg-name="Geovision" tvg-logo="https://www.m3u.cl/logo/315_Geovision.jpg", Geovision  | CL
 https://5fa5de1a545ae.streamlock.net:443/Geovision/Geovision/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="71" tvg-name="Antofagasta TV" tvg-logo="https://www.m3u.cl/logo/71_Antofagasta_TV.png", Antofagasta TV  | CL
-https://unlimited6-cl.dps.live/atv/atv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="316" tvg-name="LRP Television" tvg-logo="https://www.m3u.cl/logo/316_LRP_Television.png", LRP Television  | CL
 https://v2.tustreaming.cl/lrp/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="317" tvg-name="AM Canal" tvg-logo="https://www.m3u.cl/logo/317_AM_Canal.png", AM Canal  | CL
-https://v2.tustreaming.cl/amtv/live1/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318" tvg-name="TVO Tocopilla" tvg-logo="https://www.m3u.cl/logo/318_TVO_Tocopilla.png", TVO Tocopilla  | CL
 http://srv3.zcast.com.br/cristian5592/cristian5592/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="72" tvg-name="Holvoet TV" tvg-logo="https://www.m3u.cl/logo/72_Holvoet_TV.png", Holvoet TV  | CL
-https://unlimited6-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="784" tvg-name="Madero TV" tvg-logo="https://www.m3u.cl/logo/784_Madero_TV.png", Madero TV  | CL
 https://videostreaming.cloudserverlatam.com:443/8040/8040/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321" tvg-name="Huasco TV" tvg-logo="https://www.m3u.cl/logo/321_Huasco_TV.jpg", Huasco TV  | CL
@@ -3283,12 +3269,8 @@ https://paneltv.online:1936/8062/8062/playlist.m3u8?PlaylistM3UCL
 https://srv2.zcast.com.br/carlos2469/carlos2469/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="323" tvg-name="Canal Costa TV" tvg-logo="https://www.m3u.cl/logo/323_Canal_Costa_TV.png", Canal Costa TV  | CL
 https://stmv1.zcastbr.com/dvjvonsho/dvjvonsho/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="326" tvg-name="ThemaTV" tvg-logo="https://www.m3u.cl/logo/326_ThemaTV.png", ThemaTV  | CL
-https://unlimited2-cl.dps.live/thema/thema.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="328" tvg-name="Nortevision" tvg-logo="https://www.m3u.cl/logo/328_Nortevision.png", Nortevision  | CL
 https://live.tvcontrolcp.com:1936/nortevision/nortevision/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="329" tvg-name="TV Elqui" tvg-logo="https://www.m3u.cl/logo/329_TV_Elqui.png", TV Elqui  | CL
-https://593b04c4c5670.streamlock.net:443/8116/8116/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="73" tvg-name="Canal VTV Los Andes - San Felipe" tvg-logo="https://www.m3u.cl/logo/73_Canal_VTV_Los_Andes___San_Felipe.png", Canal VTV Los Andes - San Felipe  | CL
 https://unlimited10-cl.dps.live/vtv/vtv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="335" tvg-name="VTV" tvg-logo="https://www.m3u.cl/logo/335_VTV.png", VTV  | CL
