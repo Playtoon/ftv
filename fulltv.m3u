@@ -471,7 +471,7 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 #EXTINF:-1 tvg-id="Música" tvg-name="TELERITMO" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/teleritmo.jpg" group-title="TV", TELERITMO 
 http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8?www.tecnotv.info?
 #EXTINF:-1 tvg-id="Música" tvg-name="Top Latino TV Perú" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TOP%20LATINO%20TV.png" group-title="TV" ,TOP LATINO TV (PER)
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/chunklist_w1568392538.m3u8
 #EXTINF:-1 tvg-id="Música" tvg-name="EuroLatina TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Eurolatina%20tv.jpg" group-title="TV" ,EUROLATINA TV
 https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
 #EXTINF:-1 tvg-id="Música" tvg-name="Ditty TV USA" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/DittyTVLogo.png" group-title="TV" ,DITTY TV (USA)
@@ -2162,19 +2162,11 @@ https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mmA1MQW.png" group-title="Musicales", Karibeña TV| HD | Perú
 https://cu.onliv3.com/livevd/user1_hd720/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fEWQwu7.png" group-title="Musicales", Top Latino | SD | Perú
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/chunklist_w252243304.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3UvBaNZ.png" group-title="Perú", Mas Cumbia TV | SD | Perú
 https://live.siete.us:1991/mascumbiatvonline/mascumbiatvonline/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/t5x4qH1.png" group-title="Musicales", Telemúsica | HD |Argentina
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pFpolwD.png" group-title="Musicales", Teleritmo| SD |México
-http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5tjT0uF.png" group-title="Musicales", Video Rola | SD |México
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_1.m3u8
 
@@ -3603,8 +3595,6 @@ https://inliveserver.com:1936/11530/11530/playlist.m3u8?PlaylistM3UCL
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="17" tvg-name="The Retro Channel" tvg-logo="https://www.m3u.cl/logo/17_The_Retro_Channel.png", The Retro Channel  | PR
 https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="35" tvg-name="TOP Latino TV" tvg-logo="https://www.m3u.cl/logo/35_TOP_Latino_TV.png", TOP Latino TV  | PE
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="43" tvg-name="Turbo Mix TV" tvg-logo="https://www.m3u.cl/logo/43_Turbo_Mix_TV.png", Turbo Mix TV  | PE
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="25" tvg-name="TuTv Quillota" tvg-logo="https://www.m3u.cl/logo/25_TuTv_Quillota.png", TuTv Quillota  | CL
@@ -3984,8 +3974,6 @@ https://5ca9af4645e15.streamlock.net:443/zacatecas/videozacatecas/playlist.m3u8?
 https://59d39900ebfb8.streamlock.net/8410/8410/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="636" tvg-name="Teleplay" tvg-logo="https://www.m3u.cl/logo/636_Teleplay.png", Teleplay  | MX
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="680" tvg-name="Teleritmo" tvg-logo="https://www.m3u.cl/logo/680_Teleritmo.png", Teleritmo  | MX
-https://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="647" tvg-name="Tlaxcala TV" tvg-logo="https://www.m3u.cl/logo/647_Tlaxcala_TV.png", Tlaxcala TV  | MX
 https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="681" tvg-name="Transmedia TV Morelia" tvg-logo="https://www.m3u.cl/logo/681_Transmedia_TV_Morelia.png", Transmedia TV Morelia  | MX
@@ -4031,8 +4019,6 @@ https://live.siete.us/bestcablehatuntv/bestcablehatuntv/index.m3u8?PlaylistM3UCL
 https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="40" tvg-name="Mas Cumbia" tvg-logo="https://www.m3u.cl/logo/40_Mas_Cumbia.png", Mas Cumbia  | PE
 https://live.siete.us/mascumbiatvonline/mascumbiatvonline/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="35" tvg-name="TOP Latino TV" tvg-logo="https://www.m3u.cl/logo/35_TOP_Latino_TV.png", TOP Latino TV  | PE
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="43" tvg-name="Turbo Mix TV" tvg-logo="https://www.m3u.cl/logo/43_Turbo_Mix_TV.png", Turbo Mix TV  | PE
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="876" tvg-name="Vision Musica TV" tvg-logo="https://www.m3u.cl/logo/876_Vision_Musica_TV.png", Vision Musica TV  | PE
