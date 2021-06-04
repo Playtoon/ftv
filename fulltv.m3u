@@ -1237,10 +1237,6 @@ https://live1.presstv.com/live/hispan.m3u8
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Pk37AN.png" group-title="Internacionales", UCL | HD | Argentina
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SeiG5UX.png" group-title="Internacionales", Rusia Today Español| HD | Rusia 
-http://rt-esp.secure.footprint.net/1102.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SeiG5UX.png" group-title="Internacionales", Rusia Today Español| HD | Rusia | Alt.
-https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="Internacionales",Euronews | HD | Francia
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
@@ -1394,10 +1390,6 @@ https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H7ghBaT.png" group-title="España", Trece | HD | Madrid
 https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live-898/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IvOTHIU.png" group-title="España", 24h | HD | Madrid
-https://rtvelivestream.akamaized.net/24h_main_dvr.m3u8
-
 #EXTINF:-1 tvg-logo="https://eltorotv.com/wp-content/uploads/2020/01/logo-eltorotv.jpg" group-title="España", EL Toro| SD | Madrid
 https://live1-eltorotv.flumotion.com/playlist.m3u8
 
@@ -2000,9 +1992,6 @@ https://i.imgur.com/vAluESq.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UwnVCgD.png" group-title="Uruguay", TVF | HD | Florida
 http://s5.mexside.net:1935/tvflorida/tvflorida/chunklist_w2046271253.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MxQLvAd.png" group-title="Uruguay", Canal U | HD | Montevideo
-https://livedelta.cdn.antel.net.uy/out/u/url_canalu_4.m3u8?m=1567330603
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppdCRVv.png" group-title="Venezuela", - Venezuela -
@@ -2976,8 +2965,6 @@ https://59537faa0729a.streamlock.net/milenniotv/milenniotv/playlist.m3u8?Playlis
 https://59537faa0729a.streamlock.net/n24tv/n24tv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="797" tvg-name="RBD Radio Multimedia" tvg-logo="https://www.m3u.cl/logo/797_RBD_Radio_Multimedia.png", RBD Radio Multimedia * | AR
 https://59537faa0729a.streamlock.net:443/rbdvideo/rbdvideo/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="494" tvg-name="UCL Televisión LATAM" tvg-logo="https://www.m3u.cl/logo/494_UCL_Television_LATAM.png", UCL Televisión LATAM * | UY
-https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="12" tvg-name="Awka" tvg-logo="https://www.m3u.cl/logo/12_Awka.png", Awka * | AR
 https://stmv1.questreaming.com/awkasonido/awkasonido/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="14" tvg-name="Urban TV" tvg-logo="https://www.m3u.cl/logo/14_Urban_TV.png", Urban TV * | ES
@@ -3133,8 +3120,6 @@ http://streamer1.streamhost.org:1935/salive/GMIredadvenirl/playlist.m3u8?Playlis
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="94" tvg-name="TV HD Tropical" tvg-logo="https://www.m3u.cl/logo/94_TV_HD_Tropical.png", TV HD Tropical  | BO
 https://5d79ae45bc63b.streamlock.net:443/radiotropical952/radiotropical952/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="494" tvg-name="UCL Televisión LATAM" tvg-logo="https://www.m3u.cl/logo/494_UCL_Television_LATAM.png", UCL Televisión LATAM  | UY
-https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="782" tvg-name="Sexy Kpop TV" tvg-logo="https://www.m3u.cl/logo/782_Sexy_Kpop_TV.jpg", Sexy Kpop TV  | BR
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="846" tvg-name="XTO TV" tvg-logo="https://www.m3u.cl/logo/846_XTO_TV.png", XTO TV  | BO
@@ -3197,8 +3182,6 @@ http://unlimited2-cl.dps.live/cnnprensa/cnnprensa.smil/playlist.m3u8?PlaylistM3U
 https://mdstrm.com/live-stream-playlist/5eee24e3ed5b6d0761a11a31.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="448" tvg-name="TVN 24 Horas 2" tvg-logo="https://www.m3u.cl/logo/448_TVN_24_Horas_2.png", TVN 24 Horas 2  | CL
 https://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="447" tvg-name="TVN 24 Horas" tvg-logo="https://www.m3u.cl/logo/447_TVN_24_Horas.png", TVN 24 Horas  | CL
-https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="446" tvg-name="Poder Judicial" tvg-logo="https://www.m3u.cl/logo/446_Poder_Judicial.png", Poder Judicial  | CL
 http://unlimited1-us.dps.live/poderjudicial1/poderjudicial1.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="449" tvg-name="Meganoticias" tvg-logo="https://www.m3u.cl/logo/449_Meganoticias.png", Meganoticias  | CL
@@ -3267,8 +3250,6 @@ http://evo.eltelon.com:1935/live/rocco-tv/playlist.m3u8?PlaylistM3UCL
 https://v2.tustreaming.cl/canal11aysen/live1/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="371" tvg-name="EvaVisión" tvg-logo="https://www.m3u.cl/logo/371_EvaVision.png", EvaVisión  | CL
 https://stmv.panel.mivideo.pro/evatelevision/evatelevision/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="494" tvg-name="UCL Televisión LATAM" tvg-logo="https://www.m3u.cl/logo/494_UCL_Television_LATAM.png", UCL Televisión LATAM  | UY
-https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="502" tvg-name="TV Marti" tvg-logo="https://www.m3u.cl/logo/502_TV_Marti.png", TV Marti  | CU
 http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="503" tvg-name="Cubavisión" tvg-logo="https://www.m3u.cl/logo/503_Cubavision.png", Cubavisión  | CU
@@ -3460,8 +3441,6 @@ https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8?PlaylistM3
 
 #EXTINF:-1 tvg-id="766" tvg-name="HD Latam" tvg-logo="https://www.m3u.cl/logo/766_HD_Latam.jpg", HD Latam * | CO
 https://www.streamingmediatv.live:19360/hdlatam/hdlatam.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="494" tvg-name="UCL Televisión LATAM" tvg-logo="https://www.m3u.cl/logo/494_UCL_Television_LATAM.png", UCL Televisión LATAM * | UY
-https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="113" tvg-name="Cali TV" tvg-logo="https://www.m3u.cl/logo/113_Cali_TV.jpg", Cali TV  | CO
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="114" tvg-name="Canal 12 Valledupar" tvg-logo="https://www.m3u.cl/logo/114_Canal_12_Valledupar.png", Canal 12 Valledupar  | CO
@@ -3533,16 +3512,10 @@ https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8?PlaylistM3UCL
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist_b1296000_DVR.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="837" tvg-name="7TV Andalucia" tvg-logo="https://www.m3u.cl/logo/837_7TV_Andalucia.jpg", 7TV Andalucia  | ES
 https://d3e0aduzg5hw8g.cloudfront.net/out/v1/7c917096d3a54e72bd4a6aa85494c8f3/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="629" tvg-name="Alcarria TV" tvg-logo="https://www.m3u.cl/logo/629_Alcarria_TV.png", Alcarria TV  | ES
-http://217.182.77.27/live/alcarriatv-livestream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="601" tvg-name="Bon Dia" tvg-logo="https://www.m3u.cl/logo/601_Bon_Dia.png", Bon Dia  | ES
 https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/chunklist_b1296000.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="602" tvg-name="Canal 33 Madrid" tvg-logo="https://www.m3u.cl/logo/602_Canal_33_Madrid.png", Canal 33 Madrid  | ES
-https://5ab29cc78f681.streamlock.net/canal33tvmadridgmailcom/livestream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="603" tvg-name="Canal 4 Television Baleares" tvg-logo="https://www.m3u.cl/logo/603_Canal_4_Television_Baleares.png", Canal 4 Television Baleares  | ES
 http://149.202.68.178:1935/live/peprecasens/chunklist_w194306632.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="627" tvg-name="Canal Costa" tvg-logo="https://www.m3u.cl/logo/627_Canal_Costa.png", Canal Costa  | ES
-http://stream.canalcostatv.es:1935/web/IKbtqOuj/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="632" tvg-name="Canal Parlamento - Madrid" tvg-logo="https://www.m3u.cl/logo/632_Canal_Parlamento___Madrid.png", Canal Parlamento - Madrid  | ES
 http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="604" tvg-name="Canal Sur Andalucia" tvg-logo="https://www.m3u.cl/logo/604_Canal_Sur_Andalucia.png", Canal Sur Andalucia  | ES
@@ -3553,8 +3526,6 @@ http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/
 http://cultural-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="607" tvg-name="El 33" tvg-logo="https://www.m3u.cl/logo/607_El_33.png", El 33  | ES
 http://directes-tv-int.ccma.cat/int/ngrp:c33_web/chunklist_b1296000_DVR.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="608" tvg-name="El Toro" tvg-logo="https://www.m3u.cl/logo/608_El_Toro.png", El Toro  | ES
-https://live-edge-bhs-1.cdn.enetres.net/16011939C62D44ED91350508FB25828B021/live-1000/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="609" tvg-name="ETB SAT Pais Vasco" tvg-logo="https://www.m3u.cl/logo/609_ETB_SAT_Pais_Vasco.png", ETB SAT Pais Vasco  | ES
 http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="610" tvg-name="Euskal Telebista 1 Pais Vasco" tvg-logo="https://www.m3u.cl/logo/610_Euskal_Telebista_1_Pais_Vasco.png", Euskal Telebista 1 Pais Vasco  | ES
@@ -3563,34 +3534,24 @@ https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-p.m3u8?sd=8&r
 https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-p.m3u8?sd=8&rebase=on&PlaylistM3UCL
 #EXTINF:-1 tvg-id="612" tvg-name="Extremadura" tvg-logo="https://www.m3u.cl/logo/612_Extremadura.png", Extremadura  | ES
 https://cdnlive.shooowit.net/canalextremaduralive/channel1DVR.smil/chunklist_b1500000_DVR.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="613" tvg-name="La 1" tvg-logo="https://www.m3u.cl/logo/613_La_1.png", La 1  | ES
-http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_0650_av-p.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="626" tvg-name="La Otra" tvg-logo="https://www.m3u.cl/logo/626_La_Otra.png", La Otra  | ES
 http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_2.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="616" tvg-name="Levante TV" tvg-logo="https://www.m3u.cl/logo/616_Levante_TV.png", Levante TV  | ES
 https://i.imgur.com/Cc1CypC.mp4?PlaylistM3UCL
 #EXTINF:-1 tvg-id="597" tvg-name="Momentos G" tvg-logo="https://www.m3u.cl/logo/597_Momentos_G.png", Momentos G  | ES
 http://momentog-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="617" tvg-name="Onda Algeciras" tvg-logo="https://www.m3u.cl/logo/617_Onda_Algeciras.png", Onda Algeciras  | ES
-https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="618" tvg-name="Onda Mezquita" tvg-logo="https://www.m3u.cl/logo/618_Onda_Mezquita.png", Onda Mezquita  | ES
 https://593fa17dec176.streamlock.net//mezquita/mezquita/chunklist_w1592524042.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="619" tvg-name="Radio Television Ceuta" tvg-logo="https://www.m3u.cl/logo/619_Radio_Television_Ceuta.png", Radio Television Ceuta  | ES
-http://teledifusion.tv:1935/rtvcetv/rtvcetvlive/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="620" tvg-name="Radiotelevision del Principado de Asturias" tvg-logo="https://www.m3u.cl/logo/620_Radiotelevision_del_Principado_de_Asturias.png", Radiotelevision del Principado de Asturias  | ES
 https://cdnlive.shooowit.net/rtpalive/directo.smil/chunklist_b1500000.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="630" tvg-name="Real Madrid TV (English)" tvg-logo="https://www.m3u.cl/logo/630_Real_Madrid_TV__English_.png", Real Madrid TV (English)  | ES
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="631" tvg-name="Real Madrid TV HD" tvg-logo="https://www.m3u.cl/logo/631_Real_Madrid_TV_HD.png", Real Madrid TV HD  | ES
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="622" tvg-name="Television Municipal de Cordoba" tvg-logo="https://www.m3u.cl/logo/622_Television_Municipal_de_Cordoba.png", Television Municipal de Cordoba  | ES
-http://teledifusion.tv/cordoba/cordobalive/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="623" tvg-name="Travel TV" tvg-logo="https://www.m3u.cl/logo/623_Travel_TV.png", Travel TV  | ES
 http://194.179.53.124:1935/live/traveltv/chunklist_w706671974.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="624" tvg-name="TV Galicia Europa" tvg-logo="https://www.m3u.cl/logo/624_TV_Galicia_Europa.png", TV Galicia Europa  | ES
 http://europa-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="625" tvg-name="TV3 Television de Catalunya" tvg-logo="https://www.m3u.cl/logo/625_TV3_Television_de_Catalunya.png", TV3 Television de Catalunya  | ES
-http://directes-tv-int.ccma.cat/int/ngrp:tvi_web/chunklist_b1296000_DVR.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="628" tvg-name="Xabarin TV" tvg-logo="https://www.m3u.cl/logo/628_Xabarin_TV.png", Xabarin TV  | ES
 http://infantil-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="512" tvg-name="ETB" tvg-logo="https://www.m3u.cl/logo/512_ETB.png", ETB  | ES
@@ -3599,19 +3560,14 @@ http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8?PlaylistM3UCL
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="515" tvg-name="TV Galicia America" tvg-logo="https://www.m3u.cl/logo/515_TV_Galicia_America.png", TV Galicia America  | ES
 http://america-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="494" tvg-name="UCL Televisión LATAM" tvg-logo="https://www.m3u.cl/logo/494_UCL_Television_LATAM.png", UCL Televisión LATAM  | UY
-https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="796" tvg-name="Euro Indie Music" tvg-logo="https://www.m3u.cl/logo/796_Euro_Indie_Music.png", Euro Indie Music  | GB
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="30" tvg-name="Ibiza Global TV" tvg-logo="https://www.m3u.cl/logo/30_Ibiza_Global_TV.png", Ibiza Global TV  | ES
 https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="598" tvg-name="TVE 24H" tvg-logo="https://www.m3u.cl/logo/598_TVE_24H.png", TVE 24H  | ES
-https://rtvelivestream.akamaized.net/24h_dvr_4000.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="196" tvg-name="Cristiana TV" tvg-logo="https://www.m3u.cl/logo/196_Cristiana_TV.png", Cristiana TV  | ES
 https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="494" tvg-name="UCL Televisión LATAM" tvg-logo="https://www.m3u.cl/logo/494_UCL_Television_LATAM.png", UCL Televisión LATAM * | UY
-https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="16" tvg-name="Conecta TV" tvg-logo="https://www.m3u.cl/logo/16_Conecta_TV.png", Conecta TV * | MX
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="521" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://www.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png", Recuerdos Retro Radio TV * | CL
@@ -3703,8 +3659,6 @@ https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8?Playl
 
 #EXTINF:-1 tvg-id="692" tvg-name="Best Cable Sports" tvg-logo="https://www.m3u.cl/logo/692_Best_Cable_Sports.png", Best Cable Sports  | PE
 https://live.siete.us/bestcablesports/bestcablesports/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="494" tvg-name="UCL Televisión LATAM" tvg-logo="https://www.m3u.cl/logo/494_UCL_Television_LATAM.png", UCL Televisión LATAM  | UY
-https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="38" tvg-name="Best Cable Music" tvg-logo="https://www.m3u.cl/logo/38_Best_Cable_Music.jpg", Best Cable Music  | PE
 https://live.siete.us/bestcablemusic/bestcablemusic/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="41" tvg-name="Hatun TV" tvg-logo="https://www.m3u.cl/logo/41_Hatun_TV.jpg", Hatun TV  | PE
@@ -3786,8 +3740,6 @@ https://paneltv.online:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
 https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="521" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://www.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png", Recuerdos Retro Radio TV  | CL
 https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="494" tvg-name="UCL Televisión LATAM" tvg-logo="https://www.m3u.cl/logo/494_UCL_Television_LATAM.png", UCL Televisión LATAM  | UY
-https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="855" tvg-name="Natanael TV" tvg-logo="https://www.m3u.cl/logo/855_Natanael_TV.png", Natanael TV  | PA
 https://cloud2.streaminglivehd.com:1936/natanaeltv/natanaeltv/playlist.m3u8?PlaylistM3UCL
 
