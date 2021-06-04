@@ -74,7 +74,7 @@ https://videohd.live:19360/8020/8020.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name=" TLX " tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Telemax.png" group-title="TV", TLX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="Telpin Canal 2" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Telpin-Canal-2.png" group-title="TV", Telpin Canal 2
-https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/playlist.m3u8?PlaylistM3UCL
+https://wowza.telpin.com.ar:1935/telpintv/ttv.stream.smil/.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="MULTIVISION SALTA" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal-9-Multivision.png" group-title="TV", MULTIVISION
 http://panel.dattalive.com:1935/8250/8250/chunklist_w689217833.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-id="Variado" tvg-name="5RTV SANTA FE" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/large_5RTV.png" group-title="TV", 5RTV SANTA FE
@@ -460,7 +460,7 @@ https://edge214.rcs-rds.ro/V4-3315019-8922549f79e408d221d09cd56da2c6b1-285552098
 https://edge214.rcs-rds.ro/V4-8813078-4c7a863fcc63dac91bf8b1c9651e234e-2855520982-0-1622675975-411-utv/utv/utvhq.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="Música" tvg-name="POWER HD" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/POWER.png" group-title="TV", POWER HD
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Música" tvg-name="TERRAMIA TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TERRAMIA%20TV.png" group-title="TV", TERRAMIA TV
+#EXTINF:-1 tvg-id="Música" tvg-name="TERRAMIA TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TERRAMIA%20TV.png" group-title="TV", Tierra Mía TV
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Música" tvg-name="MUSIC TOP" tvg-logo="https://www.diario26.com/images/musictop_logo.png?3" group-title="TV", MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w288048170_b2028000_sleng.m3u8
@@ -1499,23 +1499,10 @@ https://i.imgur.com/Av8yUYC.mp4
 http://airevision.ddns.net:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zhs153G.png" group-title="Argentina", Canal 2 | SD | Mar del Plata
 https://streamcasthd.com:19360/canal2mdp/canal2mdp.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZkZx6vL.png" group-title="Argentina", Telpin TV | SD | Pinamar
-https://wowza.telpin.com.ar:1935/telpintv/ttv.stream.smil/.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uEZBTlz.png" group-title="Argentina", Cinco TV | SD | Tigre
-https://59537faa0729a.streamlock.net/cincotv/cincotv/chunklist_w914736442.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OXST35G.png" group-title="Argentina", TV Cinco | SD | Corrientes
-http://www.coninfo.net:1935/tvcinco/live1/chunklist_w2087043186.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LG6B84e.png" group-title="Argentina", T5 Satelital | HD | Corrientes
 http://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wFO3VtW.png" group-title="Argentina", Tierra Mía TV | HD 
-http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w258432612_b1864000_sleng.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7FaUE9I.png" group-title="Argentina", Canal 6 | HD | Moreno
 https://5975e06a1f292.streamlock.net:4443/canal6moreno/canal6moreno/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6kC2yz0.png" group-title="Argentina", Canal 6 | HD | Posadas
 https://iptv.ixfo.com.ar:30443/live/c6digital/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9W2TvR4.png" group-title="Argentina", Canal 7 | HD | Catamarca
@@ -2973,8 +2960,6 @@ https://vcp.myplaytv.com:443/canal10cba/smil:canal10cba.smil/playlist.m3u8?Playl
 https://vivo.solumedia.com:19360/nortevision/nortevision.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="226" tvg-name="Canal 13 Jujuy" tvg-logo="https://www.m3u.cl/logo/226_Canal_13_Jujuy.png", Canal 13 Jujuy  | AR
 https://genexservicios.com:19360/canal13jujuy/canal13jujuy.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="254" tvg-name="Canal 2 Mar del Plata" tvg-logo="https://www.m3u.cl/logo/254_Canal_2_Mar_del_Plata.png", Canal 2 Mar del Plata  | AR
-https://streamcasthd.com:19360/canal2mdp/canal2mdp.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="205" tvg-name="Canal 2 Sanagasta" tvg-logo="https://www.m3u.cl/logo/205_Canal_2_Sanagasta.jpg", Canal 2 Sanagasta  | AR
 https://stmv1.srvif.com/canal2/canal2/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="300" tvg-name="Canal 2 Tunuyan" tvg-logo="https://www.m3u.cl/logo/300_Canal_2_Tunuyan.png", Canal 2 Tunuyan  | AR
@@ -3059,8 +3044,6 @@ https://streamcasthd.com:19360/rtvcable/rtvcable.m3u8?PlaylistM3UCL
 https://srv4.zcast.com.br/sptv/sptv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="288" tvg-name="Sicardi TV" tvg-logo="https://www.m3u.cl/logo/288_Sicardi_TV.png", Sicardi TV  | AR
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="244" tvg-name="T5 Satelital" tvg-logo="https://www.m3u.cl/logo/244_T5_Satelital.png", T5 Satelital  | AR
-http://api.new.livestream.com/accounts/20819504/events/8664197/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="245" tvg-name="Tele Diez" tvg-logo="https://www.m3u.cl/logo/245_Tele_Diez.jpg", Tele Diez  | AR
 https://videohd.live:19360/8020/8020.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="308" tvg-name="Tele Estrella" tvg-logo="https://www.m3u.cl/logo/308_Tele_Estrella.png", Tele Estrella  | AR
