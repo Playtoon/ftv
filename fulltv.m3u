@@ -1182,7 +1182,7 @@ https://cdn01.yowi.tv/KPFPGJU8A6/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xr1K6eu.png" group-title="Cristianos", TV2000 | SD | Vaticano (Italiano)
 http://mi1.wz.tv2000.it/tv2000_alfa.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xsFxF8I.png" group-title="Cristianos", Trinity Broadcasting Network | SD | Evangélico | España
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xsFxF8I.png" group-title="Cristianos", TBN España | SD | Evangélico | España
 https://5e4e2e0bb2914.streamlock.net/live/ngrp:tbnlive_srt.stream_all/playlist.m3u8?DVR
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SDBqf5D.png" group-title="Cristianos", Mi Viña Channel | SD | Evangélico | Honduras
@@ -1195,7 +1195,7 @@ https://emisoras.hn:8081/diostevetv/index.m3u8
 https://v2.tustreaming.cl/graciatv/live1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nyKHBad.png" group-title="Cristianos", Nuevos Comienzos Televisión | HD | Evangélico | Chile
-http://unlimited1-cl.dps.live/nctv/nctv.smil/playlist.m3u8
+http://unlimited10-cl.dps.live/nctv/nctv.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5lLJhmM.png" group-title="Cristianos", TNE | HD | Evangélico | Chile
 https://v2.tustreaming.cl/tnetv/tracks-v1a1/mono.m3u8
@@ -3427,8 +3427,6 @@ https://v2.tustreaming.cl/interradiotv/tracks-v1a1/mono.m3u8?PlaylistM3UCL
 https://live.tvcontrolcp.com:1936/interactiva/interactiva/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="397" tvg-name="FM Pulso" tvg-logo="https://www.m3u.cl/logo/397_FM_Pulso.png", FM Pulso  | CL
 https://panel.tvstream.cl:1936/8004/8004/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="398" tvg-name="El Sembrador" tvg-logo="https://www.m3u.cl/logo/398_El_Sembrador.png", El Sembrador  | CL
-https://5eff35271151c.streamlock.net:1936/8064/8064/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="419" tvg-name="El Conquistador TV" tvg-logo="https://www.m3u.cl/logo/419_El_Conquistador_TV.png", El Conquistador TV  | CL
 http://v3.tustreaming.cl/conquistadorcc/live1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="382" tvg-name="ChocolateFM" tvg-logo="https://www.m3u.cl/logo/382_ChocolateFM.png", ChocolateFM  | CL
@@ -3463,8 +3461,6 @@ http://v2.tustreaming.cl/radiovidacurico/live1/rewind-999999.m3u8?PlaylistM3UCL
 https://stmv.panel.mivideo.pro/unidoalcielo/unidoalcielo/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="164" tvg-name="NCTV" tvg-logo="https://www.m3u.cl/logo/164_NCTV.png", NCTV  | CL
 http://unlimited10-cl.dps.live/nctv/nctv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="163" tvg-name="Gracia TV" tvg-logo="https://www.m3u.cl/logo/163_Gracia_TV.png", Gracia TV  | CL
-http://v3.tustreaming.cl:80/graciatv/live1/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="173" tvg-name="Escuchame Radio" tvg-logo="https://www.m3u.cl/logo/173_Escuchame_Radio.png", Escuchame Radio  | CL
 https://stmv1.voxtvhd.com.br/escuchame/escuchame/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="157" tvg-name="Canal 33" tvg-logo="https://www.m3u.cl/logo/157_Canal_33.png", Canal 33  | CL
@@ -3627,8 +3623,6 @@ https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8?PlaylistM3UCL
 https://rtvelivestream.akamaized.net/24h_dvr_4000.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="196" tvg-name="Cristiana TV" tvg-logo="https://www.m3u.cl/logo/196_Cristiana_TV.png", Cristiana TV  | ES
 https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="198" tvg-name="TBN España" tvg-logo="https://www.m3u.cl/logo/198_TBN_Espana.png", TBN España  | ES
-https://5e4e2e0bb2914.streamlock.net/live/ngrp:tbnlive_srt.stream_all/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="494" tvg-name="UCL Televisión LATAM" tvg-logo="https://www.m3u.cl/logo/494_UCL_Television_LATAM.png", UCL Televisión LATAM * | UY
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL
@@ -3761,16 +3755,12 @@ https://cu.onliv3.com/livevd1/user2.m3u8?PlaylistM3UCL
 https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="685" tvg-name="Inkavision" tvg-logo="https://www.m3u.cl/logo/685_Inkavision.png", Inkavision  | PE
 https://7.innovatestream.pe:19360/inkavision/inkavision.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="690" tvg-name="JN19" tvg-logo="https://www.m3u.cl/logo/690_JN19.png", JN19  | PE
-https://mediastreamm.com:3149/live/jn19tvlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="689" tvg-name="Mega TV" tvg-logo="https://www.m3u.cl/logo/689_Mega_TV.png", Mega TV  | PE
 https://media2.cdnlayer.biz:8081/8008/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="698" tvg-name="Monterrico TV" tvg-logo="https://www.m3u.cl/logo/698_Monterrico_TV.png", Monterrico TV  | PE
 http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="699" tvg-name="Ovacion" tvg-logo="https://www.m3u.cl/logo/699_Ovacion.png", Ovacion  | PE
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="700" tvg-name="Pax TV" tvg-logo="https://www.m3u.cl/logo/700_Pax_TV.png", Pax TV  | PE
-http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="701" tvg-name="TV Cosmos" tvg-logo="https://www.m3u.cl/logo/701_TV_Cosmos.png", TV Cosmos  | PE
 https://59d39900ebfb8.streamlock.net:443/str15live/str15live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="686" tvg-name="TVperuanisima" tvg-logo="https://www.m3u.cl/logo/686_TVperuanisima.png", TVperuanisima  | PE
