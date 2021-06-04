@@ -1547,7 +1547,7 @@ http://186.121.206.197/live/daniel/index.m3u8
 http://boliviatv1.srfms.com:5735/live/livestream/chunklist_w352402513.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xZSIGTy.png" group-title="Bolivia", Radio Televisión Popular | SD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xZSIGTy.png" group-title="Bolivia", rtp | SD 
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
 
 
@@ -3058,8 +3058,6 @@ https://paneltv.online:1936/8056/8056/playlist.m3u8?PlaylistM3UCL
 http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="92" tvg-name="Red AD Venir Internacional" tvg-logo="https://www.m3u.cl/logo/92_Red_AD_Venir_Internacional.png", Red AD Venir Internacional  | BO
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirl/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="93" tvg-name="RTP" tvg-logo="https://www.m3u.cl/logo/93_RTP.png", RTP  | BO
-http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="94" tvg-name="TV HD Tropical" tvg-logo="https://www.m3u.cl/logo/94_TV_HD_Tropical.png", TV HD Tropical  | BO
 https://5d79ae45bc63b.streamlock.net:443/radiotropical952/radiotropical952/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="782" tvg-name="Sexy Kpop TV" tvg-logo="https://www.m3u.cl/logo/782_Sexy_Kpop_TV.jpg", Sexy Kpop TV  | BR
