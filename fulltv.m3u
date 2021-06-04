@@ -1473,11 +1473,10 @@ https://m3u-editor.com/serve/televito85/299190280
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/76sJQeC.png" group-title="Familiares", ETC TV | SD | Chile
 https://m3u-editor.com/serve/televito85/300679461
+#EXTINF:-1 tvg-id="792" tvg-name="Etc TV" tvg-logo="https://www.m3u.cl/logo/792_Etc_TV.png", Etc TV  | CL
+https://unlimited1-cl-movistar.dps.live/etctv/etctv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uXxAWGB.png" group-title="Familiares", Magic Kids| SD | Argentina
 https://live.admefy.com/live/240/clean_peach_ef224.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/z1VIGD7.png" group-title="Familiares", Anime Zone | SD | República Dominicana  | Alt.
-http://animeloving.net/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bYiL538.png" group-title="Familiares", Aster Channel | HD | República Dominicana 
 http://96.30.193.226:81/hls/canalaster.m3u8
 
@@ -2879,10 +2878,6 @@ https://node-26.zeno.fm/0t952vqukfeuv?rj-ttl=5&rj-tok=AAABdotyp9AAJfddmGW35WrTxQ
 
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/L2Z4mbh.png" group-title="Radios K-Pop & J-Pop", Anime Nexus (México)
 http://radio.animenexus.mx:8000/animenexus
-
-#EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/i5NmdMc.png" group-title="Radios K-Pop & J-Pop", Magic Kids  (Argentina)
-http://142.44.135.172:8197/;stream.nsv
-
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/PqroA7P.png" group-title="Radios K-Pop & J-Pop", Geek Radio Music (Chile)
 https://stream.zeno.fm/h4hpqkxsxxquv
 
@@ -3166,8 +3161,6 @@ https://paneltv.online:1936/8056/8056/playlist.m3u8?PlaylistM3UCL
 https://streamyes.alsolnet.com/wtmradio/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="480" tvg-name="EvaStream" tvg-logo="https://www.m3u.cl/logo/480_EvaStream.png", EvaStream  | CL
 https://5e9199339b303.streamlock.net:8100/bajocerovideo/bajocerovideo/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="792" tvg-name="Etc TV" tvg-logo="https://www.m3u.cl/logo/792_Etc_TV.png", Etc TV  | CL
-https://unlimited1-cl-movistar.dps.live/etctv/etctv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="69" tvg-name="G Vision" tvg-logo="https://www.m3u.cl/logo/69_G_Vision.png", G Vision  | CL
 https://tls.cdnz.cl/escgabrielamistral/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="452" tvg-name="TVN" tvg-logo="https://www.m3u.cl/logo/452_TVN.png", TVN  | CL
@@ -3258,8 +3251,6 @@ https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/pl
 http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="513" tvg-name="RTVE1" tvg-logo="https://www.m3u.cl/logo/513_RTVE1.png", RTVE1  | ES
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="515" tvg-name="TV Galicia America" tvg-logo="https://www.m3u.cl/logo/515_TV_Galicia_America.png", TV Galicia America  | ES
-http://america-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="504" tvg-name="CBS News" tvg-logo="https://www.m3u.cl/logo/504_CBS_News.png", CBS News  | US
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="505" tvg-name="Weather Channel" tvg-logo="https://www.m3u.cl/logo/505_Weather_Channel.png", Weather Channel  | US
@@ -3508,14 +3499,10 @@ https://liveingesta118.cdnmedia.tv/cristovisionlive/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="14" tvg-name="Urban TV" tvg-logo="https://www.m3u.cl/logo/14_Urban_TV.png", Urban TV * | ES
 https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="599" tvg-name="324 Catalunya" tvg-logo="https://www.m3u.cl/logo/599_324_Catalunya.png", 324 Catalunya  | ES
-https://directes-tv-int.ccma.cat/int/ngrp:324_web/chunklist_b1296000_DVR.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="837" tvg-name="7TV Andalucia" tvg-logo="https://www.m3u.cl/logo/837_7TV_Andalucia.jpg", 7TV Andalucia  | ES
 https://d3e0aduzg5hw8g.cloudfront.net/out/v1/7c917096d3a54e72bd4a6aa85494c8f3/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="601" tvg-name="Bon Dia" tvg-logo="https://www.m3u.cl/logo/601_Bon_Dia.png", Bon Dia  | ES
 https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/chunklist_b1296000.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="603" tvg-name="Canal 4 Television Baleares" tvg-logo="https://www.m3u.cl/logo/603_Canal_4_Television_Baleares.png", Canal 4 Television Baleares  | ES
-http://149.202.68.178:1935/live/peprecasens/chunklist_w194306632.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="632" tvg-name="Canal Parlamento - Madrid" tvg-logo="https://www.m3u.cl/logo/632_Canal_Parlamento___Madrid.png", Canal Parlamento - Madrid  | ES
 http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="604" tvg-name="Canal Sur Andalucia" tvg-logo="https://www.m3u.cl/logo/604_Canal_Sur_Andalucia.png", Canal Sur Andalucia  | ES
@@ -3526,12 +3513,6 @@ http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/
 http://cultural-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="607" tvg-name="El 33" tvg-logo="https://www.m3u.cl/logo/607_El_33.png", El 33  | ES
 http://directes-tv-int.ccma.cat/int/ngrp:c33_web/chunklist_b1296000_DVR.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="609" tvg-name="ETB SAT Pais Vasco" tvg-logo="https://www.m3u.cl/logo/609_ETB_SAT_Pais_Vasco.png", ETB SAT Pais Vasco  | ES
-http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="610" tvg-name="Euskal Telebista 1 Pais Vasco" tvg-logo="https://www.m3u.cl/logo/610_Euskal_Telebista_1_Pais_Vasco.png", Euskal Telebista 1 Pais Vasco  | ES
-https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-p.m3u8?sd=8&rebase=on&PlaylistM3UCL
-#EXTINF:-1 tvg-id="611" tvg-name="Euskal Telebista 1 Pais Vasco" tvg-logo="https://www.m3u.cl/logo/611_Euskal_Telebista_1_Pais_Vasco.png", Euskal Telebista 1 Pais Vasco  | ES
-https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/index_2596_av-p.m3u8?sd=8&rebase=on&PlaylistM3UCL
 #EXTINF:-1 tvg-id="612" tvg-name="Extremadura" tvg-logo="https://www.m3u.cl/logo/612_Extremadura.png", Extremadura  | ES
 https://cdnlive.shooowit.net/canalextremaduralive/channel1DVR.smil/chunklist_b1500000_DVR.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="626" tvg-name="La Otra" tvg-logo="https://www.m3u.cl/logo/626_La_Otra.png", La Otra  | ES
@@ -3550,16 +3531,12 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8?Playl
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="623" tvg-name="Travel TV" tvg-logo="https://www.m3u.cl/logo/623_Travel_TV.png", Travel TV  | ES
 http://194.179.53.124:1935/live/traveltv/chunklist_w706671974.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="624" tvg-name="TV Galicia Europa" tvg-logo="https://www.m3u.cl/logo/624_TV_Galicia_Europa.png", TV Galicia Europa  | ES
-http://europa-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="628" tvg-name="Xabarin TV" tvg-logo="https://www.m3u.cl/logo/628_Xabarin_TV.png", Xabarin TV  | ES
 http://infantil-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="512" tvg-name="ETB" tvg-logo="https://www.m3u.cl/logo/512_ETB.png", ETB  | ES
 http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="513" tvg-name="RTVE1" tvg-logo="https://www.m3u.cl/logo/513_RTVE1.png", RTVE1  | ES
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="515" tvg-name="TV Galicia America" tvg-logo="https://www.m3u.cl/logo/515_TV_Galicia_America.png", TV Galicia America  | ES
-http://america-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="796" tvg-name="Euro Indie Music" tvg-logo="https://www.m3u.cl/logo/796_Euro_Indie_Music.png", Euro Indie Music  | GB
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="30" tvg-name="Ibiza Global TV" tvg-logo="https://www.m3u.cl/logo/30_Ibiza_Global_TV.png", Ibiza Global TV  | ES
