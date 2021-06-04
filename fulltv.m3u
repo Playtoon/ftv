@@ -358,7 +358,7 @@ https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 
 #EXTINF:-1 tvg-id="794" tvg-name="Canal CNR Jujuy" tvg-logo="https://www.m3u.cl/logo/794_Canal_CNR_Jujuy.png" group-title="TV", CNR TV
 https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
-#EXTINF:-1 tvg-id="857" tvg-name="Aster" tvg-logo="https://www.m3u.cl/logo/857_Aster.png" group-title="TV", Aster
+#EXTINF:-1 tvg-id="857" tvg-name="Aster" tvg-logo="https://www.m3u.cl/logo/857_Aster.png" group-title="TV", Aster*
 http://96.30.193.226:81/hls/canalaster.m3u8
 #EXTINF:-1 tvg-id="Deportes" tvg-name="Sony Competencias" tvg-logo="" group-title="TV", Prueba canales3
 https://video-weaver.jfk04.hls.ttvnw.net/v1/playlist/CoAFBGXxYleGrh_6RGSk1NikQa-VduJiSTjkq5_6JgKZN7xccY3U7Sw47NcmNdRGpULrGfPIWAJ-6vWr8Zws6ZRVomW7Q7IERLmKtWCieZ_-GeU6q3alCctxOELRXJwyrua9xDVfWWU3hQpjoPLI9De5s4z1sCvBAS8vpbmDKH-rywHy_yq92JH4QpYnoWYSW6eiM6m-C1f5x_k7te7gtGvaBWTnQP-yn-EMp_CllJKa36eVhsF-EJnINs-uRedVlBeTrCFM85Olr6hXuYjQ36Y_8dNll7Ydxcx1psJKjTcdeJxRD2q5nZjmT8mSTLfW6ESFH1Syn5gSwRWydm-v_bt-cOt4QZeoX9cn1IJiHANIt0GIxUMIS7O8iG_xqRmrjaJvPY4tTx0njYxg9gwD6IPIwUlxBIn0NXL7Xt5dT_pWvDanOeobZa8s2bYtiqBbAd6GhiSUYnnsWshmUmDBMqanQE-Fy2mJeIx22lsMTgyn-R1MUwI7Hyye5p_J8PZwXIM0pdVaOSUUk4TDy9oY6clIYIYyAqPL1rYgxIgE6CtnDoNWcmoKeITQsi_0WyVM3DS96ECjL0rhBpjCVqvdDFRbXTXk5ciuMqRxhyYDVzd6EXJNZcU5htMSvuByI5Z6VGhBWdu2IX82UWpF7Ic2K9uXvS7ljmCCMQ3VW1wWGoAMdnIsuI8Sq_13-JvDwkEG6afv8ZR6S1mZlv7LCewgtTqZYQ_D1K6sJXF-7iag-z5bJG_Jrm9OSdZuDbtYg_r4sgI35C17v0ULfvQiR6yCjeBdReCROd6CcSWCklMbMOpjnQg_JwXmYmUuabc83PFOKIzraq11wzqCgCumjCEG47Fw3RIQfWCS3eUI_3cqihZuYe2mcBoMEhwVIf4Sy3UJnyNI.m3u8
@@ -3094,8 +3094,6 @@ https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
 https://panel.streamingtv-mediacp.online:1936/8066/8066/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="775" tvg-name="ZN Noticias" tvg-logo="https://www.m3u.cl/logo/775_ZN_Noticias.png", ZN Noticias  | AR
 http://arcast.com.ar:1935/znoticias/znoticias/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="857" tvg-name="Aster" tvg-logo="https://www.m3u.cl/logo/857_Aster.png", Aster  | CL
-http://96.30.193.226:81/hls/canalaster.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="184" tvg-name="Television Celestial" tvg-logo="https://www.m3u.cl/logo/184_Television_Celestial.png", Television Celestial  | AR
 https://stmvideo2.livecastv.com/celestialtv/celestialtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="431" tvg-name="Chic Magazine" tvg-logo="https://www.m3u.cl/logo/431_Chic_Magazine.png", Chic Magazine  | CL
@@ -3143,8 +3141,6 @@ https://vdo.mivideo.pro:3725/stream/play.m3u8?PlaylistM3UCL
 https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="14" tvg-name="Urban TV" tvg-logo="https://www.m3u.cl/logo/14_Urban_TV.png", Urban TV * | ES
 https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="857" tvg-name="Aster" tvg-logo="https://www.m3u.cl/logo/857_Aster.png", Aster * | CL
-http://96.30.193.226:81/hls/canalaster.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="868" tvg-name="Radio Recreo" tvg-logo="https://www.m3u.cl/logo/868_Radio_Recreo.jpg", Radio Recreo * | CL
 https://tvstreaming.cl:1936/8128/8128/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="786" tvg-name="Tributo Valentina" tvg-logo="https://www.m3u.cl/logo/786_Tributo_Valentina.png", Tributo Valentina * | CL
@@ -3629,8 +3625,6 @@ https://5ca3e84a76d30.streamlock.net:443/gpacifico3/smil:obregon.smil/playlist.m
 https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="796" tvg-name="Euro Indie Music" tvg-logo="https://www.m3u.cl/logo/796_Euro_Indie_Music.png", Euro Indie Music  | GB
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="857" tvg-name="Aster" tvg-logo="https://www.m3u.cl/logo/857_Aster.png", Aster  | CL
-http://96.30.193.226:81/hls/canalaster.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="865" tvg-name="Alcance TV" tvg-logo="https://www.m3u.cl/logo/865_Alcance_TV.jpg", Alcance TV  | MX
 https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8?PlaylistM3UCL
 
