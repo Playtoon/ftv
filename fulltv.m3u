@@ -1578,9 +1578,6 @@ https://m3u-editor.com/serve/televito85/299153937
 
 #EXTINF: -1 tvg-logo="https://i.ibb.co/PccvkHK/Caracol-TV2019corp.png" group-title="Colombia", Caracol TV
 https://m3u-editor.com/serve/televito85/299163939
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nBvK2Nd.png" group-title="Colombia", Noticias Caracol | HD | Bogotá
-https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF: -1 tvg-logo="https://i.ibb.co/NmwhJNm/RCN-TV.png" group-title="Colombia", RCN | HD | Bogotá
 https://m3u-editor.com/serve/televito85/299169694
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jn20Wjw.png" group-title="Colombia", Suram TV | HD | Yopal
@@ -1596,7 +1593,7 @@ http://api.new.livestream.com/accounts/27724665/events/8376416/live.m3u8
 http://179.1.7.198:1935/live/TVAgroHD.stream_360p/chunklist_w842594670.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6xat1QL.png" group-title="Colombia", TV Peñol | HD | Antioquía
-https://cloud2.streaminglivehd.com:1936/8118/8118/chunklist_w1718824862.m3u8
+https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dY8bbZ0.png" group-title="Colombia", Teleislas | SD | San Andrés
 https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/chunklist_w444798539.m3u8
 
@@ -3378,12 +3375,8 @@ https://www.streamingmediatv.live:19360/hdlatam/hdlatam.m3u8?PlaylistM3UCL
 http://vbox.cehis.net/live-calitv/calitv1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="114" tvg-name="Canal 12 Valledupar" tvg-logo="https://www.m3u.cl/logo/114_Canal_12_Valledupar.png", Canal 12 Valledupar  | CO
 https://edge.teveo.com.co/live/AeAAAgAJAAFFA1IAyADIQCAAAAAAAAAAAl-Fpqm1KwItAAAA/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="116" tvg-name="Canal CNC Medellin" tvg-logo="https://www.m3u.cl/logo/116_Canal_CNC_Medellin.jpg", Canal CNC Medellin  | CO
-http://66.240.236.25:1936/canalcnc/canalcnc/chunklist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="117" tvg-name="Canal CNC Pasto" tvg-logo="https://www.m3u.cl/logo/117_Canal_CNC_Pasto.png", Canal CNC Pasto  | CO
 http://66.240.236.25:1936/cncpasto/cncpasto/chunklist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="118" tvg-name="Canal Doce Sincelejo" tvg-logo="https://www.m3u.cl/logo/118_Canal_Doce_Sincelejo.png", Canal Doce Sincelejo  | CO
-http://api.new.livestream.com/accounts/27724665/events/8376416/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="119" tvg-name="Canal Trece" tvg-logo="https://www.m3u.cl/logo/119_Canal_Trece.png", Canal Trece  | CO
 https://liveingesta118.cdnmedia.tv/canaltrecelive/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="121" tvg-name="Canal TRO" tvg-logo="https://www.m3u.cl/logo/121_Canal_TRO.png", Canal TRO  | CO
@@ -3398,12 +3391,8 @@ https://video.cosmovision.tv/live/sd_720p2628kbs/index.m3u8?PlaylistM3UCL
 http://wmoy8w6ky2a7-hls-live.5centscdn.com/ctvbaq/live/chunks.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="142" tvg-name="La Super TV" tvg-logo="https://www.m3u.cl/logo/142_La_Super_TV.jpg", La Super TV  | CO
 http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="129" tvg-name="Suram" tvg-logo="https://www.m3u.cl/logo/129_Suram.jpg", Suram  | CO
-https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="130" tvg-name="TDI" tvg-logo="https://www.m3u.cl/logo/130_TDI.jpg", TDI  | CO
 https://streamyes.alsolnet.com/tdicolombia/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="137" tvg-name="Tele Islas" tvg-logo="https://www.m3u.cl/logo/137_Tele_Islas.jpg", Tele Islas  | CO
-http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="131" tvg-name="Telecafe" tvg-logo="https://www.m3u.cl/logo/131_Telecafe.png", Telecafe  | CO
 http://api.new.livestream.com/accounts/1015476/events/7158511/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="132" tvg-name="Telecaribe" tvg-logo="https://www.m3u.cl/logo/132_Telecaribe.png", Telecaribe  | CO
@@ -3414,10 +3403,6 @@ https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k
 http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="136" tvg-name="Telemedellin" tvg-logo="https://www.m3u.cl/logo/136_Telemedellin.png", Telemedellin  | CO
 http://api.new.livestream.com/accounts/4608897/events/7111788/live.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="135" tvg-name="Telepacífico" tvg-logo="https://www.m3u.cl/logo/135_Telepacifico.png", Telepacífico  | CO
-https://cdn.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="138" tvg-name="TV Agro" tvg-logo="https://www.m3u.cl/logo/138_TV_Agro.jpg", TV Agro  | CO
-http://179.1.7.198:1935/live/TVAgroHD.stream_360p/chunklist_w842594670.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="140" tvg-name="Zoom TV" tvg-logo="https://www.m3u.cl/logo/140_Zoom_TV.jpg", Zoom TV  | CO
 https://liveingesta118.cdnmedia.tv/canalzoomtvlive/smil:especialesweb01.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="112" tvg-name="Amordiscos TV" tvg-logo="https://www.m3u.cl/logo/112_Amordiscos_TV.png", Amordiscos TV  | CO
@@ -3432,8 +3417,6 @@ https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8?PlaylistM3UCL
 https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="804" tvg-name="Tele Pasto" tvg-logo="https://www.m3u.cl/logo/804_Tele_Pasto.jpg", Tele Pasto  | CO
 https://byecableiptv.com/telepasto/Telepasto.stream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="860" tvg-name="TV Peñol" tvg-logo="https://www.m3u.cl/logo/860_TV_Penol.png", TV Peñol  | CO
-https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="862" tvg-name="Oasis TV" tvg-logo="https://www.m3u.cl/logo/862_Oasis_TV.jpg", Oasis TV  | CO
 https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="874" tvg-name="Cristovision" tvg-logo="https://www.m3u.cl/logo/874_Cristovision.jpg", Cristovision  | CO
