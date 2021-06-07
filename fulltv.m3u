@@ -3550,8 +3550,6 @@ https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8?Pla
 http://200.6.154.43:1935/canal11/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="148" tvg-name="Telearagua" tvg-logo="https://www.m3u.cl/logo/148_Telearagua.png", Telearagua  | VE
 http://190.205.43.236:8080/hls/nginx.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="149" tvg-name="Televen" tvg-logo="https://www.m3u.cl/logo/149_Televen.jpg", Televen  | VE
-https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="151" tvg-name="TVES" tvg-logo="https://www.m3u.cl/logo/151_TVES.png", TVES  | VE
 https://edge1o.live.opencaster.com/caster/erCkqDzdGzpj.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="155" tvg-name="VTV" tvg-logo="https://www.m3u.cl/logo/155_VTV.png", VTV  | VE
@@ -3560,8 +3558,6 @@ https://livestream.streamingconnect.com/hls/vtvweb.m3u8?PlaylistM3UCL
 http://www.serverstreamgroup.biz:1935/Luz102.1FM/Luz102.1FM.stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="518" tvg-name="TVS Maracay" tvg-logo="https://www.m3u.cl/logo/518_TVS_Maracay.png", TVS Maracay  | VE
 http://vcp1.myplaytv.com:1935/tvs/tvs/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="519" tvg-name="Canal i" tvg-logo="https://www.m3u.cl/logo/519_Canal_i.png", Canal i  | VE
-https://vcp.myplaytv.com/canali/canali/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="520" tvg-name="Venevision" tvg-logo="https://www.m3u.cl/logo/520_Venevision.png", Venevision  | VE
 http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="433" tvg-name="Solo Stand Up" tvg-logo="https://www.m3u.cl/logo/433_Solo_Stand_Up.png", Solo Stand Up  | CL
