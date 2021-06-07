@@ -2314,7 +2314,7 @@ https://i.imgur.com/7o6at8Q.mp4
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rx7e6vi.png" group-title="Radios Chilenas Con Video", ADN | SD | Providencia
-http://unlimited2-cl.dps.live/adntv/adntv.smil/playlist.m3u8
+https://unlimited6-cl.dps.live/adntv/adntv.smil/playlist.m3u8?PlaylistM3UCL
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/C5DMQIp.png" group-title="Radios Chilenas Con Video", Agricultura | SD | Providencia
 https://unlimited10-cl.dps.live/921tv/921tv.smil/playlist.m3u8
@@ -2355,10 +2355,6 @@ https://v2.tustreaming.cl/miradiotv/live1/rewind-999999.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7VlqWaI.png" group-title="Radios Chilenas Con Video", On Radio TV Chile | HD | Providencia
 https://tls.cdnz.cl/onradio3/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2OGmEnO.jpg" group-title="Radios Chilenas Con Video", On Radio K-POP | HD | Providencia
-https://tls.cdnz.cl/onradio4/live/playlist.m3u8
-
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dO5ApYq.jpg" group-title="Radios Chilenas Con Video", Pauta | HD | Providencia
 http://video-ply.pauta.cl/playlist/stream.m3u8?s=pauta-hd
@@ -3102,8 +3098,6 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_p
 https://unlimited10-cl.dps.live/arcatel/arcatel.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="311" tvg-name="Arica TV" tvg-logo="https://www.m3u.cl/logo/311_Arica_TV.png", Arica TV  | CL
 https://5d1ca66d2d698.streamlock.net:1936/8002/8002/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="312" tvg-name="Cappissima Multimedial TV" tvg-logo="https://www.m3u.cl/logo/312_Cappissima_Multimedial_TV.png", Cappissima Multimedial TV  | CL
-http://cl.streaminghd.cl/cappissima/cappissima/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="313" tvg-name="Puerta Norte" tvg-logo="https://www.m3u.cl/logo/313_Puerta_Norte.png", Puerta Norte  | CL
 https://593b04c4c5670.streamlock.net/8170/8170/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="315" tvg-name="Geovision" tvg-logo="https://www.m3u.cl/logo/315_Geovision.jpg", Geovision  | CL
@@ -3188,8 +3182,6 @@ https://stmv.panel.mivideo.pro/bajocerotv/bajocerotv/playlist.m3u8?PlaylistM3UCL
 https://5b464b69d264e.streamlock.net:/Channels_live/ngrp:amordiscos_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="38" tvg-name="Best Cable Music" tvg-logo="https://www.m3u.cl/logo/38_Best_Cable_Music.jpg", Best Cable Music  | PE
 https://live.siete.us/bestcablemusic/bestcablemusic/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="27" tvg-name="Carolina TV" tvg-logo="https://www.m3u.cl/logo/27_Carolina_TV.png", Carolina TV  | CL
-http://unlimited1-cl.dps.live/carolinatv/carolinatv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="16" tvg-name="Conecta TV" tvg-logo="https://www.m3u.cl/logo/16_Conecta_TV.png", Conecta TV  | MX
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="29" tvg-name="DJ Loncho TV" tvg-logo="https://www.m3u.cl/logo/29_DJ_Loncho_TV.png", DJ Loncho TV  | CL
@@ -3200,8 +3192,6 @@ https://live.siete.us/bestcablehatuntv/bestcablehatuntv/index.m3u8?PlaylistM3UCL
 https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="40" tvg-name="Mas Cumbia" tvg-logo="https://www.m3u.cl/logo/40_Mas_Cumbia.png", Mas Cumbia  | PE
 https://live.siete.us/mascumbiatvonline/mascumbiatvonline/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="33" tvg-name="Maxima FM" tvg-logo="https://www.m3u.cl/logo/33_Maxima_FM.png", Maxima FM  | CL
-https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="43" tvg-name="Turbo Mix TV" tvg-logo="https://www.m3u.cl/logo/43_Turbo_Mix_TV.png", Turbo Mix TV  | PE
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="34" tvg-name="TV vconline.cl" tvg-logo="https://www.m3u.cl/logo/34_TV_vconline_cl.png", TV vconline.cl  | CL
@@ -3216,8 +3206,6 @@ https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8?PlaylistM3UCL
 https://srv1.zcast.com.br/zonaplay/zonaplay/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="386" tvg-name="Energia TV" tvg-logo="https://www.m3u.cl/logo/386_Energia_TV.png", Energia TV  | CL
 https://cdn.oneplaychile.cl:1936/regionales/energia-fm/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="379" tvg-name="CCP Radio" tvg-logo="https://www.m3u.cl/logo/379_CCP_Radio.png", CCP Radio  | CL
-https://tls.cdnz.cl:443/ccpradio/ccpradio/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="400" tvg-name="Red Fueguina Radio" tvg-logo="https://www.m3u.cl/logo/400_Red_Fueguina_Radio.png", Red Fueguina Radio  | CL
 https://inliveserver.com:1936/11012/11012/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="838" tvg-name="DBox Radio" tvg-logo="https://www.m3u.cl/logo/838_DBox_Radio.png", DBox Radio  | CL
@@ -3260,8 +3248,6 @@ https://panel.dattalive.com:443/8146/8146/playlist.m3u8?PlaylistM3UCL
 https://v2.tustreaming.cl/genialtv/live1/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="401" tvg-name="Radio Fiessta" tvg-logo="https://www.m3u.cl/logo/401_Radio_Fiessta.png", Radio Fiessta  | CL
 https://unlimited10-cl.dps.live/fiesstatv/fiesstatv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="417" tvg-name="Radio Favorita" tvg-logo="https://www.m3u.cl/logo/417_Radio_Favorita.png", Radio Favorita  | CL
-https://streamyes.alsolnet.com/radiofavoritatv/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="870" tvg-name="Radio Ñuble" tvg-logo="https://www.m3u.cl/logo/870_Radio_Nuble.jpg", Radio Ñuble  | CL
 https://live.tvcontrolcp.com:1936/Rnuble/Rnuble/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="389" tvg-name="Radio Fantasia TV" tvg-logo="https://www.m3u.cl/logo/389_Radio_Fantasia_TV.png", Radio Fantasia TV  | CL
@@ -3272,8 +3258,6 @@ http://v2.tustreaming.cl:80/cosmostv/index.m3u8?PlaylistM3UCL
 https://v2.tustreaming.cl/corporacion/s1-500k/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="409" tvg-name="Radio Chiloe" tvg-logo="https://www.m3u.cl/logo/409_Radio_Chiloe.png", Radio Chiloe  | CL
 https://hd.chileservidores.cl:1936/chiloeone/chiloeone/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="410" tvg-name="Radio Camila TV" tvg-logo="https://www.m3u.cl/logo/410_Radio_Camila_TV.png", Radio Camila TV  | CL
-https://593b04c4c5670.streamlock.net/8142/8142/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="381" tvg-name="Radio Amatista" tvg-logo="https://www.m3u.cl/logo/381_Radio_Amatista.png", Radio Amatista  | CL
 https://paneltv.online:1936/8096/8096/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="393" tvg-name="Radio Actitud" tvg-logo="https://www.m3u.cl/logo/393_Radio_Actitud.png", Radio Actitud  | CL
@@ -3284,36 +3268,24 @@ https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL
 https://5eff35271151c.streamlock.net:1936/8068/8068/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="402" tvg-name="Orocoipo" tvg-logo="https://www.m3u.cl/logo/402_Orocoipo.png", Orocoipo  | CL
 https://593b04c4c5670.streamlock.net:443/8076/8076/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="385" tvg-name="On Radio Chile" tvg-logo="https://www.m3u.cl/logo/385_On_Radio_Chile.png", On Radio Chile  | CL
-https://tls.cdnz.cl/onradio3/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="395" tvg-name="Mi Radio TV" tvg-logo="https://www.m3u.cl/logo/395_Mi_Radio_TV.png", Mi Radio TV  | CL
-https://v2.tustreaming.cl/miradiotv/live1/rewind-999999.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="411" tvg-name="InterRadio TV" tvg-logo="https://www.m3u.cl/logo/411_InterRadio_TV.png", InterRadio TV  | CL
-https://v2.tustreaming.cl/interradiotv/tracks-v1a1/mono.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="388" tvg-name="Interactiva FM" tvg-logo="https://www.m3u.cl/logo/388_Interactiva_FM.jpg", Interactiva FM  | CL
 https://live.tvcontrolcp.com:1936/interactiva/interactiva/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="397" tvg-name="FM Pulso" tvg-logo="https://www.m3u.cl/logo/397_FM_Pulso.png", FM Pulso  | CL
 https://panel.tvstream.cl:1936/8004/8004/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="419" tvg-name="El Conquistador TV" tvg-logo="https://www.m3u.cl/logo/419_El_Conquistador_TV.png", El Conquistador TV  | CL
 http://v3.tustreaming.cl/conquistadorcc/live1/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="382" tvg-name="ChocolateFM" tvg-logo="https://www.m3u.cl/logo/382_ChocolateFM.png", ChocolateFM  | CL
-https://paneltv.online:1936/8106/8106/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="414" tvg-name="AE Radio" tvg-logo="https://www.m3u.cl/logo/414_AE_Radio.png", AE Radio  | CL
 https://tls.cdnz.cl/aeradio/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="426" tvg-name="Radio Tiempo" tvg-logo="https://www.m3u.cl/logo/426_Radio_Tiempo.png", Radio Tiempo  | CL
 https://unlimited10-cl.dps.live/fmtiempotv/fmtiempotv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="428" tvg-name="Radio Romantica" tvg-logo="https://www.m3u.cl/logo/428_Radio_Romantica.png", Radio Romantica  | CL
 https://unlimited6-cl.dps.live/romanticatv/romanticatv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="423" tvg-name="Radio Agricultura" tvg-logo="https://www.m3u.cl/logo/423_Radio_Agricultura.png", Radio Agricultura  | CL
-https://unlimited6-cl.dps.live/921tv/921tv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="427" tvg-name="Radio Duna" tvg-logo="https://www.m3u.cl/logo/427_Radio_Duna.png", Radio Duna  | CL
 https://unlimited6-cl.dps.live/dunatv/dunatv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="429" tvg-name="Pudahuel FM" tvg-logo="https://www.m3u.cl/logo/429_Pudahuel_FM.png", Pudahuel FM  | CL
 https://unlimited10-cl.dps.live/pudahueltv/pudahueltv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="422" tvg-name="Cooperativa" tvg-logo="https://www.m3u.cl/logo/422_Cooperativa.png", Cooperativa  | CL
 https://unlimited1-cl.dps.live/coopetv/coopetv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="424" tvg-name="ADN" tvg-logo="https://www.m3u.cl/logo/424_ADN.png", ADN  | CL
-https://unlimited6-cl.dps.live/adntv/adntv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="174" tvg-name="Voz de Poder Televisión" tvg-logo="https://www.m3u.cl/logo/174_Voz_de_Poder_Television.png", Voz de Poder Televisión  | CL
 https://v2.tustreaming.cl/vozdepoder/live1/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="161" tvg-name="Vida TV" tvg-logo="https://www.m3u.cl/logo/161_Vida_TV.png", Vida TV  | CL
