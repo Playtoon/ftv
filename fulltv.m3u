@@ -2002,7 +2002,7 @@ https://inliveserver.com:1936/15010/15010/chunklist_w2081654420.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bHEv9Q4.jpg" group-title="Musicales", TV Éxitos | HD | Rep. Dominicana
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cTrgFSx.png" group-title="Musicales", Radio Televisión Makao | HD | Rep. Dominicana
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cTrgFSx.png" group-title="Musicales", Makao | HD | Rep. Dominicana
 https://cdn4.hostlagarto.com:8081/static/Makaotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iAyjLaA.png" group-title="Musicales", Hits 360° | HD | Rep. Dominicana
@@ -2043,7 +2043,7 @@ https://vidaprimo-distroscale.amagi.tv/playlist.m3u8
 https://byecableiptv.com/ranchenato/ranchenato.stream_360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PlJ0wsM.png" group-title="Musicales", Venus Media | HD | Paraguay
-https://rds3.desdeparaguay.net/venusmedia/venusmedia/chunklist_w195830713.m3u8
+https://rds3.desdeparaguay.net/venusmedia/venusmedia/chunklist_w217124498.m3u8?k=4046f67326ddcf5b38886b278db3538fa50e6dedbe83518751a1a7bde8e36486&exp=1623097912
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EpEVoUX.png" group-title="Musicales", Cadena Elite | HD | Granada | España
 https://cloudvideo.servers10.com:8081/8004/tracks-v1a1/mono.m3u8
@@ -2088,10 +2088,10 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jis8xic.png" group-title="Musicales", Hot Rock TV| HD | Estados Unidos
 https://nrpus.bozztv.com/36bay2/gusa-hotrock/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QJsJtyA.png" group-title="Musicales", Dancestar Television| HD | Estados Unidos
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QJsJtyA.png" group-title="Musicales", DSTV| HD | Estados Unidos
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mlI65LX.png" group-title="Musicales",Dancestar Television | HD | Estados Unidos | Alt.
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mlI65LX.png" group-title="Musicales", DSTV | HD | Estados Unidos | Alt.
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TQtKvf5.jpg" group-title="Musicales", Sunburn TV | HD | Estados Unidos
@@ -2112,7 +2112,7 @@ http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 https://5db313b643fd8.streamlock.net/ZerounoTV/ZerounoTV/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vyUccgT.png" group-title="Musicales", UTV | SD | Rumanía
-https://edge214.rcs-rds.ro/V4-9217692-7794335db979d372db97338f110d085b-3047220234-0-1617032696-411-utv/utv/utvhq.stream/chunklist.m3u8
+https://edge214.rcs-rds.ro/V4-3469113-25bdf7aac3a7440bda1c3badeb161538-2855520982-0-1623100095-411-utv/utv/utvhq.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2KPPaAM.png" group-title="Musicales", Rock TV | SD | Rumanía
 https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/playlist.m3u8
@@ -3018,8 +3018,6 @@ http://csvl03.manasat.com:1935/tvar/tvmanaar2/playlist.m3u8?PlaylistM3UCL
 https://5f700d5b2c46f.streamlock.net:443/uniriotv/uniriotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="211" tvg-name="Vibra TV" tvg-logo="https://www.m3u.cl/logo/211_Vibra_TV.png", Vibra TV  | AR
 https://live.autistici.org/hls/vibratelevision.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="796" tvg-name="Euro Indie Music" tvg-logo="https://www.m3u.cl/logo/796_Euro_Indie_Music.png", Euro Indie Music  | GB
-http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="521" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://www.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png", Recuerdos Retro Radio TV  | CL
 https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="847" tvg-name="Tango TV" tvg-logo="https://www.m3u.cl/logo/logo-M3U-negro-cl.png", Tango TV  | AR
@@ -3037,8 +3035,6 @@ http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8?PlaylistM3UCL
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirl/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="94" tvg-name="TV HD Tropical" tvg-logo="https://www.m3u.cl/logo/94_TV_HD_Tropical.png", TV HD Tropical  | BO
 https://5d79ae45bc63b.streamlock.net:443/radiotropical952/radiotropical952/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="782" tvg-name="Sexy Kpop TV" tvg-logo="https://www.m3u.cl/logo/782_Sexy_Kpop_TV.jpg", Sexy Kpop TV  | BR
-https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="846" tvg-name="XTO TV" tvg-logo="https://www.m3u.cl/logo/846_XTO_TV.png", XTO TV  | BO
 https://5f5a73adac4ac.streamlock.net/XtoTv/XtoTv/playlist.m3u8?PlaylistM3UCL
 
@@ -3050,8 +3046,6 @@ https://5eae379fb77bb.streamlock.net:443/8034/8034/playlist.m3u8?PlaylistM3UCL
 https://eu1.servers10.com:8081/8140/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="12" tvg-name="Awka" tvg-logo="https://www.m3u.cl/logo/12_Awka.png", Awka * | AR
 https://stmv1.questreaming.com/awkasonido/awkasonido/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="796" tvg-name="Euro Indie Music" tvg-logo="https://www.m3u.cl/logo/796_Euro_Indie_Music.png", Euro Indie Music * | GB
-http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="849" tvg-name="High Music" tvg-logo="https://www.m3u.cl/logo/849_High_Music.jpg", High Music * | CL
 http://96.30.193.226:81/hls/highmusic.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="771" tvg-name="Mundo de la Musica TV" tvg-logo="https://www.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png", Mundo de la Musica TV * | CL
@@ -3204,20 +3198,12 @@ https://srv2.zcast.com.br/djlonchotv/djlonchotv/playlist.m3u8?PlaylistM3UCL
 https://live.siete.us/bestcablehatuntv/bestcablehatuntv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="30" tvg-name="Ibiza Global TV" tvg-logo="https://www.m3u.cl/logo/30_Ibiza_Global_TV.png", Ibiza Global TV  | ES
 https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="39" tvg-name="Karibeña TV" tvg-logo="https://www.m3u.cl/logo/39_Karibena_TV.jpg", Karibeña TV  | PE
-https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="40" tvg-name="Mas Cumbia" tvg-logo="https://www.m3u.cl/logo/40_Mas_Cumbia.png", Mas Cumbia  | PE
 https://live.siete.us/mascumbiatvonline/mascumbiatvonline/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="33" tvg-name="Maxima FM" tvg-logo="https://www.m3u.cl/logo/33_Maxima_FM.png", Maxima FM  | CL
 https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="36" tvg-name="Telemusica" tvg-logo="https://www.m3u.cl/logo/36_Telemusica.png", Telemusica  | CO
-https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="17" tvg-name="The Retro Channel" tvg-logo="https://www.m3u.cl/logo/17_The_Retro_Channel.png", The Retro Channel  | PR
-https://5df3045a6b70e.streamlock.net/theretrochannel/stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="43" tvg-name="Turbo Mix TV" tvg-logo="https://www.m3u.cl/logo/43_Turbo_Mix_TV.png", Turbo Mix TV  | PE
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="19" tvg-name="TV Exitos" tvg-logo="https://www.m3u.cl/logo/19_TV_Exitos.png", TV Exitos  | DO
-https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="34" tvg-name="TV vconline.cl" tvg-logo="https://www.m3u.cl/logo/34_TV_vconline_cl.png", TV vconline.cl  | CL
 https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="22" tvg-name="Video Tour Channel" tvg-logo="https://www.m3u.cl/logo/22_Video_Tour_Channel.png", Video Tour Channel  | CR
@@ -3385,8 +3371,6 @@ http://api.new.livestream.com/accounts/4608897/events/7111788/live.m3u8?Playlist
 https://liveingesta118.cdnmedia.tv/canalzoomtvlive/smil:especialesweb01.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="112" tvg-name="Amordiscos TV" tvg-logo="https://www.m3u.cl/logo/112_Amordiscos_TV.png", Amordiscos TV  | CO
 https://5b464b69d264e.streamlock.net:/Channels_live/ngrp:amordiscos_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="36" tvg-name="Telemusica" tvg-logo="https://www.m3u.cl/logo/36_Telemusica.png", Telemusica  | CO
-https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="187" tvg-name="Tele Familia" tvg-logo="https://www.m3u.cl/logo/187_Tele_Familia.png", Tele Familia  | CO
 https://cloud2.streaminglivehd.com:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="181" tvg-name="TV Gracia" tvg-logo="https://www.m3u.cl/logo/181_TV_Gracia.png", TV Gracia  | CO
@@ -3440,8 +3424,6 @@ http://infantil-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
 http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="513" tvg-name="RTVE1" tvg-logo="https://www.m3u.cl/logo/513_RTVE1.png", RTVE1  | ES
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="796" tvg-name="Euro Indie Music" tvg-logo="https://www.m3u.cl/logo/796_Euro_Indie_Music.png", Euro Indie Music  | GB
-http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="30" tvg-name="Ibiza Global TV" tvg-logo="https://www.m3u.cl/logo/30_Ibiza_Global_TV.png", Ibiza Global TV  | ES
 https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="196" tvg-name="Cristiana TV" tvg-logo="https://www.m3u.cl/logo/196_Cristiana_TV.png", Cristiana TV  | ES
@@ -3496,8 +3478,6 @@ http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8?Playlis
 http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="641" tvg-name="UMTV" tvg-logo="https://www.m3u.cl/logo/641_UMTV.png", UMTV  | MX
 https://60417ddeaf0d9.streamlock.net:443/montemorelos/videomontemorelos/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="796" tvg-name="Euro Indie Music" tvg-logo="https://www.m3u.cl/logo/796_Euro_Indie_Music.png", Euro Indie Music  | GB
-http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="865" tvg-name="Alcance TV" tvg-logo="https://www.m3u.cl/logo/865_Alcance_TV.jpg", Alcance TV  | MX
 https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8?PlaylistM3UCL
 
@@ -3507,8 +3487,6 @@ https://live.siete.us/bestcablesports/bestcablesports/index.m3u8?PlaylistM3UCL
 https://live.siete.us/bestcablemusic/bestcablemusic/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="41" tvg-name="Hatun TV" tvg-logo="https://www.m3u.cl/logo/41_Hatun_TV.jpg", Hatun TV  | PE
 https://live.siete.us/bestcablehatuntv/bestcablehatuntv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="39" tvg-name="Karibeña TV" tvg-logo="https://www.m3u.cl/logo/39_Karibena_TV.jpg", Karibeña TV  | PE
-https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="40" tvg-name="Mas Cumbia" tvg-logo="https://www.m3u.cl/logo/40_Mas_Cumbia.png", Mas Cumbia  | PE
 https://live.siete.us/mascumbiatvonline/mascumbiatvonline/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="43" tvg-name="Turbo Mix TV" tvg-logo="https://www.m3u.cl/logo/43_Turbo_Mix_TV.png", Turbo Mix TV  | PE
@@ -3543,8 +3521,6 @@ https://59d39900ebfb8.streamlock.net:443/str15live/str15live/playlist.m3u8?Playl
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="703" tvg-name="Via Television Tarapoto" tvg-logo="https://www.m3u.cl/logo/703_Via_Television_Tarapoto.png", Via Television Tarapoto  | PE
 https://5ee0faac3bbae.streamlock.net:443/viatv2021/viatv2021/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="688" tvg-name="Vision TV" tvg-logo="https://www.m3u.cl/logo/688_Vision_TV.png", Vision TV  | PE
-https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="143" tvg-name="Canal Once Del Zulia" tvg-logo="https://www.m3u.cl/logo/143_Canal_Once_Del_Zulia.png", Canal Once Del Zulia  | VE
 http://200.6.154.43:1935/canal11/live/playlist.m3u8?PlaylistM3UCL
