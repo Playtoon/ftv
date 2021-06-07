@@ -1802,7 +1802,7 @@ https://bcovlive-a.akamaihd.net/2f670e324b9b46bba7582e919ed90924/us-east-1/60580
 
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BxZR6fX.png" group-title="Panamá", Nex TV | SD | Ciudad de Panamá
-http://198.1.123.99:1935/live/myStream/.m3u8
+https://rtmp02.portalexpress.es/demotv2/demotv2/chunklist_w1803443201.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qOfpWOV.jpg" group-title="Panamá", Oye | SD | Ciudad de Panamá
@@ -3456,20 +3456,12 @@ http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
 https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="642" tvg-name="8 NTV" tvg-logo="https://www.m3u.cl/logo/642_8_NTV.png", 8 NTV  | MX
 https://60417ddeaf0d9.streamlock.net:443/ntv/videontv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="658" tvg-name="ADN 40" tvg-logo="https://www.m3u.cl/logo/658_ADN_40.png", ADN 40  | MX
-https://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="659" tvg-name="Canal 10 Cancun" tvg-logo="https://www.m3u.cl/logo/659_Canal_10_Cancun.png", Canal 10 Cancun  | MX
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="660" tvg-name="Canal 10 Chiapas" tvg-logo="https://www.m3u.cl/logo/660_Canal_10_Chiapas.png", Canal 10 Chiapas  | MX
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="640" tvg-name="Canal 12.1 Colima" tvg-logo="https://www.m3u.cl/logo/640_Canal_12_1_Colima.jpg", Canal 12.1 Colima  | MX
 https://5ca9af4645e15.streamlock.net:443/canal11/videocanal11/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="661" tvg-name="Canal 15 Fresnillo" tvg-logo="https://www.m3u.cl/logo/661_Canal_15_Fresnillo.png", Canal 15 Fresnillo  | MX
 https://5e50264bd6766.streamlock.net:443/fresnillo/smil:fresnillo.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="662" tvg-name="Canal 15 Zacatecas" tvg-logo="https://www.m3u.cl/logo/662_Canal_15_Zacatecas.png", Canal 15 Zacatecas  | MX
-https://5e50264bd6766.streamlock.net:443/canal15zac/smil:canal15zac.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="644" tvg-name="Canal 28 Nuevo Leon" tvg-logo="https://www.m3u.cl/logo/644_Canal_28_Nuevo_Leon.jpg", Canal 28 Nuevo Leon  | MX
-https://6011c5681d877.streamlock.net:1936/canal28/canal28/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="663" tvg-name="Canal 4 Saltillo" tvg-logo="https://www.m3u.cl/logo/663_Canal_4_Saltillo.png", Canal 4 Saltillo  | MX
 https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="639" tvg-name="Canal 7 SLP" tvg-logo="https://www.m3u.cl/logo/639_Canal_7_SLP.png", Canal 7 SLP  | MX
@@ -3498,10 +3490,6 @@ http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8?PlaylistM3UCL
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="646" tvg-name="SIZART Canal 24 Zacatecas" tvg-logo="https://www.m3u.cl/logo/646_SIZART_Canal_24_Zacatecas.png", SIZART Canal 24 Zacatecas  | MX
 https://5ca9af4645e15.streamlock.net:443/zacatecas/videozacatecas/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="677" tvg-name="Telemar Campeche" tvg-logo="https://www.m3u.cl/logo/677_Telemar_Campeche.png", Telemar Campeche  | MX
-https://59d39900ebfb8.streamlock.net/8410/8410/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="636" tvg-name="Teleplay" tvg-logo="https://www.m3u.cl/logo/636_Teleplay.png", Teleplay  | MX
-https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="647" tvg-name="Tlaxcala TV" tvg-logo="https://www.m3u.cl/logo/647_Tlaxcala_TV.png", Tlaxcala TV  | MX
 https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="681" tvg-name="Transmedia TV Morelia" tvg-logo="https://www.m3u.cl/logo/681_Transmedia_TV_Morelia.png", Transmedia TV Morelia  | MX
