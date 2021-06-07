@@ -1873,15 +1873,15 @@ https://i.imgur.com/PGqJ0Tj.mp4
 https://m3u-editor.com/serve/televito85/298499919
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/NUlaCOS.png" group-title="Perú", ATV | SD
-https://m3u-editor.com/serve/televito85/298500317
+https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/chunklist_b1024000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIzMTIzMzUwLCJzZXNzaW9uIjoiMTcwLjUxLjIwMi4yMTQiLCJ3aGl0ZWxpc3QiOlsiMTcwLjUxLjIwMi4yMTQiXX0sInNpZ25hdHVyZSI6ImQ1ODdiMzU2MmUzNDMzODY1NzI0ZGE0NzMwM2VjNWNkYTAwNDA2ZTIifQ%3D%3D
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/xCwkHUm.png" group-title="Perú", Latina | HD 
-https://m3u-editor.com/serve/televito85/298500318
+https://live-latina-mdstrm.secure.footprint.net/live-stream-mp/d1aden84nxx8u4/3330943a0248407faa8c6f5f5c874fa4/5ce7109c7398b977dc0744cd/index_2.m3u8?&
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Jrtwnsk.png" group-title="Perú", Willax | HD 
-https://m3u-editor.com/serve/televito85/298500319
+https://stream-01.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmil--xKWU0uFWzRPel6o6zk)/dm/3/x7x4dgx/s/live-2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PIEkgqo.jpg" group-title="Perú", Unitel | HD 
-https://cp.sradiotv.com:1936/8078/8078/chunklist_w428381417.m3u8
+https://cp.sradiotv.com:1936/8078/8078/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TMKkxue.png" group-title="Perú", Exitosa TV | HD 
 https://cu.onliv3.com/livevd1/user2_hd720/index.m3u8 
@@ -1957,7 +1957,7 @@ https://i.imgur.com/17muPsg.mp4
 https://livestream.streamingconnect.com/hls/vtvweb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/I5BYJ1s.png" group-title="Venezuela", Corazón Llanero| SD
 https://vcp.myplaytv.com/coll/coll/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z1OgEJD.png" group-title="Venezuela", Televisora de Oriente| SD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z1OgEJD.png" group-title="Venezuela", TVO| SD 
 http://vcp1.myplaytv.com:1935/tvo/tvo/chunklist_w1157017918.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gbJeRFz.png" group-title="Venezuela", Vepaco| SD 
@@ -3198,8 +3198,6 @@ https://live.siete.us/bestcablemusic/bestcablemusic/index.m3u8?PlaylistM3UCL
 http://unlimited1-cl.dps.live/carolinatv/carolinatv.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="16" tvg-name="Conecta TV" tvg-logo="https://www.m3u.cl/logo/16_Conecta_TV.png", Conecta TV  | MX
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="18" tvg-name="Corazon Llanero" tvg-logo="https://www.m3u.cl/logo/18_Corazon_Llanero.png", Corazon Llanero  | VE
-https://vcp.myplaytv.com:443/coll/coll/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="29" tvg-name="DJ Loncho TV" tvg-logo="https://www.m3u.cl/logo/29_DJ_Loncho_TV.png", DJ Loncho TV  | CL
 https://srv2.zcast.com.br/djlonchotv/djlonchotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="41" tvg-name="Hatun TV" tvg-logo="https://www.m3u.cl/logo/41_Hatun_TV.jpg", Hatun TV  | PE
@@ -3525,14 +3523,10 @@ http://168.205.133.38:80/uci1/index.m3u8?PlaylistM3UCL
 http://168.205.133.38:80/uci2/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="687" tvg-name="Vision Noticias Peru" tvg-logo="https://www.m3u.cl/logo/687_Vision_Noticias_Peru.png", Vision Noticias Peru  | PE
 https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="694" tvg-name="Antares TV" tvg-logo="https://www.m3u.cl/logo/694_Antares_TV.png", Antares TV  | PE
-https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="693" tvg-name="Best Cable TV" tvg-logo="https://www.m3u.cl/logo/693_Best_Cable_TV.png", Best Cable TV  | PE
 https://live.siete.us/bestcable/bestcable/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="704" tvg-name="Central TV Chosica" tvg-logo="https://www.m3u.cl/logo/704_Central_TV_Chosica.png", Central TV Chosica  | PE
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="691" tvg-name="Exitosa" tvg-logo="https://www.m3u.cl/logo/691_Exitosa.jpg", Exitosa  | PE
-https://cu.onliv3.com/livevd1/user2.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="697" tvg-name="Hechicera TV" tvg-logo="https://www.m3u.cl/logo/697_Hechicera_TV.png", Hechicera TV  | PE
 https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="685" tvg-name="Inkavision" tvg-logo="https://www.m3u.cl/logo/685_Inkavision.png", Inkavision  | PE
@@ -3547,8 +3541,6 @@ http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8?PlaylistM3
 https://59d39900ebfb8.streamlock.net:443/str15live/str15live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="686" tvg-name="TVperuanisima" tvg-logo="https://www.m3u.cl/logo/686_TVperuanisima.png", TVperuanisima  | PE
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="702" tvg-name="Unitel" tvg-logo="https://www.m3u.cl/logo/702_Unitel.png", Unitel  | PE
-https://cp.sradiotv.com:1936/8078/8078/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="703" tvg-name="Via Television Tarapoto" tvg-logo="https://www.m3u.cl/logo/703_Via_Television_Tarapoto.png", Via Television Tarapoto  | PE
 https://5ee0faac3bbae.streamlock.net:443/viatv2021/viatv2021/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="688" tvg-name="Vision TV" tvg-logo="https://www.m3u.cl/logo/688_Vision_TV.png", Vision TV  | PE
@@ -3556,22 +3548,14 @@ https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8?Pla
 
 #EXTINF:-1 tvg-id="143" tvg-name="Canal Once Del Zulia" tvg-logo="https://www.m3u.cl/logo/143_Canal_Once_Del_Zulia.png", Canal Once Del Zulia  | VE
 http://200.6.154.43:1935/canal11/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="146" tvg-name="Promar TV" tvg-logo="https://www.m3u.cl/logo/146_Promar_TV.png", Promar TV  | VE
-http://vcp1.myplaytv.com/promar/promar/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="148" tvg-name="Telearagua" tvg-logo="https://www.m3u.cl/logo/148_Telearagua.png", Telearagua  | VE
 http://190.205.43.236:8080/hls/nginx.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="149" tvg-name="Televen" tvg-logo="https://www.m3u.cl/logo/149_Televen.jpg", Televen  | VE
 https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="151" tvg-name="TVES" tvg-logo="https://www.m3u.cl/logo/151_TVES.png", TVES  | VE
 https://edge1o.live.opencaster.com/caster/erCkqDzdGzpj.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="152" tvg-name="TVO" tvg-logo="https://www.m3u.cl/logo/152_TVO.png", TVO  | VE
-http://vcp1.myplaytv.com:1935/tvo/tvo/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="153" tvg-name="Vepaco TV" tvg-logo="https://www.m3u.cl/logo/153_Vepaco_TV.png", Vepaco TV  | VE
-http://vcp1.myplaytv.com:1935/tvepaco/tvepaco/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="155" tvg-name="VTV" tvg-logo="https://www.m3u.cl/logo/155_VTV.png", VTV  | VE
 https://livestream.streamingconnect.com/hls/vtvweb.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="18" tvg-name="Corazon Llanero" tvg-logo="https://www.m3u.cl/logo/18_Corazon_Llanero.png", Corazon Llanero  | VE
-https://vcp.myplaytv.com:443/coll/coll/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="188" tvg-name="Luz TV" tvg-logo="https://www.m3u.cl/logo/188_Luz_TV.png", Luz TV  | VE
 http://www.serverstreamgroup.biz:1935/Luz102.1FM/Luz102.1FM.stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="518" tvg-name="TVS Maracay" tvg-logo="https://www.m3u.cl/logo/518_TVS_Maracay.png", TVS Maracay  | VE
