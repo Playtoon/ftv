@@ -3059,7 +3059,7 @@ https://paneltv.online:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="324" tvg-name="El Galpon 80" tvg-logo="https://www.m3u.cl/logo/324_El_Galpon_80.png", El Galpon 80 * | CL
 https://streamyes.alsolnet.com/wtmradio/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="480" tvg-name="EvaStream" tvg-logo="https://www.m3u.cl/logo/480_EvaStream.png", EvaStream  | CL
-https://5e9199339b303.streamlock.net:8100/bajocerovideo/bajocerovideo/playlist.m3u8?PlaylistM3UCL
+https://stmv.panel.mivideo.pro/evastream/evastream/chunklist_w1057596682.m3u8
 #EXTINF:-1 tvg-id="69" tvg-name="G Vision" tvg-logo="https://www.m3u.cl/logo/69_G_Vision.png", G Vision  | CL
 https://tls.cdnz.cl/escgabrielamistral/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="452" tvg-name="TVN" tvg-logo="https://www.m3u.cl/logo/452_TVN.png", TVN  | CL
