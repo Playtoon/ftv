@@ -2934,7 +2934,7 @@ https://stmv1.srvif.com/canal2/canal2/playlist.m3u8?PlaylistM3UCL
 https://59537faa0729a.streamlock.net:443/canal2tunuyan/canal2tunuyan/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="201" tvg-name="Canal 2 Villa Hernandarias-Piedras Blancas" tvg-logo="https://www.m3u.cl/logo/201_Canal_2_Villa_Hernandarias_Piedras_Blancas.png", Canal 2 Villa Hernandarias-Piedras Blancas  | AR
 https://59537faa0729a.streamlock.net/canal2hernandarias/canal2hernandarias/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="204" tvg-name="Canal 29 Quilmes Vision" tvg-logo="https://www.m3u.cl/logo/204_Canal_29_Quilmes_Vision.webp", Canal 29 Quilmes Vision  | AR
+#EXTINF:-1 tvg-id="204" tvg-name="Canal 29 Quilmes Vision" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/canal29quilmes.png", Canal 29 Quilmes Vision  | AR
 http://inliveserver.com:1935/8386/8386/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="301" tvg-name="Canal 3 Las Flores Digital" tvg-logo="https://www.m3u.cl/logo/301_Canal_3_Las_Flores_Digital.jpg", Canal 3 Las Flores Digital  | AR
 https://inliveserver.com:1936/8436/8436/playlist.m3u8?PlaylistM3UCL
@@ -3040,8 +3040,6 @@ https://5f5a73adac4ac.streamlock.net/XtoTv/XtoTv/playlist.m3u8?PlaylistM3UCL
 https://5eae379fb77bb.streamlock.net:443/8034/8034/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="764" tvg-name="Radio Under" tvg-logo="https://www.m3u.cl/logo/764_Radio_Under.png", Radio Under * | CL
 https://eu1.servers10.com:8081/8140/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="12" tvg-name="Awka" tvg-logo="https://www.m3u.cl/logo/12_Awka.png", Awka * | AR
-https://stmv1.questreaming.com/awkasonido/awkasonido/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="849" tvg-name="High Music" tvg-logo="https://www.m3u.cl/logo/849_High_Music.jpg", High Music * | CL
 http://96.30.193.226:81/hls/highmusic.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="771" tvg-name="Mundo de la Musica TV" tvg-logo="https://www.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png", Mundo de la Musica TV * | CL
@@ -3052,8 +3050,6 @@ https://tvstreaming.cl:1936/8042/8042/playlist.m3u8?PlaylistM3UCL
 https://vdo.mivideo.pro:3725/stream/play.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="521" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://www.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png", Recuerdos Retro Radio TV * | CL
 https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="14" tvg-name="Urban TV" tvg-logo="https://www.m3u.cl/logo/14_Urban_TV.png", Urban TV * | ES
-https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="868" tvg-name="Radio Recreo" tvg-logo="https://www.m3u.cl/logo/868_Radio_Recreo.jpg", Radio Recreo * | CL
 https://tvstreaming.cl:1936/8128/8128/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="786" tvg-name="Tributo Valentina" tvg-logo="https://www.m3u.cl/logo/786_Tributo_Valentina.png", Tributo Valentina * | CL
@@ -3334,8 +3330,6 @@ https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="874" tvg-name="Cristovision" tvg-logo="https://www.m3u.cl/logo/874_Cristovision.jpg", Cristovision  | CO
 https://liveingesta118.cdnmedia.tv/cristovisionlive/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="14" tvg-name="Urban TV" tvg-logo="https://www.m3u.cl/logo/14_Urban_TV.png", Urban TV * | ES
-https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="837" tvg-name="7TV Andalucia" tvg-logo="https://www.m3u.cl/logo/837_7TV_Andalucia.jpg", 7TV Andalucia  | ES
 https://d3e0aduzg5hw8g.cloudfront.net/out/v1/7c917096d3a54e72bd4a6aa85494c8f3/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="601" tvg-name="Bon Dia" tvg-logo="https://www.m3u.cl/logo/601_Bon_Dia.png", Bon Dia  | ES
@@ -3488,8 +3482,6 @@ http://vcp1.myplaytv.com:1935/tvs/tvs/playlist.m3u8?PlaylistM3UCL
 http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="433" tvg-name="Solo Stand Up" tvg-logo="https://www.m3u.cl/logo/433_Solo_Stand_Up.png", Solo Stand Up  | CL
 https://paneltv.online:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="14" tvg-name="Urban TV" tvg-logo="https://www.m3u.cl/logo/14_Urban_TV.png", Urban TV  | ES
-https://www.urbanrevolution.es:444/live/5e6d8470a3832/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="521" tvg-name="Recuerdos Retro Radio TV" tvg-logo="https://www.m3u.cl/logo/521_Recuerdos_Retro_Radio_TV.png", Recuerdos Retro Radio TV  | CL
 https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="855" tvg-name="Natanael TV" tvg-logo="https://www.m3u.cl/logo/855_Natanael_TV.png", Natanael TV  | PA
