@@ -3027,8 +3027,6 @@ https://paneltv.online:1936/8056/8056/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="89" tvg-name="Bolivia TV Deportes" tvg-logo="https://www.m3u.cl/logo/89_Bolivia_TV_Deportes.png", Bolivia TV Deportes  | BO
 http://btvboliviatv.srfms.com:6568/live/livestream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="92" tvg-name="Red AD Venir Internacional" tvg-logo="https://www.m3u.cl/logo/92_Red_AD_Venir_Internacional.png", Red AD Venir Internacional  | BO
-http://streamer1.streamhost.org:1935/salive/GMIredadvenirl/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="94" tvg-name="TV HD Tropical" tvg-logo="https://www.m3u.cl/logo/94_TV_HD_Tropical.png", TV HD Tropical  | BO
 https://5d79ae45bc63b.streamlock.net:443/radiotropical952/radiotropical952/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="846" tvg-name="XTO TV" tvg-logo="https://www.m3u.cl/logo/846_XTO_TV.png", XTO TV  | BO
@@ -3058,8 +3056,6 @@ https://streaming10.zglobalhost.com:1936/8018/8018/playlist.m3u8?PlaylistM3UCL
 http://cdn.streamingmedia.cl:1935/live/canalcosta/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="433" tvg-name="Solo Stand Up" tvg-logo="https://www.m3u.cl/logo/433_Solo_Stand_Up.png", Solo Stand Up * | CL
 https://paneltv.online:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="431" tvg-name="Chic Magazine" tvg-logo="https://www.m3u.cl/logo/431_Chic_Magazine.png", Chic Magazine * | CL
-https://paneltv.online:1936/8056/8056/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="324" tvg-name="El Galpon 80" tvg-logo="https://www.m3u.cl/logo/324_El_Galpon_80.png", El Galpon 80 * | CL
 https://streamyes.alsolnet.com/wtmradio/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="480" tvg-name="EvaStream" tvg-logo="https://www.m3u.cl/logo/480_EvaStream.png", EvaStream  | CL
@@ -3474,8 +3470,6 @@ http://www.serverstreamgroup.biz:1935/Luz102.1FM/Luz102.1FM.stream/playlist.m3u8
 http://vcp1.myplaytv.com:1935/tvs/tvs/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="520" tvg-name="Venevision" tvg-logo="https://www.m3u.cl/logo/520_Venevision.png", Venevision  | VE
 http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="433" tvg-name="Solo Stand Up" tvg-logo="https://www.m3u.cl/logo/433_Solo_Stand_Up.png", Solo Stand Up  | CL
-https://paneltv.online:1936/8116/8116/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="855" tvg-name="Natanael TV" tvg-logo="https://www.m3u.cl/logo/855_Natanael_TV.png", Natanael TV  | PA
 https://cloud2.streaminglivehd.com:1936/natanaeltv/natanaeltv/playlist.m3u8?PlaylistM3UCL
 
