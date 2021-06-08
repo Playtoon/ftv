@@ -3194,14 +3194,10 @@ http://66.240.236.25:1936/cncpasto/cncpasto/chunklist.m3u8?PlaylistM3UCL
 https://liveingesta118.cdnmedia.tv/canaltrecelive/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="121" tvg-name="Canal TRO" tvg-logo="https://www.m3u.cl/logo/121_Canal_TRO.png", Canal TRO  | CO
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="123" tvg-name="Caracol" tvg-logo="https://www.m3u.cl/logo/123_Caracol.jpg", Caracol  | CO
-http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="124" tvg-name="CMB Televisión" tvg-logo="https://www.m3u.cl/logo/124_CMB_Television.png", CMB Televisión  | CO
 https://liveingesta118.cdnmedia.tv/bethesdalive/smil:live.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="125" tvg-name="Cosmovisión" tvg-logo="https://www.m3u.cl/logo/125_Cosmovision.jpg", Cosmovisión  | CO
 https://video.cosmovision.tv/live/sd_720p2628kbs/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="126" tvg-name="CTV" tvg-logo="https://www.m3u.cl/logo/126_CTV.jpg", CTV  | CO
-http://wmoy8w6ky2a7-hls-live.5centscdn.com/ctvbaq/live/chunks.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="142" tvg-name="La Super TV" tvg-logo="https://www.m3u.cl/logo/142_La_Super_TV.jpg", La Super TV  | CO
 http://iptvcolombia.ddns.net/hls-live/livepkgr/_definst_/liveevent/lasupertv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="130" tvg-name="TDI" tvg-logo="https://www.m3u.cl/logo/130_TDI.jpg", TDI  | CO
@@ -3235,22 +3231,14 @@ https://d3e0aduzg5hw8g.cloudfront.net/out/v1/7c917096d3a54e72bd4a6aa85494c8f3/in
 https://directes-tv-int.ccma.cat/int/ngrp:bnd_web/chunklist_b1296000.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="632" tvg-name="Canal Parlamento - Madrid" tvg-logo="https://www.m3u.cl/logo/632_Canal_Parlamento___Madrid.png", Canal Parlamento - Madrid  | ES
 http://congresodirecto-f.akamaihd.net/i/congreso6_1@54665/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="604" tvg-name="Canal Sur Andalucia" tvg-logo="https://www.m3u.cl/logo/604_Canal_Sur_Andalucia.png", Canal Sur Andalucia  | ES
-https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/chunklist_b2200000_DVR.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="605" tvg-name="Castilla-La Mancha Media" tvg-logo="https://www.m3u.cl/logo/605_Castilla_La_Mancha_Media.png", Castilla-La Mancha Media  | ES
 http://cdnapi.kaltura.com/p/2288691/sp/39582391/playManifest/entryId/0_xs45iy5i/format/applehttp/.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="633" tvg-name="Cultura 365" tvg-logo="https://www.m3u.cl/logo/633_Cultura_365.png", Cultura 365  | ES
-http://cultural-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="607" tvg-name="El 33" tvg-logo="https://www.m3u.cl/logo/607_El_33.png", El 33  | ES
 http://directes-tv-int.ccma.cat/int/ngrp:c33_web/chunklist_b1296000_DVR.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="612" tvg-name="Extremadura" tvg-logo="https://www.m3u.cl/logo/612_Extremadura.png", Extremadura  | ES
 https://cdnlive.shooowit.net/canalextremaduralive/channel1DVR.smil/chunklist_b1500000_DVR.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="626" tvg-name="La Otra" tvg-logo="https://www.m3u.cl/logo/626_La_Otra.png", La Otra  | ES
-http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_2.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="616" tvg-name="Levante TV" tvg-logo="https://www.m3u.cl/logo/616_Levante_TV.png", Levante TV  | ES
 https://i.imgur.com/Cc1CypC.mp4?PlaylistM3UCL
-#EXTINF:-1 tvg-id="597" tvg-name="Momentos G" tvg-logo="https://www.m3u.cl/logo/597_Momentos_G.png", Momentos G  | ES
-http://momentog-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="618" tvg-name="Onda Mezquita" tvg-logo="https://www.m3u.cl/logo/618_Onda_Mezquita.png", Onda Mezquita  | ES
 https://593fa17dec176.streamlock.net//mezquita/mezquita/chunklist_w1592524042.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="620" tvg-name="Radiotelevision del Principado de Asturias" tvg-logo="https://www.m3u.cl/logo/620_Radiotelevision_del_Principado_de_Asturias.png", Radiotelevision del Principado de Asturias  | ES
@@ -3261,8 +3249,6 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8?Playl
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="623" tvg-name="Travel TV" tvg-logo="https://www.m3u.cl/logo/623_Travel_TV.png", Travel TV  | ES
 http://194.179.53.124:1935/live/traveltv/chunklist_w706671974.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="628" tvg-name="Xabarin TV" tvg-logo="https://www.m3u.cl/logo/628_Xabarin_TV.png", Xabarin TV  | ES
-http://infantil-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="196" tvg-name="Cristiana TV" tvg-logo="https://www.m3u.cl/logo/196_Cristiana_TV.png", Cristiana TV  | ES
 https://cristianos2.todostreaming.es/live/malaga-livestream.m3u8?PlaylistM3UCL
 
