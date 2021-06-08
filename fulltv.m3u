@@ -3062,8 +3062,6 @@ https://streamyes.alsolnet.com/wtmradio/live/playlist.m3u8?PlaylistM3UCL
 https://stmv.panel.mivideo.pro/evastream/evastream/chunklist_w1057596682.m3u8
 #EXTINF:-1 tvg-id="69" tvg-name="G Vision" tvg-logo="https://www.m3u.cl/logo/69_G_Vision.png", G Vision  | CL
 https://tls.cdnz.cl/escgabrielamistral/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="452" tvg-name="TVN" tvg-logo="https://www.m3u.cl/logo/452_TVN.png", TVN  | CL
-https://unlimited1-cl-movistar.dps.live/tvn/tvn.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="453" tvg-name="TVN - 24h" tvg-logo="https://www.m3u.cl/logo/453_TVN___24h.png", TVN - 24h  | CL
 http://mdstrm.com/live-stream-playlist-v/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="454" tvg-name="TVN - Reuters" tvg-logo="https://www.m3u.cl/logo/454_TVN___Reuters.png", TVN - Reuters  | CL
@@ -3076,8 +3074,6 @@ https://mdstrm.com/live-stream-playlist/5eee24e3ed5b6d0761a11a31.m3u8?PlaylistM3
 https://mdstrm.com/live-stream-playlist-v/53443c472c6e89675103cc4c.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="446" tvg-name="Poder Judicial" tvg-logo="https://www.m3u.cl/logo/446_Poder_Judicial.png", Poder Judicial  | CL
 http://unlimited1-us.dps.live/poderjudicial1/poderjudicial1.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="449" tvg-name="Meganoticias" tvg-logo="https://www.m3u.cl/logo/449_Meganoticias.png", Meganoticias  | CL
-http://www.m3u.cl/channel/meganoticias.php?PlaylistM3UCL
 #EXTINF:-1 tvg-id="434" tvg-name="Teletón TV" tvg-logo="https://www.m3u.cl/logo/434_Teleton_TV.png", Teletón TV  | CL
 https://mdstrm.com/live-stream-playlist/5d6d5f05a2f6f407b0147965.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="489" tvg-name="FashionTV New York" tvg-logo="https://www.m3u.cl/logo/489_FashionTV_New_York.jpg", FashionTV New York  | US
@@ -3104,10 +3100,6 @@ https://srv2.zcast.com.br/carlos2469/carlos2469/playlist.m3u8?PlaylistM3UCL
 https://stmv1.zcastbr.com/dvjvonsho/dvjvonsho/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="328" tvg-name="Nortevision" tvg-logo="https://www.m3u.cl/logo/328_Nortevision.png", Nortevision  | CL
 https://live.tvcontrolcp.com:1936/nortevision/nortevision/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="335" tvg-name="VTV" tvg-logo="https://www.m3u.cl/logo/335_VTV.png", VTV  | CL
-https://unlimited6-cl.dps.live/vtv/vtv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="331" tvg-name="Canal de la Costa" tvg-logo="https://www.m3u.cl/logo/331_Canal_de_la_Costa.png", Canal de la Costa  | CL
-https://livefocamundo.com:8081/cdlcyerko/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="74" tvg-name="Girovisual TV" tvg-logo="https://www.m3u.cl/logo/74_Girovisual_TV.png", Girovisual TV  | CL
 http://unlimited6-cl.dps.live/girovisual2/girovisual2.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="75" tvg-name="VoxPopuli Chile" tvg-logo="https://www.m3u.cl/logo/75_VoxPopuli_Chile.png", VoxPopuli Chile  | CL
@@ -3136,8 +3128,6 @@ http://evo.eltelon.com:1935/live/rocco-tv/playlist.m3u8?PlaylistM3UCL
 https://v2.tustreaming.cl/canal11aysen/live1/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="371" tvg-name="EvaVisión" tvg-logo="https://www.m3u.cl/logo/371_EvaVision.png", EvaVisión  | CL
 https://stmv.panel.mivideo.pro/evatelevision/evatelevision/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="502" tvg-name="TV Marti" tvg-logo="https://www.m3u.cl/logo/502_TV_Marti.png", TV Marti  | CU
-http://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="503" tvg-name="Cubavisión" tvg-logo="https://www.m3u.cl/logo/503_Cubavision.png", Cubavisión  | CU
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="512" tvg-name="ETB" tvg-logo="https://www.m3u.cl/logo/512_ETB.png", ETB  | ES
@@ -3156,12 +3146,8 @@ http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8?Playlis
 https://tv.nknews.org/tvhls/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="507" tvg-name="NHK World" tvg-logo="https://www.m3u.cl/logo/507_NHK_World.png", NHK World  | JP
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="376" tvg-name="Teletrak" tvg-logo="https://www.m3u.cl/logo/376_Teletrak.png", Teletrak  | CL
-https://unlimited10-cl.dps.live/teletrak/teletrak.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="374" tvg-name="TV Turf Movil" tvg-logo="https://www.m3u.cl/logo/374_TV_Turf_Movil.png", TV Turf Movil  | CL
 https://janus.tvturf.cl/playlist/stream.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="375" tvg-name="Valparaiso Sporting" tvg-logo="https://www.m3u.cl/logo/375_Valparaiso_Sporting.png", Valparaiso Sporting  | CL
-https://unlimited10-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="63" tvg-name="Bajo Cero TV" tvg-logo="https://www.m3u.cl/logo/63_Bajo_Cero_TV.png", Bajo Cero TV  | CL
 https://stmv.panel.mivideo.pro/bajocerotv/bajocerotv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="112" tvg-name="Amordiscos TV" tvg-logo="https://www.m3u.cl/logo/112_Amordiscos_TV.png", Amordiscos TV  | CO
@@ -3356,10 +3342,6 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8?Playl
 http://194.179.53.124:1935/live/traveltv/chunklist_w706671974.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="628" tvg-name="Xabarin TV" tvg-logo="https://www.m3u.cl/logo/628_Xabarin_TV.png", Xabarin TV  | ES
 http://infantil-crtvg.flumotion.com/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="512" tvg-name="ETB" tvg-logo="https://www.m3u.cl/logo/512_ETB.png", ETB  | ES
-http://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="513" tvg-name="RTVE1" tvg-logo="https://www.m3u.cl/logo/513_RTVE1.png", RTVE1  | ES
-https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="30" tvg-name="Ibiza Global TV" tvg-logo="https://www.m3u.cl/logo/30_Ibiza_Global_TV.png", Ibiza Global TV  | ES
 https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="196" tvg-name="Cristiana TV" tvg-logo="https://www.m3u.cl/logo/196_Cristiana_TV.png", Cristiana TV  | ES
