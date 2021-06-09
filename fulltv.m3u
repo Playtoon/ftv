@@ -10,6 +10,8 @@ http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_1200.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="Noticias", Euronews | HD | Francia
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Noticias" tvg-name="RTVE24" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RTVE24.png" group-title="Noticias", RTVE24
+https://rtvelivestream.akamaized.net/24h_main_dvr_1080.m3u8
 #EXTINF:-1 tvg-id="Noticias" tvg-name="RT ESPAÑOL" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RT%20espa%C3%B1ol.png" group-title="Noticias", RT Español
 https://rt-esp-gd.secure2.footprint.net/1102.m3u8
 #EXTINF:-1 tvg-id="Noticias" tvg-name="Canal 26" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/LogoCanal26.png" group-title="Noticias", Canal 26
@@ -28,8 +30,8 @@ https://panel.dattalive.com/6605140/smil:6605140.smil/chunklist_w756124762_b1300
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 tvg-id="Noticias" tvg-name="TeleSUR Venezuela" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TeleSUR-Logo.svg.png" group-title="Noticias", TeleSUR
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="Noticias" tvg-name="RTVE24" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RTVE24.png" group-title="Noticias", RTVE24
-https://rtvelivestream.akamaized.net/24h_main_dvr_1080.m3u8
+#EXTINF:-1 tvg-id="Variado" tvg-name="CARACOL PLAY" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Caracol%20play.jpg" group-title="TV", Caracol PLAY
+https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 
 
 #EXTINF:-1 tvg-id="Variado" tvg-name="Atacama Noticias" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Atacama%20noticias.png" group-title="TV", Atacama Noticias
@@ -178,8 +180,6 @@ https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/chunklist
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="BHTV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/BHTV.png" group-title="TV", BHTV
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1 tvg-id="Variado" tvg-name="CARACOL PLAY" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Caracol%20play.jpg" group-title="TV", Caracol PLAY
-https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="MUNDO +" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/M+.jpg" group-title="TV",MUNDO +
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/chunklist_w706760331.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="CANAL 6 (MEX)" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal_Seis_Logo.svg.png" group-title="TV",CANAL 6 (MEX)
