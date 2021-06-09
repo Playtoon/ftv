@@ -1,34 +1,53 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Noticias" tvg-name="DW Español HD" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/dw-espano.jpg" group-title="TV", DW Español HD
+#EXTINF:-1 tvg-id="Noticias" tvg-name="DW Español HD" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/dw-espano.jpg" group-title="Noticias", DW Español HD
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-#EXTINF:-1 tvg-id="Noticias" tvg-name="DW Español" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/dw-espano.jpg" group-title="TV", DW Español
+#EXTINF:-1 tvg-id="Noticias" tvg-name="DW Español" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/dw-espano.jpg" group-title="Noticias", DW Español
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
-#EXTINF:-1 tvg-id="Noticias" tvg-name="RT ESPAÑOL" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RT%20espa%C3%B1ol.png" group-title="TV", RT Español
-https://rt-esp-gd.secure2.footprint.net/1102.m3u8
-#EXTINF:-1 tvg-id="Noticias" tvg-name="Canal 26" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/LogoCanal26.png" group-title="TV", Canal 26
-http://200.115.193.177/live/26hd-720/.m3u8?www.tecnotv.info
-#EXTINF:-1 tvg-id="Noticias" tvg-name="A24" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/A24_(2019-1).png" group-title="TV", A24
-https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/85e0c45f-f479-474d-9612-c08155c3369b:SCL/variant/0c9f77ea95444cbfd46a0108e4f60b04/bandwidth/1500000.m3u8
-#EXTINF:-1 tvg-id="Noticias" tvg-name="IP HD" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/IPtv.jpg" group-title="TV", IP HD
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Noticias" tvg-name="IP" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/IPtv.jpg" group-title="TV", IP
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=2000000.m3u8
-#EXTINF:-1 tvg-id="Noticias" tvg-name="Cronica" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/cronicahd.png" group-title="TV", Cronica
-https://g1.mc-hor.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
-#EXTINF:-1 tvg-id="Noticias" tvg-name="CN 24/7 Neuquen" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/CN%2024-7.jpg" group-title="TV", CN 24/7 Neuquen
-https://panel.dattalive.com/6605140/smil:6605140.smil/chunklist_w756124762_b1300000_slen.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6V8sh3v.png" group-title="Perú", TV Peru Noticias | SD
-https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:-1 tvg-id="Noticias" tvg-name="TeleSUR Venezuela" tvg-id="TeleSUR" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TeleSUR-Logo.svg.png" group-title="TV", TeleSUR
-https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
-#EXTINF:-1 tvg-id="Noticias" tvg-name="RTVE24" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RTVE24.png" group-title="TV", RTVE24
-https://rtvelivestream.akamaized.net/24h_main_dvr_1080.m3u8
-#EXTINF:-1 tvg-id="Noticias" tvg-name="France 24" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/France24.png" group-title="TV", France 24
+#EXTINF:-1 tvg-id="Noticias" tvg-name="France 24" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/France24.png" group-title="Noticias", France 24
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Noticias" tvg-name="France 24 FHD" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/France24.png" group-title="TV", France 24 FHD
+#EXTINF:-1 tvg-id="Noticias" tvg-name="France 24 FHD" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/France24.png" group-title="Noticias", France 24 FHD
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_1200.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="Noticias", Euronews | HD | Francia
+https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Noticias" tvg-name="RT ESPAÑOL" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RT%20espa%C3%B1ol.png" group-title="Noticias", RT Español
+https://rt-esp-gd.secure2.footprint.net/1102.m3u8
+#EXTINF:-1 tvg-id="Noticias" tvg-name="Canal 26" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/LogoCanal26.png" group-title="Noticias", Canal 26
+http://200.115.193.177/live/26hd-720/.m3u8?www.tecnotv.info
+#EXTINF:-1 tvg-id="Noticias" tvg-name="A24" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/A24_(2019-1).png" group-title="Noticias", A24
+https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/85e0c45f-f479-474d-9612-c08155c3369b:SCL/variant/0c9f77ea95444cbfd46a0108e4f60b04/bandwidth/1500000.m3u8
+#EXTINF:-1 tvg-id="Noticias" tvg-name="IP HD" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/IPtv.jpg" group-title="Noticias", IP HD
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Noticias" tvg-name="IP" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/IPtv.jpg" group-title="Noticias", IP
+https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=2000000.m3u8
+#EXTINF:-1 tvg-id="Noticias" tvg-name="Cronica" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/cronicahd.png" group-title="Noticias", Cronica
+https://g1.mc-hor.transport.edge-access.net/b10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_720p/index.m3u8
+#EXTINF:-1 tvg-id="Noticias" tvg-name="CN 24/7 Neuquen" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/CN%2024-7.jpg" group-title="Noticias", CN 24/7 Neuquen
+https://panel.dattalive.com/6605140/smil:6605140.smil/chunklist_w756124762_b1300000_slen.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6V8sh3v.png" group-title="Noticias", TV Peru Noticias | SD
+https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:-1 tvg-id="Noticias" tvg-name="TeleSUR Venezuela" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TeleSUR-Logo.svg.png" group-title="Noticias", TeleSUR
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="Noticias" tvg-name="RTVE24" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RTVE24.png" group-title="Noticias", RTVE24
+https://rtvelivestream.akamaized.net/24h_main_dvr_1080.m3u8
 
+
+#EXTINF:-1 tvg-id="Variado" tvg-name="Atacama Noticias" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Atacama%20noticias.png" group-title="TV", Atacama Noticias
+https://stmv1.zcastbr.com/atacamanoticias/atacamanoticias/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0SWgwab.jpg" group-title="Chile", Meganoticias | HD | Santiago
+http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/656_TV4_Noticias.png" group-title="México", TV4 Noticias
+https://5f1af61612fb5.streamlock.net/tv4/videotv4_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aFUxsAJ.png" group-title="Paraguay", NPY | HD | Asunción
+http://edge02-fdo-py.cvattv.com.ar/live/c5eds/NOTICIAS_PY_C4/verimatrix_rotating_FTA/NOTICIAS_PY_C4-video=3000000-audio_20000=144800.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5LJ6VAS.png" group-title="Radios Chilenas Con Video", Pura Noticia TV| SD | Valparaíso
+https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="775" tvg-name="ZN Noticias" tvg-logo="https://www.m3u.cl/logo/775_ZN_Noticias.png", ZN Noticias  | AR
+http://arcast.com.ar:1935/znoticias/znoticias/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="684" tvg-name="UCI Noticias 1" tvg-logo="https://www.m3u.cl/logo/684_UCI_Noticias_1.jpg", UCI Noticias 1  | PE
+http://168.205.133.38:80/uci1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="687" tvg-name="Vision Noticias Peru" tvg-logo="https://www.m3u.cl/logo/687_Vision_Noticias_Peru.png", Vision Noticias Peru  | PE
+https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Noticias" tvg-name="HiperTV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Hipertv.png" group-title="TV", HiperTV
 http://inliveserver.com:1935/11010/11010/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="TV Pública" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/tvpuplica2.png" group-title="TV", TV Pública
@@ -209,8 +228,6 @@ https://cdnhd.iblups.com/hls/ptv2.m3u8
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="La Tele Tuya Venezuela" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TLT%20play.png" group-title="TV" ,TLT (VEN)
 https://vcp.myplaytv.com/tlthd/tlthd/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Variado" tvg-name="Atacama Noticias" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Atacama%20noticias.png" group-title="TV", Atacama Noticias
-https://stmv1.zcastbr.com/atacamanoticias/atacamanoticias/playlist.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="La Popular TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/LA%20POPULAR%20TV.png" group-title="TV", LA POPULAR TV HD
 https://5d1ca66d2d698.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="Enfoque Digital TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Enfoque%20TV%20digital.png" group-title="TV", Enfoque Digital TV
@@ -574,10 +591,6 @@ https://videostreaming.cloudserverlatam.com/ceactv/ceactv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ilCiqga.png" group-title="Chile", Canal 21 | HD | Chillan
 http://edge1.cl.grupoz.cl/canal21tv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0SWgwab.jpg" group-title="Chile", Meganoticias | HD | Santiago
-http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dPUYBfM.png" group-title="Chile", Bio Bio TV | FHD | Providencia
 https://unlimited1-cl-movistar.dps.live/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL
 
@@ -1237,8 +1250,6 @@ https://live1.presstv.com/live/hispan.m3u8
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1Pk37AN.png" group-title="Internacionales", UCL | HD | Argentina
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="Internacionales",Euronews | HD | Francia
-https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 
 
 
@@ -1745,11 +1756,6 @@ https://5ca3e84a76d30.streamlock.net/gpacifico4/mazatlan.smil/.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/X4x2OkO.png" group-title="México", Cep Cadena 4 | HD | Ciudad de México
 https://mdstrm.com/live-stream-playlist/5cfe8974ef9acc25607a7dec.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/656_TV4_Noticias.png" group-title="México", TV4 Noticias
-https://5f1af61612fb5.streamlock.net/tv4/videotv4_720p/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/655_TV4_Cultura.png" group-title="México", TV4 Cultura
 https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/654_TV4_Deportes.png" group-title="México", TV4 Deportes
@@ -1816,10 +1822,6 @@ https://i.imgur.com/0Nkz7aU.mp4
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8LRqAZ6.png" group-title="Paraguay", ABC TV | SD | Asunción
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/ABC_TV_C4/verimatrix_rotating_FTA/ABC_TV_C4-video=3000000-audio_20000=144800.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aFUxsAJ.png" group-title="Paraguay", NPY | HD | Asunción
-http://edge02-fdo-py.cvattv.com.ar/live/c5eds/NOTICIAS_PY_C4/verimatrix_rotating_FTA/NOTICIAS_PY_C4-video=3000000-audio_20000=144800.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W4A55Ih.png" group-title="Paraguay", Telefuturo | HD | Asunción
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-video=3000000-audio_20000=144800.m3u8
@@ -3018,8 +3020,6 @@ https://live.autistici.org/hls/vibratelevision.m3u8?PlaylistM3UCL
 https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="847" tvg-name="Tango TV" tvg-logo="https://www.latinosuptv.com/tvonline/wp-content/uploads/2020/07/280x280px-tango-tv.png", Tango TV  | AR
 https://panel.streamingtv-mediacp.online:1936/8066/8066/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="775" tvg-name="ZN Noticias" tvg-logo="https://www.m3u.cl/logo/775_ZN_Noticias.png", ZN Noticias  | AR
-http://arcast.com.ar:1935/znoticias/znoticias/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="184" tvg-name="Television Celestial" tvg-logo="https://www.m3u.cl/logo/184_Television_Celestial.png", Television Celestial  | AR
 https://stmvideo2.livecastv.com/celestialtv/celestialtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="431" tvg-name="Chic Magazine" tvg-logo="https://www.m3u.cl/logo/431_Chic_Magazine.png", Chic Magazine  | CL
@@ -3298,12 +3298,7 @@ https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8?Playl
 
 #EXTINF:-1 tvg-id="692" tvg-name="Best Cable Sports" tvg-logo="https://www.m3u.cl/logo/692_Best_Cable_Sports.png", Best Cable Sports  | PE
 https://live.siete.us/bestcablesports/bestcablesports/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="684" tvg-name="UCI Noticias 1" tvg-logo="https://www.m3u.cl/logo/684_UCI_Noticias_1.jpg", UCI Noticias 1  | PE
-http://168.205.133.38:80/uci1/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="706" tvg-name="UCI Noticias 2" tvg-logo="https://www.m3u.cl/logo/706_UCI_Noticias_2.jpg", UCI Noticias 2  | PE
-http://168.205.133.38:80/uci2/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="687" tvg-name="Vision Noticias Peru" tvg-logo="https://www.m3u.cl/logo/687_Vision_Noticias_Peru.png", Vision Noticias Peru  | PE
-https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="693" tvg-name="Best Cable TV" tvg-logo="https://www.m3u.cl/logo/693_Best_Cable_TV.png", Best Cable TV  | PE
 https://live.siete.us/bestcable/bestcable/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="704" tvg-name="Central TV Chosica" tvg-logo="https://www.m3u.cl/logo/704_Central_TV_Chosica.png", Central TV Chosica  | PE
