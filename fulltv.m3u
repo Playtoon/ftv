@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="Noticias" tvg-name="DW Español HD" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/dw-espano.jpg" group-title="Noticias", TN
+https://www.youtube.com/watch?v=wHn1_QVoXGM
 #EXTINF:-1 tvg-id="Noticias" tvg-name="DW Español HD" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/dw-espano.jpg" group-title="Noticias", DW Español HD
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF:-1 tvg-id="Noticias" tvg-name="DW Español" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/dw-espano.jpg" group-title="Noticias", DW Español
@@ -8,7 +10,7 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Noticias" tvg-name="France 24 FHD" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/France24.png" group-title="Noticias", France 24 FHD
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_1200.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="Noticias", Euronews | HD | Francia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="Noticias", Euronews | Francia
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Noticias" tvg-name="RTVE24" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RTVE24.png" group-title="Noticias", RTVE24
 https://rtvelivestream.akamaized.net/24h_main_dvr_1080.m3u8
@@ -36,17 +38,19 @@ https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 https://stmv1.zcastbr.com/atacamanoticias/atacamanoticias/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0SWgwab.jpg" group-title="Noticias", Meganoticias | CH
 http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/656_TV4_Noticias.png" group-title="México", TV4 Noticias | ME
+#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/656_TV4_Noticias.png" group-title="Noticias", TV4 Noticias | ME
 https://5f1af61612fb5.streamlock.net/tv4/videotv4_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aFUxsAJ.png" group-title="Paraguay", NPY | PA
+#EXTINF:-1 tvg-id="671" tvg-name="MVM Noticias Oaxaca" tvg-logo="https://www.m3u.cl/logo/671_MVM_Noticias_Oaxaca.png" group-title="Noticias", MVM Noticias Oaxaca  | MX
+http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aFUxsAJ.png" group-title="Noticias", NPY | PA
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/NOTICIAS_PY_C4/verimatrix_rotating_FTA/NOTICIAS_PY_C4-video=3000000-audio_20000=144800.m3u8
-#EXTINF:-1 tvg-id="775" tvg-name="ZN Noticias" tvg-logo="https://www.m3u.cl/logo/775_ZN_Noticias.png", ZN Noticias  | AR
+#EXTINF:-1 tvg-id="775" tvg-name="ZN Noticias" tvg-logo="https://www.m3u.cl/logo/775_ZN_Noticias.png" group-title="Noticias", ZN Noticias  | AR
 http://arcast.com.ar:1935/znoticias/znoticias/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="684" tvg-name="UCI Noticias 1" tvg-logo="https://www.m3u.cl/logo/684_UCI_Noticias_1.jpg", UCI Noticias 1  | PE
+#EXTINF:-1 tvg-id="684" tvg-name="UCI Noticias 1" tvg-logo="https://www.m3u.cl/logo/684_UCI_Noticias_1.jpg" group-title="Noticias", UCI Noticias 1  | PE
 http://168.205.133.38:80/uci1/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="687" tvg-name="Vision Noticias Peru" tvg-logo="https://www.m3u.cl/logo/687_Vision_Noticias_Peru.png", VNP  | PE
+#EXTINF:-1 tvg-id="687" tvg-name="Vision Noticias Peru" tvg-logo="https://www.m3u.cl/logo/687_Vision_Noticias_Peru.png" group-title="Noticias", VNP  | PE
 https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Noticias" tvg-name="HiperTV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Hipertv.png" group-title="TV", HiperTV | CH
+#EXTINF:-1 tvg-id="Noticias" tvg-name="HiperTV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Hipertv.png" group-title="Noticias", HiperTV | CH
 http://inliveserver.com:1935/11010/11010/playlist.m3u8?PlaylistM3UCL
 
 
@@ -150,7 +154,7 @@ https://5f6e1fe8f2d2e.streamlock.net:443/canalxfn/canalxfn/playlist.m3u8
 https://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_720p/index.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="Net TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/net%20tv.png" group-title="TV", Net TV
 https://unlimited6-cl.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
-#EXTINF:-1 tvg-id="Variado" tvg-name="Telediario Televisión" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/telediario%20tv.png" group-title="TV", Telediario Televisión
+#EXTINF:-1 tvg-id="Variado" tvg-name="Telediario Televisión" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/telediario%20tv.png" group-title="TV", td TV
 https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="Canal Nueve TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/nueve%20comodoro.png" group-title="TV", Canal Nueve TV
 https://live.canalnueve.tv/canal.m3u8?PlaylistM3UCL
@@ -3271,8 +3275,6 @@ http://201.144.184.98:1935/genesis/smil:television.smil/playlist.m3u8?PlaylistM3
 https://5fa5de1a545ae.streamlock.net:443/sisjalisciense/sisjalisciense/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="666" tvg-name="Milenio TV" tvg-logo="https://www.m3u.cl/logo/666_Milenio_TV.png", Milenio TV  | MX
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="671" tvg-name="MVM Noticias Oaxaca" tvg-logo="https://www.m3u.cl/logo/671_MVM_Noticias_Oaxaca.png", MVM Noticias Oaxaca  | MX
-http://dcunilive21-lh.akamaihd.net/i/dclive_1@59479/index_1_av-p.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="673" tvg-name="RCG 1 Saltillo" tvg-logo="https://www.m3u.cl/logo/673_RCG_1_Saltillo.png", RCG 1 Saltillo  | MX
 http://wowzacontrol.com:1935/stream34/stream34/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="674" tvg-name="RCG 2 Saltillo" tvg-logo="https://www.m3u.cl/logo/674_RCG_2_Saltillo.png", RCG 2 Saltillo  | MX
