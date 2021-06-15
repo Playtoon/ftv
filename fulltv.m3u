@@ -269,23 +269,21 @@ http://azxtv.com/hls/stream.m3u8
 https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Infantil" tvg-logo="https://i.imgur.com/V60dnOp.png" group-title="Infantiles", Boomerang TV   | CL
 http://96.30.193.226:81/hls/boomerang.m3u8?WebM3UCL
-#EXTINF:-1 tvg-id="Infantil" tvg-logo="https://i.imgur.com/lND6DKt.png" group-title="Infantiles", Tooncast
+#EXTINF:-1 tvg-id="Infantil" tvg-logo="https://i.imgur.com/lND6DKt.png" group-title="Infantiles", Tooncast TV
 https://dx9dkszwgj.azcdn107.net:8443/hls/9efxxdu.m3u8?s=SCUfodywQ2neH8_RVwvmcw&e=1623741653
 #EXTINF:-1 tvg-id="Infantil" tvg-logo="https://i.imgur.com/35BpWJh.jpg" group-title="Infantiles",Supertoons TV
 https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Infantil" tvg-name="Dreiko TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/DREIKO%20TV.png" group-title="Infantiles", DREIKO TV
+#EXTINF:-1 tvg-id="Infantil" tvg-name="Dreiko TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/DREIKO%20TV.png" group-title="Infantiles", Dreiko TV   | PA
 https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Infantil" tvg-name="Paka Paka" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Pakapaka.png" group-title="Infantiles", Paka Paka
+#EXTINF:-1 tvg-id="Infantil" tvg-name="Paka Paka" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Pakapaka.png" group-title="Infantiles", Paka Paka   | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w1490716877.m3u8
-#EXTINF:-1 tvg-id="Infantil" tvg-name="Pequeradio TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/PEQUERADIO%20TV.png" group-title="Infantiles", PEQUERADIO TV
+#EXTINF:-1 tvg-id="Infantil" tvg-name="Pequeradio TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/PEQUERADIO%20TV.png" group-title="Infantiles", Pequeradio TV   | ES
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
-#EXTINF:-1 tvg-id="Infantil" tvg-name="ACS NETWORK" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/ACS%20NETWORK.jpg" group-title="Infantiles", ACS NETWORK
-https://cloudflare.streamgato.us:3283/live/acsnetworklive.m3u8
-#EXTINF:-1 tvg-id="Infantil" tvg-name="El Chavo TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/EL%20CHAVO%20TV.png" group-title="Infantiles", EL CHAVO TV
+#EXTINF:-1 tvg-id="Infantil" tvg-name="El Chavo TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/EL%20CHAVO%20TV.png" group-title="Infantiles", El Chavo TV   | CL
 https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Infantil" tvg-name="CSTV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/CSTV.png" group-title="Infantiles", Simpson TV
+#EXTINF:-1 tvg-id="Infantil" tvg-name="CSTV" tvg-logo="https://televisionlibre.net/img/logo_canal/Los_Simpsons.png" group-title="Infantiles", Simpson TV   | CL
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Infantil" tvg-name="Cloud Server Kids" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/CSTV%20KIDS.png" group-title="Infantiles", CSTV KIDS
+#EXTINF:-1 tvg-id="Infantil" tvg-name="Cloud Server Kids" tvg-logo="https://www.lacartoons.com/system/series/fondos/000/000/181/original/aaahh_real_monsters.png" group-title="Infantiles", Aaahh!! Monstruos   | CL
 https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Infantil" tvg-name="Cachipum" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Cachipum.png" group-title="Infantiles", Cachipum TV
 https://tls.cdnz.cl/cachipuntv/live/chunklist_w1996347867.m3u8
