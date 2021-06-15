@@ -374,7 +374,7 @@ https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 #EXTINF:-1 tvg-id="857" tvg-name="Aster" tvg-logo="https://www.m3u.cl/logo/857_Aster.png" group-title="TV", Aster*
 http://96.30.193.226:81/hls/canalaster.m3u8
 #EXTINF:-1 tvg-id="Deportes" tvg-name="Sony Competencias" tvg-logo="" group-title="TV", Prueba canales3
-https://video-weaver.jfk04.hls.ttvnw.net/v1/playlist/CoAFBGXxYleGrh_6RGSk1NikQa-VduJiSTjkq5_6JgKZN7xccY3U7Sw47NcmNdRGpULrGfPIWAJ-6vWr8Zws6ZRVomW7Q7IERLmKtWCieZ_-GeU6q3alCctxOELRXJwyrua9xDVfWWU3hQpjoPLI9De5s4z1sCvBAS8vpbmDKH-rywHy_yq92JH4QpYnoWYSW6eiM6m-C1f5x_k7te7gtGvaBWTnQP-yn-EMp_CllJKa36eVhsF-EJnINs-uRedVlBeTrCFM85Olr6hXuYjQ36Y_8dNll7Ydxcx1psJKjTcdeJxRD2q5nZjmT8mSTLfW6ESFH1Syn5gSwRWydm-v_bt-cOt4QZeoX9cn1IJiHANIt0GIxUMIS7O8iG_xqRmrjaJvPY4tTx0njYxg9gwD6IPIwUlxBIn0NXL7Xt5dT_pWvDanOeobZa8s2bYtiqBbAd6GhiSUYnnsWshmUmDBMqanQE-Fy2mJeIx22lsMTgyn-R1MUwI7Hyye5p_J8PZwXIM0pdVaOSUUk4TDy9oY6clIYIYyAqPL1rYgxIgE6CtnDoNWcmoKeITQsi_0WyVM3DS96ECjL0rhBpjCVqvdDFRbXTXk5ciuMqRxhyYDVzd6EXJNZcU5htMSvuByI5Z6VGhBWdu2IX82UWpF7Ic2K9uXvS7ljmCCMQ3VW1wWGoAMdnIsuI8Sq_13-JvDwkEG6afv8ZR6S1mZlv7LCewgtTqZYQ_D1K6sJXF-7iag-z5bJG_Jrm9OSdZuDbtYg_r4sgI35C17v0ULfvQiR6yCjeBdReCROd6CcSWCklMbMOpjnQg_JwXmYmUuabc83PFOKIzraq11wzqCgCumjCEG47Fw3RIQfWCS3eUI_3cqihZuYe2mcBoMEhwVIf4Sy3UJnyNI.m3u8
+https://edge-live12-hr.cvattv.com.ar/live/live/Boomerang/SA_Live_dash_enc_2A/Boomerang.mpd
 #EXTINF:-1 tvg-id="Deportes" tvg-name="Sony Competencias" tvg-logo="" group-title="TV", Prueba canales4
 https://m3u-editor.com/serve/televito85/299133664
 #EXTINF:-1 tvg-id="Deportes" tvg-name="Sony Competencias" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/sony%20competencias.png" group-title="TV", Sony Competencias
