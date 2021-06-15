@@ -432,111 +432,111 @@ http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8?PlaylistM3
 
 
 
-#EXTINF:-1 tvg-id="Música" tvg-name="Quatro TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Quatro%20TV.png" group-title="Musicales", Quatro TV
+#EXTINF:-1 tvg-id="Música" tvg-name="Quatro TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Quatro%20TV.png" group-title="Musicales", Quatro TV   | AR
 https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Música" tvg-name="LosDesterrados.cl" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/LosDesterrados.cl.png" group-title="Musicales", LosDesterrados.cl
+#EXTINF:-1 tvg-id="Música" tvg-name="LosDesterrados.cl" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/LosDesterrados.cl.png" group-title="Musicales", LosDesterrados.cl   | CL
 https://5e3483cba9114.streamlock.net/losdesterrados.cl/losdesterrados.cl/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Música" tvg-name="CM" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/cmlogo.png" group-title="Musicales", CM
+#EXTINF:-1 tvg-id="Música" tvg-name="CM" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/cmlogo.png" group-title="Musicales", CM   | AR
 http://g4.vxral-hor.transport.edge-access.net/a09/ngrp:CM_CanaldelaMusica-100044_all/CM_CanaldelaMusica-100044_720p.m3u8
-#EXTINF:-1 tvg-id="Variado" tvg-name="La Popular TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/LA%20POPULAR%20TV.png" group-title="Musicales", La Popular TV
+#EXTINF:-1 tvg-id="Variado" tvg-name="La Popular TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/LA%20POPULAR%20TV.png" group-title="Musicales", La Popular TV   | CL
 https://5d1ca66d2d698.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Variado" tvg-name="Canal 74 TeVe Señal 2" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal%2074%20TeVe%20Se%C3%B1al%202.jpg" group-title="Musicales", 74 TeVe 2
+#EXTINF:-1 tvg-id="Variado" tvg-name="Canal 74 TeVe Señal 2" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal%2074%20TeVe%20Se%C3%B1al%202.jpg" group-title="Musicales", 74 TeVe 2   | CL
 https://srv3.zcast.com.br/canal74/canal74/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Música" tvg-name="88 STEREO" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/88%20STEREO.png" group-title="Musicales", 88 STEREO
+#EXTINF:-1 tvg-id="Música" tvg-name="88 STEREO" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/88%20STEREO.png" group-title="Musicales", 88 Stereo   | CR
 http://k3.usastreams.com:1935/CableLatino/88stereo/playlist.m3u8
-#EXTINF:-1 tvg-id="Música" tvg-name="M2O TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/M2O%20TV.png" group-title="Musicales", m2o TV
+#EXTINF:-1 tvg-id="Música" tvg-name="M2O TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/M2O%20TV.png" group-title="Musicales", m2o TV   | IT
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
-#EXTINF:-1 tvg-id="Música" tvg-name="On Radio Kpop" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/On%20Radio%20Kpop.png" group-title="Musicales", On Radio Kpop
+#EXTINF:-1 tvg-id="Música" tvg-name="On Radio Kpop" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/On%20Radio%20Kpop.png" group-title="Musicales", On Radio Kpop   | CL
 https://tls.cdnz.cl/onradio4/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Música" tvg-name="MELODY CHANNEL" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/MELODY%20CHANNE.png" group-title="Musicales", Melody Channel
+#EXTINF:-1 tvg-id="Música" tvg-name="MELODY CHANNEL" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/MELODY%20CHANNE.png" group-title="Musicales", Melody Channel   | CO
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/chunklist_b1398304.m3u8
-#EXTINF:-1 tvg-id="Música" tvg-name="XTV Music" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/XTV%20Music.png" group-title="Musicales", XTV Music
+#EXTINF:-1 tvg-id="Música" tvg-name="XTV Music" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/XTV%20Music.png" group-title="Musicales", XTV Music   | CL
 https://tls.cdnz.cl:443/xtvmusic-media/xtvmusic-media/playlist.m3u8
-#EXTINF:-1 tvg-id="Música" tvg-name="Natural TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Natural%20TV.png" group-title="Musicales", Natural TV
+#EXTINF:-1 tvg-id="Música" tvg-name="Natural TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Natural%20TV.png" group-title="Musicales", Natural TV   | CL
 http://srv1.zcast.com.br/miguel/miguel/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Música" tvg-name="TV POP" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TV%20POP.jpg" group-title="Musicales", TV POP
+#EXTINF:-1 tvg-id="Música" tvg-name="TV POP" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TV%20POP.jpg" group-title="Musicales", TV POP   | CL
 https://v4.tustreaming.cl/poptv/index.m3u8
-#EXTINF:-1 tvg-id="Música" tvg-name="PORTAL FOXMIX" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/PORTAL%20FOXMIX.png" group-title="Musicales", PORTAL FOXMIX
+#EXTINF:-1 tvg-id="Música" tvg-name="PORTAL FOXMIX" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/PORTAL%20FOXMIX.png" group-title="Musicales", Portal FoxMix   | CL
 http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/chunklist_w707723531.m3u8
-#EXTINF:-1 tvg-id="Música" tvg-name="Canal 38" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal%2038.png" group-title="Musicales", Canal 38
+#EXTINF:-1 tvg-id="Música" tvg-name="Canal 38" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal%2038.png" group-title="Musicales", Canal 38   | CR
 https://rtmp.info/canal38/envivo/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Música" tvg-name="RETRO MUSIC TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RETRO%20MUSIC%20TV.png" group-title="Musicales", RETRO MUSIC TV
+#EXTINF:-1 tvg-id="Música" tvg-name="RETRO MUSIC TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RETRO%20MUSIC%20TV.png" group-title="Musicales", RETRO MUSIC TV   | CZ
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Música" tvg-name="RETRO MUSIC TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RETRO%20MUSIC%20TV.png" group-title="TV", RETRO MUSIC TV HD
+#EXTINF:-1 tvg-id="Música" tvg-name="RETRO MUSIC TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RETRO%20MUSIC%20TV.png" group-title="Musicales", RETRO MUSIC TV HD   | CZ
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1 tvg-id="Música" tvg-name="U TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/U%20TV.jpg" group-title="TV", U TV
-https://edge214.rcs-rds.ro/V4-3315019-8922549f79e408d221d09cd56da2c6b1-2855520982-0-1622676719-411-utv/utv/utvlq.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="Música" tvg-name="U TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/U%20TV.jpg" group-title="TV", U TV HD
-https://edge214.rcs-rds.ro/V4-8813078-4c7a863fcc63dac91bf8b1c9651e234e-2855520982-0-1622675975-411-utv/utv/utvhq.stream/chunklist.m3u8
-#EXTINF:-1 tvg-id="Música" tvg-name="POWER HD" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/POWER.png" group-title="TV", POWER HD
+#EXTINF:-1 tvg-id="Música" tvg-name="U TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/U%20TV.jpg" group-title="Musicales", U TV   | RO
+https://edge214.rcs-rds.ro/V4-7843847-f1ce92d6973dc66918f7ba4852cd7850-2855520982-0-1623735182-411-utv/utv/utvhq.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="Música" tvg-name="POWER HD" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/POWER.png" group-title="Musicales", POWER HD   | AR
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Música" tvg-name="TERRAMIA TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TERRAMIA%20TV.png" group-title="TV", Tierra Mía TV
+#EXTINF:-1 tvg-id="Música" tvg-name="TERRAMIA TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TERRAMIA%20TV.png" group-title="Musicales", Tierra Mía TV   | AR
 http://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Música" tvg-name="MUSIC TOP" tvg-logo="https://www.diario26.com/images/musictop_logo.png?3" group-title="TV", MUSIC TOP
+#EXTINF:-1 tvg-id="Música" tvg-name="MUSIC TOP" tvg-logo="https://www.diario26.com/images/musictop_logo.png?3" group-title="Musicales", Music Top   | AR
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w288048170_b2028000_sleng.m3u8
-#EXTINF:-1 tvg-id="Música" tvg-name="RETRO PLUS MUSIC" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="TV", RETRO PLUS MUSIC
+#EXTINF:-1 tvg-id="Música" tvg-name="RETRO PLUS MUSIC" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="Musicales", Retro Plus Music   | CL
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?WebM3UCL
-#EXTINF:-1 tvg-id="Música" tvg-name="RETRO PLUS MUSIC 2" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="TV", RETRO PLUS MUSIC 2
+#EXTINF:-1 tvg-id="Música" tvg-name="RETRO PLUS MUSIC 2" tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="Musicales", Retro Plus Music 2   | CL
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
-#EXTINF:-1 tvg-id="Música" tvg-name="TELERITMO" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/teleritmo.jpg" group-title="TV", TELERITMO 
+#EXTINF:-1 tvg-id="Música" tvg-name="TELERITMO" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/teleritmo.jpg" group-title="Musicales", Teleritmo   | MX 
 http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8?www.tecnotv.info?
-#EXTINF:-1 tvg-id="Música" tvg-name="Top Latino TV Perú" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TOP%20LATINO%20TV.png" group-title="TV" ,TOP LATINO TV (PER)
+#EXTINF:-1 tvg-id="Música" tvg-name="Top Latino TV Perú" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TOP%20LATINO%20TV.png" group-title="Musicales" ,Top Latino TV   | PE
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tvweb.stream/chunklist_w1568392538.m3u8
-#EXTINF:-1 tvg-id="Música" tvg-name="EuroLatina TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Eurolatina%20tv.jpg" group-title="TV" ,EUROLATINA TV
+#EXTINF:-1 tvg-id="Música" tvg-name="EuroLatina TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Eurolatina%20tv.jpg" group-title="Musicales" ,Eurolatina TV   | ES
 https://cdn01.yowi.tv/ZM1I2N6F9E/live-1600.m3u8
-#EXTINF:-1 tvg-id="Música" tvg-name="Ditty TV USA" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/DittyTVLogo.png" group-title="TV" ,DITTY TV (USA)
+#EXTINF:-1 tvg-id="Música" tvg-name="Ditty TV USA" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/DittyTVLogo.png" group-title="Musicales" ,Ditty TV   | US
 https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
-#EXTINF:-1 tvg-id="Música" tvg-name="Spirit TV USA" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/SPIRIT%20TV.png" group-title="TV" ,SPIRIT TV (USA)
+#EXTINF:-1 tvg-id="Música" tvg-name="Spirit TV USA" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/SPIRIT%20TV.png" group-title="Musicales" ,Spirit TV   | US
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
-#EXTINF:-1 tvg-id="Música" tvg-name="MTV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/MTV-simbolo.jpg" group-title="TV", MTV (USA)
+#EXTINF:-1 tvg-id="Música" tvg-name="MTV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/MTV-simbolo.jpg" group-title="Musicales", MTV   | US
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1 tvg-id="Música" tvg-name="Rewind TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/REWIND%20TV.png" group-title="TV", REWIND TV
+#EXTINF:-1 tvg-id="Música" tvg-name="Rewind TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/REWIND%20TV.png" group-title="Musicales", Rewind TV   | CL
 https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8
-#EXTINF:-1 tvg-id="Música" tvg-name="Mix 24-7" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Mix%2024-7.png" group-title="TV", Mix 24-7
+#EXTINF:-1 tvg-id="Música" tvg-name="Mix 24-7" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Mix%2024-7.png" group-title="Musicales", Mix 24-7   | CL
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Música" tvg-name="Mix 24-7 Top 100" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Mix%2024-7.png" group-title="TV", Mix 24-7 Top 100
+#EXTINF:-1 tvg-id="Música" tvg-name="Mix 24-7 Top 100" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Mix%2024-7.png" group-title="Musicales", Mix 24-7 Top 100   | CL
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/2.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Música" tvg-name="Mix 24-7 Tropical" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Mix%2024-7.png" group-title="TV", Mix 24-7 Tropical
+#EXTINF:-1 tvg-id="Música" tvg-name="Mix 24-7 Tropical" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Mix%2024-7.png" group-title="Musicales", Mix 24-7 Tropical   | CL
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/3.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Música" tvg-name="Mix 24-7 Retro" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Mix%2024-7.png" group-title="TV", Mix 24-7 Retro
+#EXTINF:-1 tvg-id="Música" tvg-name="Mix 24-7 Retro" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Mix%2024-7.png" group-title="Musicales", Mix 24-7 Retro   | CL
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/4.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Música" tvg-name="Mix 24-7 Pop" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Mix%2024-7.png" group-title="TV", Mix 24-7 Pop
+#EXTINF:-1 tvg-id="Música" tvg-name="Mix 24-7 Pop" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Mix%2024-7.png" group-title="Musicales", Mix 24-7 Pop   | CL
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Música" tvg-name="Mix 24-7 Vintage" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Mix%2024-7.png" group-title="TV", Mix 24-7 Actual
+#EXTINF:-1 tvg-id="Música" tvg-name="Mix 24-7 Vintage" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Mix%2024-7.png" group-title="Musicales", Mix 24-7 Actual   | CL
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/6.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="469" tvg-name="Mix 24-7 Conciertos Live" tvg-logo="https://www.m3u.cl/logo/469_Mix_24_7_Conciertos_Live.png", Mix 24-7 Conciertos
+#EXTINF:-1 tvg-id="469" tvg-name="Mix 24-7 Conciertos Live" tvg-logo="https://www.m3u.cl/logo/469_Mix_24_7_Conciertos_Live.png" group-title="Musicales", Mix 24-7 Conciertos   | CL
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/7.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="468" tvg-name="Mix 24-7 Puro Rock" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/puro%20rock.jpg", Puro Rock 24-7
+#EXTINF:-1 tvg-id="468" tvg-name="Mix 24-7 Puro Rock" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/puro%20rock.jpg" group-title="Musicales", Puro Rock 24-7   | CL
 http://159.69.56.148:25461/live/PuroRock/PuroRock24-7.com/25.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Música" tvg-name="RCKStudio" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RCK%20STUDIO.png" group-title="TV", RCK Studio
+#EXTINF:-1 tvg-id="Música" tvg-name="RCKStudio" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RCK%20STUDIO.png" group-title="Musicales", RCK Studio   | CL
 https://inliveserver.com:1936/11530/11530/playlist.m3u8
-#EXTINF:-1 tvg-id="Música" tvg-name="Zapping TV Music" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/ZAPPING%20MUSIC.png" group-title="TV", ZAPPING MUSIC
+#EXTINF:-1 tvg-id="Música" tvg-name="Zapping TV Music" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/ZAPPING%20MUSIC.png" group-title="Musicales", Zapping Music   | CL
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Música" tvg-name="TuTv Chile" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Tu%20tv%20music.png" group-title="TV", TU TV MUSIC
+#EXTINF:-1 tvg-id="Música" tvg-name="TuTv Chile" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Tu%20tv%20music.png" group-title="Musicales", TU TV Music   | CL
 https://tvstreaming.cl:1936/tutv/tutv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Música" tvg-name"RU TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RU%20TV.png" group-title="TV", Ruidos TV
+#EXTINF:-1 tvg-id="Música" tvg-name"RU TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RU%20TV.png" group-title="Musicales", Ruidos TV   | CL
 https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="Variado" tvg-name="ClickTv" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/ClickTv.png" group-title="TV", Click TV
+
+
+#EXTINF:-1 tvg-id="Variado" tvg-name="ClickTv" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/ClickTv.png" group-title="TV", Click TV   | CL
 http://v2.tustreaming.cl/clicktv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Variado" tvg-name="Restaurando Vidas TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Restaurando%20Vidas%20TV.png" group-title="TV", Restaurando Vidas TV
+#EXTINF:-1 tvg-id="Variado" tvg-name="Restaurando Vidas TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Restaurando%20Vidas%20TV.png" group-title="Religiosos", Restaurando Vidas TV   | CL
 http://v2.tustreaming.cl/restaurandovidastv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Religiosos" tvg-name="EXTREMA TV" tvg-logo="https://www.iptvcristiano.com/uploads/channels/225/logo_thumb.jpg" group-title="TV", EXTREMA TV
+#EXTINF:-1 tvg-id="Religiosos" tvg-name="EXTREMA TV" tvg-logo="https://www.iptvcristiano.com/uploads/channels/225/logo_thumb.jpg" group-title="Religiosos", Extrema TV   | CL
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 tvg-id="Religiosos" tvg-name="Reforma TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Reforma%20TV.png" group-title="TV", Reforma TV
+#EXTINF:-1 tvg-id="Religiosos" tvg-name="Reforma TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Reforma%20TV.png" group-title="Religiosos", Reforma TV   | US
 https://livestreamcdn.net:444/ReformaTV/ReformaTV/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Religiosos" tvg-name="Canal Orbe 21" tvg-logo="https://d2ucqd3jt48qxz.cloudfront.net/img/footer-logo.png" group-title="TV", Canal Orbe 21
+#EXTINF:-1 tvg-id="Religiosos" tvg-name="Canal Orbe 21" tvg-logo="https://d2ucqd3jt48qxz.cloudfront.net/img/footer-logo.png" group-title="Religiosos", Canal Orbe 21   | AR
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Religiosos" tvg-name="CBN Español" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/CBN%20Espa%C3%B1ol.jpg" group-title="TV", CBN Español
+#EXTINF:-1 tvg-id="Religiosos" tvg-name="CBN Español" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/CBN%20Espa%C3%B1ol.jpg" group-title="Religiosos", CBN Español   | US
 https://bcliveunivsecure-lh.akamaihd.net/i/iptv2_1@500579/master.m3u8
-#EXTINF:-1 tvg-id="Religiosos" tvg-name="EWTN" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/EWTN.png" group-title="TV", EWTN
+#EXTINF:-1 tvg-id="Religiosos" tvg-name="EWTN" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/EWTN.png" group-title="Religiosos", EWTN   | US
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m3u8
-#EXTINF:-1 tvg-id="Religiosos" tvg-name="María Visión Mexico" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/MARIA%20VISION.png" group-title="TV", MARIA VISION (MEX)
+#EXTINF:-1 tvg-id="Religiosos" tvg-name="María Visión Mexico" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/MARIA%20VISION.png" group-title="Religiosos", MARIA VISION   | MX
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
-#EXTINF:-1 tvg-id="Religiosos" tvg-name="  Televida HD " tvg-logo="https://tvps.000webhostapp.com/familia/Logos/televida%20hd.jpg" group-title="TV", TELEVIDA HD 
+#EXTINF:-1 tvg-id="Religiosos" tvg-name="  Televida HD " tvg-logo="https://tvps.000webhostapp.com/familia/Logos/televida%20hd.jpg" group-title="Religiosos", TELEVIDA   | CL
 https://tls.cdnz.cl/televida/ngrp:live_all/playlist.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="Campo" tvg-name="CHACRA TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/CHACRA%20TV.png" group-title="TV", CHACRA TV
+#EXTINF:-1 tvg-id="Campo" tvg-name="CHACRA TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/CHACRA%20TV.png" group-title="Campo", CHACRA TV   | AR
 https://s8.stweb.tv/chacra/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6m7RawJ.png" group-title="Chile", -Chile-
