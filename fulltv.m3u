@@ -156,121 +156,121 @@ https://unlimited6-cl.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="Canal Nueve TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/nueve%20comodoro.png" group-title="Variado", Canal Nueve TV  | AR
 https://live.canalnueve.tv/canal.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Variado" tvg-name="ONCE TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canalonce.png" group-title="Variado", CANAL ONCE INTERNACIONAL  | MX
+#EXTINF:-1 tvg-id="Variado" tvg-name="ONCE TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canalonce.png" group-title="Variado", ONCE INTERNACIONAL  | MX
 https://live2.canaloncelive.tv/oncemx/smil:oncemx.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Variado" tvg-name="CANAL ONCE (MEX)" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/logo_sobre_canal_once.png" group-title="Variado", CANAL ONCE  | MX
+#EXTINF:-1 tvg-id="Variado" tvg-name="CANAL ONCE (MEX)" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/logo_sobre_canal_once.png" group-title="Variado", ONCE  | MX
 https://live2.canaloncelive.tv/livepkgr/smil:nacional.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Variado" tvg-name="15TV Sabinas" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/15tv%20sabinas.png" group-title="Variado", 15TV Sabinas
+#EXTINF:-1 tvg-id="Variado" tvg-name="15TV Sabinas" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/15tv%20sabinas.png" group-title="Variado", 15TV Sabinas  | MX
 https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Variado" tvg-name="Quiero TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/quiero%20tv.png" group-title="Variado", Quiero TV
+#EXTINF:-1 tvg-id="Variado" tvg-name="Quiero TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/quiero%20tv.png" group-title="Variado", Quiero TV  | MX
 https://quierotvlive.tk/httplive/playlist.m3u8
-#EXTINF:-1 tvg-id="Variado" tvg-name="RTQ Queretaro" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RTQ.jpg" group-title="Variado", RTQ Queretaro
+#EXTINF:-1 tvg-id="Variado" tvg-name="RTQ Queretaro" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RTQ.jpg" group-title="Variado", RTQ Queretaro  | MX
 http://wms.tecnoxia.com:1935/rytqrolive/rytqrolive/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Variado" tvg-name="Telemax Hermosillo" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Telemax-hermosillo.png" group-title="Variado", Telemax Hermosillo
+#EXTINF:-1 tvg-id="Variado" tvg-name="Telemax Hermosillo" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Telemax-hermosillo.png" group-title="Variado", Telemax  | MX
 http://s5.mexside.net:1935/telemax/telemax/.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Variado" tvg-name="TRC TV Campeche" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TRC%20tv.png" group-title="Variado", TRC TV Campeche
+#EXTINF:-1 tvg-id="Variado" tvg-name="TRC TV Campeche" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TRC%20tv.png" group-title="Variado", TRC TV  | MX
 https://stream.oursnetworktv.com/latin/SRTC/chunklist_w803181694.m3u8
-#EXTINF:-1 tvg-id="Variado" tvg-name="8 NTV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/NTV.jpg" group-title="Variado", 8 NTV
+#EXTINF:-1 tvg-id="Variado" tvg-name="8 NTV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/NTV.jpg" group-title="Variado", 8 NTV  | MX
 https://60417ddeaf0d9.streamlock.net:443/ntv/videontv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Variado" tvg-name="Mexiquense TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Mexiquense%20tv.png" group-title="Variado", Mexiquense TV
+#EXTINF:-1 tvg-id="Variado" tvg-name="Mexiquense TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Mexiquense%20tv.png" group-title="Variado", Mexiquense TV  | MX
 https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Variado" tvg-name="Presumiendo Mexico" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/PMTV.jpg" group-title="Variado", Presumiendo Mexico
+#EXTINF:-1 tvg-id="Variado" tvg-name="Presumiendo Mexico" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/PMTV.jpg" group-title="Variado", Presumiendo Mexico  | MX
 https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/chunklist_w839580219_b1428000_sleng.m3u8
-#EXTINF:-1 tvg-id="Variado" tvg-name="TICAVISION"tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Ticavisi%C3%B3n.png" group-title="Variado", Ticavision 
+#EXTINF:-1 tvg-id="Variado" tvg-name="TICAVISION"tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Ticavisi%C3%B3n.png" group-title="Variado", Ticavision   | CR
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
-#EXTINF:-1 tvg-id="Variado" tvg-name="BHTV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/BHTV.png" group-title="Variado", BHTV
+#EXTINF:-1 tvg-id="Variado" tvg-name="BHTV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/BHTV.png" group-title="Variado", BHTV   | PE
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
-#EXTINF:-1 tvg-id="Variado" tvg-name="MUNDO +" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/M+.jpg" group-title="Variado", MUNDO +
+#EXTINF:-1 tvg-id="Variado" tvg-name="MUNDO +" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/M+.jpg" group-title="Variado", MUNDO +   | CO
 http://vcp1.myplaytv.com:1935/mundomas/mundomas/chunklist_w706760331.m3u8
-#EXTINF:-1 tvg-id="Variado" tvg-name="CANAL 6 (MEX)" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal_Seis_Logo.svg.png" group-title="Variado", Canal 6 (MEX)
+#EXTINF:-1 tvg-id="Variado" tvg-name="CANAL 6 (MEX)" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal_Seis_Logo.svg.png" group-title="Variado", Canal 6   | MX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
-#EXTINF:-1 tvg-id="Variado" tvg-name="CANAL 10 (G. ROCA)" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/canal-10-general-roca-1532.png" group-title="Variado", Canal 10 (G. ROCA)
+#EXTINF:-1 tvg-id="Variado" tvg-name="CANAL 10 (G. ROCA)" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/canal-10-general-roca-1532.png" group-title="Variado", Canal 10   | AR
 https://panel.dattalive.com:443/8204/8204/playlist.m3u8
-#EXTINF:-1 tvg-id="Variado" tvg-name="mtmad 24h" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/MTMAD%2024h.jpg" group-title="Variado", MTMAD 24h
+#EXTINF:-1 tvg-id="Variado" tvg-name="mtmad 24h" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/MTMAD%2024h.jpg" group-title="Variado", MTMAD 24h   | ES
 https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-b.m3u8
-#EXTINF:-1 tvg-id="Variado" tvg-name="101TV Málaga" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/101TV.jpg" group-title="Variado", 101TV Malaga
-https://secure7.todostreaming.es/live/101tv-web101tv.m3u8
-#EXTINF:-1 tvg-id="Variado" tvg-name="TV Ferrol" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/ferroltv.png" group-title="Variado", TV Ferrol
+#EXTINF:-1 tvg-id="Variado" tvg-name="101TV Málaga" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/101TV.jpg" group-title="Variado", 101TV   | ES
+https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
+#EXTINF:-1 tvg-id="Variado" tvg-name="TV Ferrol" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/ferroltv.png" group-title="Variado", TV Ferrol   | ES
 https://directo.tvferrol.es/tv.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Variado" tvg-name=" Canal Sur Andalucia" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal%20Sur%20Andalucia.png" group-title="Variado", Canal Sur Andalucia
+#EXTINF:-1 tvg-id="Variado" tvg-name=" Canal Sur Andalucia" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal%20Sur%20Andalucia.png" group-title="Variado", Canal Sur   | ES
 https://cdnlive.shooowit.net/rtvalive/83CRxkDnV6DVR.smil/chunklist_b2200000_DVR.m3u8
-#EXTINF:-1 tvg-id="Variado" tvg-name=" Extremadura" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal%20extremadura.png" group-title="Variado", Extremadura
+#EXTINF:-1 tvg-id="Variado" tvg-name=" Extremadura" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal%20extremadura.png" group-title="Variado", Extremadura   | ES
 https://cdnlive.shooowit.net/canalextremaduralive/channel1DVR.smil/chunklist_b1500000_DVR.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Variado" tvg-name=" La 2" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/La%202.png" group-title="Variado", La 2 HD
+#EXTINF:-1 tvg-id="Variado" tvg-name=" La 2" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/La%202.png" group-title="Variado", La 2 HD   | ES
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
-#EXTINF:-1 tvg-id="Variado" tvg-name=" La 2" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/La%202.png" group-title="Variado", La 2
+#EXTINF:-1 tvg-id="Variado" tvg-name=" La 2" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/La%202.png" group-title="Variado", La 2   | ES
 https://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/index_0650_av-p.m3u8?sd=10&rebase=on&PlaylistM3UCL
-#EXTINF:-1 tvg-id="Variado" tvg-name=" Telemadrid" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/telemadrid.png" group-title="Variado", Telemadrid
+#EXTINF:-1 tvg-id="Variado" tvg-name=" Telemadrid" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/telemadrid.png" group-title="Variado", Telemadrid   | ES
 https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_1.m3u8
-#EXTINF:-1 tvg-id="Variado" tvg-name="Lancelot TV Canarias" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Lancelot-tv.png" group-title="Variado", Lancelot TV Canarias
+#EXTINF:-1 tvg-id="Variado" tvg-name="Lancelot TV Canarias" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Lancelot-tv.png" group-title="Variado", Lancelot TV   | ES
 http://62.210.141.18:1935/directo/lancelot.television/playlist.m3u8
-#EXTINF:-1 tvg-id="Variado" tvg-name="Canal Sierra de Cádiz" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/SIERRA%20DE%20CADIZ.png" group-title="Variado", Canal Sierra de Cadiz
+#EXTINF:-1 tvg-id="Variado" tvg-name="Canal Sierra de Cádiz" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/SIERRA%20DE%20CADIZ.png" group-title="Variado", Canal Sierra de Cadiz   | ES
 http://217.125.136.93:8080/canalsierradecadiz1080.m3u8
-#EXTINF:-1 tvg-id="Variado" tvg-name="7 Murcia" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/7tv.jpg" group-title="Variado", 7 Murcia
+#EXTINF:-1 tvg-id="Variado" tvg-name="7 Murcia" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/7tv.jpg" group-title="Variado", 7 Murcia   | ES
 http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8
-#EXTINF:-1 tvg-id="Variado" tvg-name="Costa Noroeste TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Costa-Noroeste-TV.png" group-title="Variado" ,Costa Noroeste TV
+#EXTINF:-1 tvg-id="Variado" tvg-name="Costa Noroeste TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Costa-Noroeste-TV.png" group-title="Variado" ,Costa Noroeste TV   | ES
 https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
-#EXTINF:-1 tvg-id="Variado" tvg-name="Condavisión" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/condavision_fb.png" group-title="Variado", Condavision
+#EXTINF:-1 tvg-id="Variado" tvg-name="Condavisión" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/condavision_fb.png" group-title="Variado", Condavision   | ES
 http://145.239.141.154:1935/live/uSCQc5ky/playlist.m3u8
-#EXTINF:-1 tvg-id="Variado" tvg-name="Teleonuba" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/teleonuba_fb.png" group-title="Variado", Teleonuba
+#EXTINF:-1 tvg-id="Variado" tvg-name="Teleonuba" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/teleonuba_fb.png" group-title="Variado", Teleonuba   | ES
 https://5d8d85cf2c308.streamlock.net:1936/live/605oPXx3/.m3u8
-#EXTINF:-1 tvg-id="Variado" tvg-name="Mírame TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Mirame-tv.png" group-title="Variado", Mirame TV
+#EXTINF:-1 tvg-id="Variado" tvg-name="Mírame TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Mirame-tv.png" group-title="Variado", Mirame TV   | ES
 https://bit.controlstreams.com:5443/LiveApp/streams/mirametv.m3u8
-#EXTINF:-1 tvg-id="Variado" tvg-name="Azteca 7 Mexico" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/azteca-7_m.png" group-title="Variado", Azteca 7 (MEX)
+#EXTINF:-1 tvg-id="Variado" tvg-name="Azteca 7 Mexico" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/azteca-7_m.png" group-title="Variado", Azteca 7   | MX
 https://m3u-editor.com/serve/televito85/304571708
-#EXTINF:-1 tvg-id="Variado" tvg-name="Canal Capital Colombia" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal_Capital_logo.svg.png" group-title="Variado", Canal Capital (COL)
+#EXTINF:-1 tvg-id="Variado" tvg-name="Canal Capital Colombia" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal_Capital_logo.svg.png" group-title="Variado", Canal Capital   | CO
 https://mdstrm.com/live-stream-playlist/57d01d6c28b263eb73b59a5a.m3u8
-#EXTINF:-1 tvg-id="Variado" tvg-name="Señal Colombia" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/se%C3%B1al%20colombia.jpg" group-title="Variado", Señal Colombia
+#EXTINF:-1 tvg-id="Variado" tvg-name="Señal Colombia" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/se%C3%B1al%20colombia.jpg" group-title="Variado", Señal Colombia   | CO
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/chunklist_b1500000.m3u8
-#EXTINF:-1 tvg-id="Variado" tvg-name="Panamericana Perú" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/panamericana-tv_m.png" group-title="Variado", Panamericana
+#EXTINF:-1 tvg-id="Variado" tvg-name="Panamericana Perú" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/panamericana-tv_m.png" group-title="Variado", Panamericana   | PE
 https://cdnhd.iblups.com/hls/ptv2.m3u8
-#EXTINF:-1 tvg-id="Variado" tvg-name="TV Perú" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Tv_Per%C3%BA.png" group-title="Variado", TV Peru
+#EXTINF:-1 tvg-id="Variado" tvg-name="TV Perú" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Tv_Per%C3%BA.png" group-title="Variado", TV Peru   | PE
 https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
-#EXTINF:-1 tvg-id="Variado" tvg-name="La Tele Tuya Venezuela" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TLT%20play.png" group-title="Variado", TLT (VEN)
+#EXTINF:-1 tvg-id="Variado" tvg-name="La Tele Tuya Venezuela" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TLT%20play.png" group-title="Variado", TLT   | VE
 https://vcp.myplaytv.com/tlthd/tlthd/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Variado" tvg-name="Enfoque Digital TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Enfoque%20TV%20digital.png" group-title="Variado", Enfoque Digital TV
+#EXTINF:-1 tvg-id="Variado" tvg-name="Enfoque Digital TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Enfoque%20TV%20digital.png" group-title="Variado", ED TV   | CL
 https://Stmv1.zcastbr.com/edtvchile/edtvchile/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Variado" tvg-name="América TV Chile" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Am%C3%A9rica%20TV%20Chile.jpg" group-title="Variado", América TV Chile
+#EXTINF:-1 tvg-id="Variado" tvg-name="América TV Chile" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Am%C3%A9rica%20TV%20Chile.jpg" group-title="Variado", América TV   | CL
 https://stmv1.zcastbr.com/americatvchile/americatvchile/chunklist_w1898871116.m3u8?WebM3UCL
-#EXTINF:-1 tvg-id="Variado" tvg-name="Canal 74 TeVe" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal%2074%20TeVe.jpg" group-title="Variado", Canal 74 TeVe
+#EXTINF:-1 tvg-id="Variado" tvg-name="Canal 74 TeVe" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal%2074%20TeVe.jpg" group-title="Variado", Canal 74   | CL
 https://Stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
-#EXTINF:-1 tvg-id="Variado" tvg-name="TVR" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TVR%20chile.png" group-title="Variado", TVR
+#EXTINF:-1 tvg-id="Variado" tvg-name="TVR" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TVR%20chile.png" group-title="Variado", TVR   | CL
 https://unlimited1-cl.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Variado" tvg-name="Canal 57 Melipilla" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal%2057%20Melipilla.jpg" group-title="Variado", Canal 57 Melipilla
+#EXTINF:-1 tvg-id="Variado" tvg-name="Canal 57 Melipilla" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal%2057%20Melipilla.jpg" group-title="Variado", Canal 57   | CL
 https://593b04c4c5670.streamlock.net:443/8148/8148/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Variado" tvg-name="UTV San Clemente" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/UTV%20San%20Clemente.png" group-title="Variado", UTV San Clemente
+#EXTINF:-1 tvg-id="Variado" tvg-name="UTV San Clemente" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/UTV%20San%20Clemente.png" group-title="Variado", UTV San Clemente   | CL
 http://v3.tustreaming.cl/utvsc/live1/playlist.m3u8
-#EXTINF:-1 tvg-id="Variado" tvg-name="Nativa TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Nativa%20TV.png" group-title="Variado", Nativa TV
+#EXTINF:-1 tvg-id="Variado" tvg-name="Nativa TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Nativa%20TV.png" group-title="Variado", Nativa TV   | CL
 https://mediacpstreamchile.com:1936/nativa3/ngrp:nativa3_all/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Variado" tvg-name="Tele2 Web" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Tele2%20Web.png" group-title="Variado", Tele2 Web
+#EXTINF:-1 tvg-id="Variado" tvg-name="Tele2 Web" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Tele2%20Web.png" group-title="Variado", Tele2 Web   | CL
 https://inliveserver.com:1936/11516/11516/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Variado" tvg-name="Estacion TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Estacion%20TV.png" group-title="Variado", Estacion TV
+#EXTINF:-1 tvg-id="Variado" tvg-name="Estacion TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Estacion%20TV.png" group-title="Variado", Estacion TV   | CL
 http://unlimited6-cl.dps.live/estaciontv/estaciontv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Variado" tvg-name="Catatumbo TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Catatumbo%20TV.png" group-title="Variado", Catatumbo TV
+#EXTINF:-1 tvg-id="Variado" tvg-name="Catatumbo TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Catatumbo%20TV.png" group-title="Variado", Catatumbo TV   | VE
 http://vcp1.myplaytv.com/catatumbotv/catatumbotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Variado" tvg-name="LTV canal" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/LTV%20canal.png" group-title="Variado", LTV canal
+#EXTINF:-1 tvg-id="Variado" tvg-name="LTV canal" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/LTV%20canal.png" group-title="Variado", LTV canal   | CL
 https://medios.sirtel.cl/live/stream/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Variado" tvg-name="Canal Visión Dorada" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal%20Visi%C3%B3n%20Dorada.jpg" group-title="Variado", Canal Visión Dorada
+#EXTINF:-1 tvg-id="Variado" tvg-name="Canal Visión Dorada" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal%20Visi%C3%B3n%20Dorada.jpg" group-title="Variado", Visión Dorada   | CO
 https://movil.ejeserver.com/live/visiondorada.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Variado" tvg-name="Canal Survision Alerce" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal%20Survision%20Alerce.png" group-title="Variado", Canal Survision Alerce
+#EXTINF:-1 tvg-id="Variado" tvg-name="Canal Survision Alerce" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal%20Survision%20Alerce.png" group-title="Variado", Survision   | CL
 http://170.79.102.254:1935/pruebacamara/Survision_tv_alerce/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Variado" tvg-name="Soberania" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Soberania.png" group-title="Variado", Soberania
+#EXTINF:-1 tvg-id="Variado" tvg-name="Soberania" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Soberania.png" group-title="Variado", Soberania   | CL
 https://tls.cdnz.cl/iflexus/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="102651" tvg-name="Pichilemu TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Pichilemu_TV.png" group-title="Variado", Pichilemu TV
+#EXTINF:-1 tvg-id="102651" tvg-name="Pichilemu TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Pichilemu_TV.png" group-title="Variado", Pichilemu TV   | CL
 http://play.streaminghd.cl:80/roberto886/roberto886/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="79754" tvg-name="Atacama TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Atacama_TV.png" group-title="Variado", Atacama TV
+#EXTINF:-1 tvg-id="79754" tvg-name="Atacama TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Atacama_TV.png" group-title="Variado", Atacama TV   | CL
 https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
 
-#EXTINF:-1 tvg-id="Infantil" tvg-name="LOCOMOTION" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/LOCOMOTION.png" group-title="Infantiles", LOCOMOTION
+#EXTINF:-1 tvg-id="Infantil" tvg-name="LOCOMOTION" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/LOCOMOTION.png" group-title="Infantiles", Locomotion   | AR
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Infantil" tvg-name="AZTV" tvg-logo="https://lh3.googleusercontent.com/-Y39xxVnyC-s/YGO9nUlOTfI/AAAAAAABBEA/Ibwzbtm-67UtK78dc75JoB1OPmUHFnh5ACK8BGAsYHg/s512/2021-03-30.png" group-title="Infantiles", AZ TV
+#EXTINF:-1 tvg-id="Infantil" tvg-name="AZTV" tvg-logo="https://lh3.googleusercontent.com/-Y39xxVnyC-s/YGO9nUlOTfI/AAAAAAABBEA/Ibwzbtm-67UtK78dc75JoB1OPmUHFnh5ACK8BGAsYHg/s512/2021-03-30.png" group-title="Infantiles", AZ TV   | AR
 http://azxtv.com/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Infantil" tvg-logo="https://lh3.googleusercontent.com/-ZMval3cz_EU/YF5ScdbzL4I/AAAAAAABA-E/rzacWcIi1A4jxiQ7CtFqpBhFH9HLASs4wCK8BGAsYHg/s512/2021-03-26.jpg" group-title="Infantiles", PLANETA JR
+#EXTINF:-1 tvg-id="Infantil" tvg-logo="https://lh3.googleusercontent.com/-ZMval3cz_EU/YF5ScdbzL4I/AAAAAAABA-E/rzacWcIi1A4jxiQ7CtFqpBhFH9HLASs4wCK8BGAsYHg/s512/2021-03-26.jpg" group-title="Infantiles", PLANETA JR   | ES
 https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="Infantil" tvg-logo="https://i.imgur.com/V60dnOp.png" group-title="Infantiles", Boomerang TV
+#EXTINF:-1 tvg-id="Infantil" tvg-logo="https://i.imgur.com/V60dnOp.png" group-title="Infantiles", Boomerang TV   | CL
 http://96.30.193.226:81/hls/boomerang.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="Infantil" tvg-logo="https://i.imgur.com/lND6DKt.png" group-title="Infantiles", Tooncast
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725?checkedby:hlscat.com
+https://ok.ru/live/3078355820075
 #EXTINF:-1 tvg-id="Infantil" tvg-logo="https://i.imgur.com/35BpWJh.jpg" group-title="Infantiles",Supertoons TV
 https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Infantil" tvg-name="Dreiko TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/DREIKO%20TV.png" group-title="Infantiles", DREIKO TV
