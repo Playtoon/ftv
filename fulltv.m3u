@@ -1,5 +1,6 @@
 #EXTM3U
 
+- NOTICIAS -
 #EXTINF:-1 tvg-id="Noticias" tvg-name="DW Español HD" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/dw-espano.jpg" group-title="Noticias", DW Español HD
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF:-1 tvg-id="Noticias" tvg-name="DW Español" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/dw-espano.jpg" group-title="Noticias", DW Español
@@ -263,6 +264,8 @@ https://tls.cdnz.cl/iflexus/live/playlist.m3u8?PlaylistM3UCL
 http://play.streaminghd.cl:80/roberto886/roberto886/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="79754" tvg-name="Atacama TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Atacama_TV.png" group-title="Variado", Atacama TV   | CL
 https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Variado" tvg-name="ClickTv" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/ClickTv.png" group-title="Variado", Click TV   | CL
+http://v2.tustreaming.cl/clicktv/index.m3u8?PlaylistM3UCL
 
 
 
@@ -297,6 +300,10 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
 
 
+#EXTINF:-1 tvg-id="Infantil" tvg-name="Retro TV Palmares" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RETRO%20tv%20PALMERAS.png" group-title="Cine y Series", Retro TV Palmares   | CR
+http://tvretropalmares.com:8090/hls/envivo.m3u8
+#EXTINF:-1 tvg-id="Películas y Series" tvg-name="Mi TV Televisión Clásica" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/MI%20TV%20CLASICA.png" group-title="Cine y Series", Mi TV Clásica   | US
+http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="WOW TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/WOW%20TV.png" group-title="Cine y Series", WOW TV   | SV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Vallevisión" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/vallevision.png" group-title="Cine y Series", Vallevisión   | DO
@@ -319,10 +326,6 @@ http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
 https://cp.sradiotv.com:1936/8064/8064/playlist.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="TVMas Chile" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TVMAS%20chile.png" group-title="Cine y Series", TVMas Chile   | CL
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Infantil" tvg-name="Retro TV Palmares" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RETRO%20tv%20PALMERAS.png" group-title="Cine y Series", Retro TV Palmares   | CR
-http://tvretropalmares.com:8090/hls/envivo.m3u8
-#EXTINF:-1 tvg-id="Películas y Series" tvg-name="Mi TV Televisión Clásica" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/MI%20TV%20CLASICA.png" group-title="Cine y Series", Mi TV Clásica   | US
-http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Sol TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/SOL%20TV.png" group-title="Cine y Series", SOL TV   | US
 https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Rec Online" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/REC%20ONLINE.png" group-title="Cine y Series", REC Online   | BO
@@ -365,7 +368,7 @@ https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master_5.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-logo="https://i.imgur.com/c7bRHaL.png" group-title="Cine y Series", Cine Sureño olympusat   | MX
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master_4.m3u8
-#EXTINF:-1 tvg-id="Películas y Series" tvg-logo="https://i.imgur.com/5ONURCJ.png" group-title="TV", Juntos olympusat   | MX
+#EXTINF:-1 tvg-id="Películas y Series" tvg-logo="https://i.imgur.com/5ONURCJ.png" group-title="Cine y Series", Juntos olympusat   | MX
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-logo="https://i.imgur.com/zIMRPHL.png" group-title="Cine y Series", Horrorfy olympusat   | MX
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
@@ -517,8 +520,6 @@ https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?PlaylistM3UCL
 
 
 
-#EXTINF:-1 tvg-id="Variado" tvg-name="ClickTv" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/ClickTv.png" group-title="TV", Click TV   | CL
-http://v2.tustreaming.cl/clicktv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="Restaurando Vidas TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Restaurando%20Vidas%20TV.png" group-title="Religiosos", Restaurando Vidas TV   | CL
 http://v2.tustreaming.cl/restaurandovidastv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Religiosos" tvg-name="EXTREMA TV" tvg-logo="https://www.iptvcristiano.com/uploads/channels/225/logo_thumb.jpg" group-title="Religiosos", Extrema TV   | CL
