@@ -1,6 +1,7 @@
 #EXTM3U
 
 - NOTICIAS -
+
 #EXTINF:-1 tvg-id="Noticias" tvg-name="DW Español HD" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/dw-espano.jpg" group-title="Noticias", DW Español HD
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 #EXTINF:-1 tvg-id="Noticias" tvg-name="DW Español" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/dw-espano.jpg" group-title="Noticias", DW Español
@@ -52,7 +53,7 @@ https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8
 #EXTINF:-1 tvg-id="Noticias" tvg-name="HiperTV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Hipertv.png" group-title="Noticias", HiperTV | CL
 http://inliveserver.com:1935/11010/11010/playlist.m3u8?PlaylistM3UCL
 
-
+- VARIADO -
 
 #EXTINF:-1 tvg-id="Variado" tvg-name="TV Pública" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/tvpuplica2.png" group-title="Variado", TV Pública  | AR
 https://g3.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
@@ -267,7 +268,7 @@ https://v2.tustreaming.cl/atacamatv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="ClickTv" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/ClickTv.png" group-title="Variado", Click TV   | CL
 http://v2.tustreaming.cl/clicktv/index.m3u8?PlaylistM3UCL
 
-
+- INFANTILES -
 
 #EXTINF:-1 tvg-id="Infantil" tvg-name="LOCOMOTION" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/LOCOMOTION.png" group-title="Infantiles", Locomotion   | AR
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
@@ -291,14 +292,14 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w1490716877
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-id="Infantil" tvg-name="El Chavo TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/EL%20CHAVO%20TV.png" group-title="Infantiles", El Chavo TV   | CL
 https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Infantil" tvg-name="CSTV" tvg-logo="https://televisionlibre.net/img/logo_canal/Los_Simpsons.png" group-title="Infantiles", Simpson TV   | CL
+#EXTINF:-1 tvg-id="Infantil" tvg-name="CSTV" tvg-logo="https://televisionlibre.net/img/logo_canal/Los_Simpsons.png" group-title="Infantiles", Simpsons TV   | CL
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Infantil" tvg-name="Cloud Server Kids" tvg-logo="https://www.lacartoons.com/system/series/fondos/000/000/181/original/aaahh_real_monsters.png" group-title="Infantiles", Aaahh!! Monstruos   | CL
 https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Variado" tvg-name="IPE (PER)" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Identidad_Peruana_ipe_2016.png" group-title="Infantiles" ,IPE   | PE
 http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 
-
+- CINE Y SERIES -
 
 #EXTINF:-1 tvg-id="Infantil" tvg-name="Retro TV Palmares" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RETRO%20tv%20PALMERAS.png" group-title="Cine y Series", Retro TV Palmares   | CR
 http://tvretropalmares.com:8090/hls/envivo.m3u8
@@ -375,7 +376,7 @@ https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 #EXTINF:-1 tvg-id="794" tvg-name="Canal CNR Jujuy" tvg-logo="https://www.m3u.cl/logo/794_Canal_CNR_Jujuy.png" group-title="Cine y Series", CNR TV   | AR
 https://mediacp.hostradios.com.ar:19360/unomultimedio/unomultimedio.m3u8
 
-
+- DEPORTES -
 
 #EXTINF:-1 tvg-id="Deportes" tvg-name="TyC Sports" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TyC_Sports_logo.svg.png" group-title="Deportes", TyC Sports   | AR
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8
@@ -394,7 +395,7 @@ https://dotfvxkfj90ca.cloudfront.net/live/streamingautomototv_aac/playlist.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name=" Cazavision" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/cazavision.png" group-title="Deportes", Cazavision   | ES
 https://cdn039.fractalmedia.es/hls/caz_es_high.m3u8?PlaylistM3UCL
 
-
+- CULTURAL Y EDUCATIVOS -
 
 #EXTINF:-1 tvg-id="Cultural" tvg-name="Encuentro" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/encuentro.png" group-title="Cultural y Educativos", Encuentro   | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist_w1213463464.m3u8
@@ -420,6 +421,10 @@ http://tv.ulagos.cl/web/live.m3u8?PlaylistM3UCL
 https://tls.cdnz.cl/tser5/ngrp:live_all/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Cultural" tvg-name="UMAG TV 2" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/UMAG%20TV%202.png" group-title="Cultural y Educativos", UMAG TV 2   | CL
 https://tls.cdnz.cl/umagtv2/smil:umagtv2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3eb0Hhn.png" group-title="Chile", UCV  | SD | Valparaíso
+https://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fxlQ1we.png" group-title="Chile", UES TV| HD | Santiago
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Cultural" tvg-name="Chile Channel" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Chile%20Channel.png" group-title="Cultural y Educativos", Chile Channel   | CL
 https://v1.tustreaming.cl:19360/chilechannel/chilechannel.m3u8
 #EXTINF:-1 tvg-id="Cultural" tvg-name="tevex" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/tevex.png" group-title="Cultural y Educativos", tevex   | CL
@@ -433,7 +438,7 @@ https://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 tvg-id="Cultural" tvg-name="Cultura 24 TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Cultura%2024%20TV.png" group-title="Cultural y Educativos", Cultura 24 TV   | PE
 http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8?PlaylistM3UCL
 
-
+- MUSICALES -
 
 #EXTINF:-1 tvg-id="Música" tvg-name="Quatro TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Quatro%20TV.png" group-title="Musicales", Quatro TV   | AR
 https://59d52c5a5ce5e.streamlock.net:4443/quatro/quatro/playlist.m3u8?PlaylistM3UCL
@@ -518,7 +523,7 @@ https://tvstreaming.cl:1936/tutv/tutv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Música" tvg-name"RU TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RU%20TV.png" group-title="Musicales", Ruidos TV   | CL
 https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8?PlaylistM3UCL
 
-
+- Religiosos -
 
 #EXTINF:-1 tvg-id="Variado" tvg-name="Restaurando Vidas TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Restaurando%20Vidas%20TV.png" group-title="Religiosos", Restaurando Vidas TV   | CL
 http://v2.tustreaming.cl/restaurandovidastv/index.m3u8?PlaylistM3UCL
@@ -537,15 +542,18 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000
 #EXTINF:-1 tvg-id="Religiosos" tvg-name="  Televida HD " tvg-logo="https://tvps.000webhostapp.com/familia/Logos/televida%20hd.jpg" group-title="Religiosos", TELEVIDA   | CL
 https://tls.cdnz.cl/televida/ngrp:live_all/playlist.m3u8?PlaylistM3UCL
 
+- CAMPO -
+
 #EXTINF:-1 tvg-id="Campo" tvg-name="CHACRA TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/CHACRA%20TV.png" group-title="Campo", CHACRA TV   | AR
 https://s8.stweb.tv/chacra/live/playlist.m3u8?PlaylistM3UCL
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6m7RawJ.png" group-title="Chile", -Chile-
 https://i.imgur.com/EwJbXKm.mp4
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3eb0Hhn.png" group-title="Chile", UCV  | SD | Valparaíso
-https://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/puJ88Pk.png" group-title="Chile", La Red | FHD | Santiago
 https://unlimited1-cl-movistar.dps.live/lared/lared.smil/lared/livestream0/chunks.m3u8
@@ -559,8 +567,7 @@ https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SVy05TP.png" group-title="Chile", TVN Chile | HD | Santiago 
 http://unlimited10-cl.dps.live/tvn/tvn.smil/tvn/livestream1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fxlQ1we.png" group-title="Chile", UES TV| HD | Santiago
-http://cl.origin.grupoz.cl/uestv/live/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/UnWMRrT.png" group-title="Chile", Canal 9 | SD | Concepción
 https://unlimited2-cl.dps.live/c9/c9.smil/c9/livestream2/chunks.m3u8
