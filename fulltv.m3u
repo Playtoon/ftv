@@ -435,6 +435,10 @@ http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
 https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="CineAr" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/cinear.jpg" group-title="Cine y Series", CineAr | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w708752802.m3u8
+#EXTINF: -1 tvg-logo="https://i.ibb.co/W3rqd4P/Las-Estrellas.png" group-title="Cine y Series", Las Estrellas | HD   
+https://m3u-editor.com/serve/televito85/304571989
+#EXTINF: -1 tvg-logo="https://i.ibb.co/W3rqd4P/Las-Estrellas.png" group-title="Cine y Series", Las Estrellas  | SD | Alt.
+https://m3u-editor.com/serve/televito85/304571990
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Telecreativa" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Telecreativa.png" group-title="Cine y Series", Telecreativa | AR
 https://panel.dattalive.com:443/8012/8012/playlist.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="METRO TV TUCUMAN" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/METRO%20TV%20TUCUMAN.png" group-title="Cine y Series", Metro TV | AR
