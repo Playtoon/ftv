@@ -497,9 +497,9 @@ https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8
 https://master.tucableip.com/reconline/live/video.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="REC TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/REC%20TV.png" group-title="Cine y Series", REC TV | EC
 https://video.misistemareseller.com:443/Jonnytv/Jonnytv/playlist.m3u8
-#EXTINF:-72 tvg-logo="https://i.postimg.cc/kgGwbRzG/TWD.png" group-title="Pluto TV", THE WALKING DEAD
+#EXTINF:-72 tvg-logo="https://i.postimg.cc/kgGwbRzG/TWD.png" group-title="Pluto TV", The Walking Dead
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a109b860-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=89e7768a-d856-44a6-ba93-5bff4d40757c&userId=&serverSideAds=true
-#EXTINF:-72 tvg-logo="https://i.postimg.cc/dVT7Tqsr/CSI.png" group-title="Pluto TV", CSI EN ESPAÑOL
+#EXTINF:-72 tvg-logo="https://i.postimg.cc/dVT7Tqsr/CSI.png" group-title="Pluto TV", CSI
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a11f8a50-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=38041b3f-c9d2-4524-8784-12dc0b2a0c11&userId=&serverSideAds=true
 #EXTINF:-61 tvg-logo="http://3.bp.blogspot.com/-u80D-SioUtE/Ts5fIVlJxgI/AAAAAAAAAFY/GxPAuB6LiWg/s1600/movies_logo_5.gif" group-title="Cine y Series", Movies 
 https://panel.streamingTV-mediacp.online:1936/8100/8100/playlist.m3u8
@@ -519,9 +519,9 @@ https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u8
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="RETRO PLUS MOVIES" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RETRO%20PLUS%20MOVIES.png" group-title="Cine y Series", Retro Plus TV | CL
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w424464000.m3u8?WebM3UCL
-#EXTINF:-1 tvg-id="Películas y Series" tvg-name="Zee Mundo" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/ZEE%20MUNDO.png" group-title="Cine y Series" , ZEE MUNDO | US
+#EXTINF:-1 tvg-id="Películas y Series" tvg-name="Zee Mundo" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/ZEE%20MUNDO.png" group-title="Cine y Series", Zee Mundo | US
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Películas y Series" tvg-name="Flixtube" tvg-logo="https://www.flixtube.me/latinoamerica/wp-content/uploads/2020/08/logo-flix.png" group-title="Cine y Series" ,Flixtube | CL
+#EXTINF:-1 tvg-id="Películas y Series" tvg-name="Flixtube" tvg-logo="https://www.flixtube.me/latinoamerica/wp-content/uploads/2020/08/logo-flix.png" group-title="Cine y Series", Flixtube | CL
 https://panel.streamingtv-mediacp.online:1936/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-logo="https://i.imgur.com/mV4smeb.png" group-title="Cine y Series", Butaca TV | MX
 https://veranda-butacatv-1-es.samsung.wurl.com/manifest/3000.m3u8
