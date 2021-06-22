@@ -165,6 +165,14 @@ https://mediacp.hostradios.com.ar:19360/telediario/telediario.m3u8?PlaylistM3UCL
 https://live.canalnueve.tv/canal.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Música" tvg-name="RTN" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RTN.png" group-title="Variado", RTN | AR
 http://media.neuquen.gov.ar/rtn/television/chunklist.m3u8?PlaylistM3UCL
+#EXTINF:-175 tvg-logo="https://i.postimg.cc/xjGgwVZW/VIBRA.jpg" group-title="Variado", VIBRA TV | AR
+https://live.admefy.com/live/default/shiny_silver_49d7a.m3u8
+#EXTINF:-123 tvg-logo="https://i.postimg.cc/G2vz3nRG/image.png" group-title="Variado", STV | CR
+http://209.126.105.158:1935/stv/web/playlist.m3u8
+#EXTINF:-130 tvg-logo="https://i.postimg.cc/y87RrVK3/PHTV.jpg" group-title="Variado", PHTV | DO
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
+#EXTINF:-439 tvg-logo="https://i.postimg.cc/jd2Yh0tr/mvstv.png" group-title="Variado", MVS TV | MX
+https://content.uplynk.com/channel/e7825db621c24c99ac9d389e2d06cd7c.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="ONCE TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canalonce.png" group-title="Variado", ONCE INTERNACIONAL | MX
 https://live2.canaloncelive.tv/oncemx/smil:oncemx.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="CANAL ONCE (MEX)" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/logo_sobre_canal_once.png" group-title="Variado", ONCE | MX
@@ -467,6 +475,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a9c516a2-cd13-4321-a812-3ab72b0db482&deviceLat=-33.0728&deviceLon=-68.4627&deviceMake=Chrome%20Mobile&deviceModel=Chrome%20Mobile&deviceType=web&deviceVersion=80.0.3987.162&includeExtendedEvents=false&sid=38279f58-67e9-4189-874f-bc6305cd9296&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tv0d6eV.png" group-title="Pluto TV", Novelas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-90 tvg-logo="https://i.postimg.cc/RhmStg9H/run_time.png" group-title="Pluto TV", Run:time
+https://ammo-espanol-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=5f5132e362fe160040f26c15/hls/amagi_hls_data_plexAAAAA-ammo-espanol-plex/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="WOW TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/WOW%20TV.png" group-title="Cine y Series", WOW TV | SV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Vallevisión" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/vallevision.png" group-title="Cine y Series", Vallevisión | DO
@@ -642,12 +652,22 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/chunklist_w1643734723_b1296000_
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://sportsmintmedia.com/wp-content/uploads/2020/10/Tennis-Channel-web.jpg" group-title="Deportes", Tennis Channel | US
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZSfrcxH.png" group-title="Deportes", Tennis Channel Plus | US
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 #EXTINF:-1 tvg-id="Deportes" tvg-name="REAL MADRID TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/realmadridtv.png" group-title="Deportes", REAL MADRID TV | ES
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?sd=10&rebase=on&hdntl=exp=1617749728~acl=%2f*~data=hdntl~hmac=55a8f77bbd622c30a1b4e01dda8b552d0a17cf250fda7195e57544aafaff85b4
 #EXTINF:-1 tvg-id="Deportes" tvg-name="Red Bull TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Red%20Bull%20TV.png" group-title="Deportes", Red Bull TV | US
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZrbcTZJ.jpg" group-title="Deportes", Stadium Sports Network | US
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h6W8X9k.png" group-title="Deportes", Fuel TV| US
+https://fueltv-fueltv-1.samsung.wurl.com/manifest/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aSrFtpv.png" group-title="Deportes", All Sports | BR
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1188826163.m3u8
 #EXTINF:-1 tvg-id="Deportes" tvg-name="MsMotor TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/MSMOTORS%20TV.png" group-title="Deportes", MSMOTORS TV | IT
 https://dotfvxkfj90ca.cloudfront.net/live/streamingautomototv_aac/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c5s5l3n.png" group-title="Deportes", RTV Sport | SM
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b542000_slita_t64TUQoMzYwcCk=.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name=" Cazavision" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/cazavision.png" group-title="Deportes", Cazavision | ES
 https://cdn039.fractalmedia.es/hls/caz_es_high.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/412VJRQ.png" group-title="Pluto TV",Combate World | US
@@ -733,6 +753,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dd8364ea1d6780009929902/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mGCtmcX.png" group-title="Pluto TV", Historia | US
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=5.7.1-a6476e5c6aae81513d57183396914e3b74493662&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8836&deviceLon=-68.8141&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=16348462-ede5-11ea-ae94-0242ac110002&userId=&serverSideAds=true
+#EXTINF:-133 tvg-logo="https://i.postimg.cc/wvfrPpZL/sabermas.png" group-title="Cultural y Educativos", Saber Más
+https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
+#EXTINF:-140 tvg-logo="https://i.postimg.cc/q7bRmtJL/lovenature.png" group-title="Cultural y Educativos", Love Nature
+https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
 - MUSICALES -
 
@@ -837,6 +861,8 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
 #EXTINF:-1 tvg-id="Religiosos" tvg-name="  Televida HD " tvg-logo="https://tvps.000webhostapp.com/familia/Logos/televida%20hd.jpg" group-title="Religiosos", TELEVIDA | CL
 https://tls.cdnz.cl/televida/ngrp:live_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e61XJNb.png" group-title="Religiosos", Canal ISB | CL
+https://unlimited6-cl.dps.live/isb/isb.smil/playlist.m3u8 
 
 - CAMPO -
 
@@ -851,118 +877,12 @@ https://v2.tustreaming.cl/mastermedia/tracks-v1a1/mono.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aR5CJYy.png" group-title="Deportes", -Deportes-
-https://storage.googleapis.com/dailycl4/4/4.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iHhc7PK.png" group-title="Deportes", Teletrak | SD | Chile
-http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aSrFtpv.png" group-title="Deportes", All Sports | HD | Brasil
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w1188826163.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mbQsokj.png" group-title="Deportes", Swiss Sport TV | HD | Suiza
-https://av02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c5s5l3n.png" group-title="Deportes", RTV Sport  | SD | San Marino
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/_definst_/smil:ch-02.smil/chunklist_b542000_slita_t64TUQoMzYwcCk=.m3u8
-
-
-
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7D9mtKw.png" group-title="Deportes",Racing.com | HD | Australia
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XJDzZfz.png" group-title="Deportes", Sky Racing 1 | HD | Australia
-https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XJDzZfz.png" group-title="Deportes", Sky Racing 2 | HD | Australia
-https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZrbcTZJ.jpg" group-title="Deportes", Stadium Sports Network | FHD | Estados Unidos
-https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h6W8X9k.png" group-title="Deportes", Fuel TV| SD | Estados Unidos
-https://fueltv-fueltv-1.samsung.wurl.com/manifest/playlist_960x540_2000k.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cLRGVp6.png" group-title="Deportes", Fight Sports | HD | Estados Unidos
-http://210.210.155.35/session/e626cc1a-3cc9-11eb-8b41-919bbeb95887/uq2663/h/h05/02.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nrYLBkN.png" group-title="Deportes",ESPN 2 | HD | Estados Unidos
-https://gma2.blab.email/espn2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PQbUGRO.png" group-title="Deportes",ESPN U | HD | Estados Unidos
-https://gma2.blab.email/espnu.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QS1mIdW.png" group-title="Deportes", MLB | HD | Estados Unidos
-https://tve-live.mlb.com/1621629459_0af0cf39881cb02619d9420d39858f565c4196d7a984baa44e7728ac40a9bd45/TVE/sYolL-AHq87-33XJF-J2VV8-jEsrL/mlbn/live/a-net_a-enc_5472K.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d8PpFdD.png" group-title="Deportes",Bek Sports East | SD | Estados Unidos
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d8PpFdD.png" group-title="Deportes",Bek Sports West | SD | Estados Unidos
-https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Lt9ZUYA.png" group-title="Deportes",Lax Sports Network | HD | Estados Unidos
-https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="Deportes",TVS Sports | SD | Estados Unidos
-https://nrpus.bozztv.com/36bay2/gusa-tvssports/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="Deportes",TVS Women Sports | Estados Unidos
-https://nrpus.bozztv.com/36bay2/gusa-tvswsn/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZSfrcxH.png" group-title="Deportes",Tennis Channel | HD | Estados Unidos
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZSfrcxH.png" group-title="Deportes",Tennis Channel Plus | HD | Estados Unidos
-https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5FTCFRj.png" group-title="Deportes", TDM Sports | SD | Macao
-http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3PqutEf.png" group-title="Deportes", ERT Sports | FHD | Grecia
-https://ert-live-bcbs15228.siliconweb.com/media/ert_sports/ert_sportshigh.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mf5E7OI.png" group-title="Deportes", Arryadia 3| SD | Marruecos
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7lKXcM8.png" group-title="Deportes", Jordan Sports | HD | Jordania
-https://i.imgur.com/Cc1CypC.mp4
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iAgz934.png" group-title="Deportes", Abu Dhabi Sports | HD | Emiratos Árabes 
-https://admdn1ta.cdn.mgmlcdn.com/adsports1/smil:adsports1.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nafEjWL.png" group-title="Deportes", Dubai Sports | HD | Emiratos Árabes
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pzEl8R8.png" group-title="Deportes", Dubai Racing | HD | Emiratos Árabes
-https://dmisvthvll.cdn.mangomolo.com/events/events.smil/chunklist_b1600000.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.1arablive.com/livetv/assets/images/1536610958.png" group-title="Deportes", KTB Sports  | HD | Kuwait
-https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsports.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.1arablive.com/livetv/assets/images/1536610958.png" group-title="Deportes", KTB Sports Plus | HD | Kuwait
-https://hiplayer.hibridcdn.net/t/kwmedia-kwtvsportsplus.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mrjWOnQ.png" group-title="Deportes", RTM Sport | HD | Malasia
-https://rtmsportshdmobile.secureswiftcontent.com/Origin02/ngrp:RTM2/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/51PCxvI.jpg" group-title="Deportes", Door Darshan Sports | HD | India
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-
-
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DURfChW.png" group-title="Cristianos", -Cristianos-
 https://i.imgur.com/LmAvxVu.mp4
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e61XJNb.png" group-title="Cristianos", Canal ISB | SD | Católico | Chile
-https://unlimited6-cl.dps.live/isb/isb.smil/playlist.m3u8 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DrKKuFY.png" group-title="Cristianos", Pax Tv | SD | Católico | Perú
 http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/chunklist_b1735000.m3u8
 
