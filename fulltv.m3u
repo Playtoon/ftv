@@ -675,9 +675,9 @@ https://ammo-espanol-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-5
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Vallevisión" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/vallevision.png" group-title="Cine y Series", Vallevisión | DO
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="Cine y Series",Telenord 8 | HD | San Francisco
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="Cine y Series",Telenord 8 | DO
 http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="Cine y Series",Telenord 12 | HD | San Francisco
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="Cine y Series",Telenord 12 | DO
 http://newyorkstream.ddns.net:5854/telenord12/telenord12/telenord12.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yC7s8Xm.jpg" group-title="Cine y Series", Vision NDV | DO
 https://cloudflare.streamgato.us:3171/live/visionndvlive.m3u8
