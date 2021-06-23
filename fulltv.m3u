@@ -675,6 +675,8 @@ https://ammo-espanol-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-5
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Vallevisión" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/vallevision.png" group-title="Cine y Series", Vallevisión | DO
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mnJNkEE.png" group-title="Cine y Series", Microvisión | DO
+http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="Cine y Series",Telenord 8 | DO
 http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="Cine y Series",Telenord 12 | DO
@@ -683,8 +685,6 @@ http://newyorkstream.ddns.net:5854/telenord12/telenord12/telenord12.m3u8
 https://cloudflare.streamgato.us:3171/live/visionndvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E2Mpuoz.png" group-title="Cine y Series",HM TV 33 | DO
 http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mnJNkEE.png" group-title="Cine y Series", Microvisión | DO
-http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lv0mnMF.png" group-title="Cine y Series", Onda TV 10 | DO
 http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="GEN TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/gen%20tv.png" group-title="Cine y Series", GEN TV | AR
@@ -848,6 +848,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98a911c881310007
 
 - DEPORTES -
 
+#EXTINF:-1 tvg-id="Deportes" tvg-name="TyC Sports" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TyC_Sports_logo.svg.png" group-title="Deportes", america sports | AR
+https://youtu.be/1SmKEIpmcLU
 #EXTINF:-1 tvg-id="Deportes" tvg-name="TyC Sports" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TyC_Sports_logo.svg.png" group-title="Deportes", TyC Sports | AR
 https://d3055hobuue3je.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_10.m3u8
 #EXTINF:-1 tvg-id="Deportes" tvg-name="DeporTV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/dportv.jpg" group-title="Deportes", DeporTV | AR
