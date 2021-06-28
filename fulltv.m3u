@@ -5,9 +5,7 @@
 #EXTINF:-1 tvg-id="Noticias" tvg-name="DW Español" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/dw-espano.jpg" group-title="Noticias", DW Español
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 #EXTINF:-1 tvg-id="Noticias" tvg-name="France 24" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/France24.png" group-title="Noticias", France 24
-http://static.france24.com/live/F24_ES_LO_HLS/live_web.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Noticias" tvg-name="France 24 FHD" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/France24.png" group-title="Noticias", France 24 FHD
-http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0049
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RjWhU8T.png" group-title="Noticias", VOA | US
 https://voa-lh.akamaihd.net/i/voa_tvmc2@317693/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="Noticias", Euronews | ES
@@ -20,8 +18,6 @@ https://rt-esp-gd.secure2.footprint.net/1102.m3u8
 http://200.115.193.177/live/26hd-720/.m3u8?www.tecnotv.info
 #EXTINF:-1 tvg-id="Noticias" tvg-name="A24" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/A24_(2019-1).png" group-title="Noticias", A24 | AR
 https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/ad4c1ae6-a1ed-415b-8b2e-93da0ae40b2b:SCL/variant/0c9f77ea95444cbfd46a0108e4f60b04/bandwidth/1500000.m3u8
-#EXTINF:-1 tvg-id="Noticias" tvg-name="IP HD" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/IPtv.jpg" group-title="Noticias", IP HD | AR
-https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/5ee6e167-1167-4a85-9d8d-e08a3f55cff3.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Noticias" tvg-name="IP" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/IPtv.jpg" group-title="Noticias", IP | AR
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=2000000.m3u8
 #EXTINF:-1 tvg-id="Noticias" tvg-name="Cronica" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/cronicahd.png" group-title="Noticias", Cronica | AR
@@ -67,6 +63,8 @@ http://inliveserver.com:1935/11010/11010/playlist.m3u8?PlaylistM3UCL
 https://g3.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="Mirador" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Mirador2.png" group-title="Variado", Mirador | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/chunklist_w381242656.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIGOURME.png" group-title="Variado", El Gourmet | AR
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0019
 #EXTINF:-1 tvg-id="Variado" tvg-name="Argentinisima" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/1argentinisima.jpg" group-title="Variado", Argentinisima | AR
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8?GrupoTopIptv
 #EXTINF:-1 tvg-id="Variado" tvg-name="Canal 2 Jujuy" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal-2-Jujuy.png" group-title="Variado", Canal 2 Jujuy | AR
@@ -81,16 +79,20 @@ https://5cd577a3dd8ec.streamlock.net/canal4/smil:manifest.smil/chunklist_w206733
 https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="Canal 7 Salta" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Canal%207%20salta.png" group-title="Variado", Canal 7 Salta | AR
 https://589ff3c36f7e8.streamlock.net:443/crespo3/crespo3/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VINEOXTV.png" group-title="Variado", Neox TV Salta | AR
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0261
 #EXTINF:-1 tvg-id="Variado" tvg-name="El Nueve" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Elnueve.png" group-title="Variado", El Nueve | AR
 https://video-weaver.jfk04.hls.ttvnw.net/v1/playlist/CoAF_NbwORuQ-2qTCsWzjGAK6SgaoRKfgOwBqYeq_welhnMvF0x-AT1SDv6Z06B8KdighYkB7nHaQYe6Zk83G_wlVrK2c5dE1UV8cyiNGnNE9CGpXLzOTM5RS1mFcHzqqB8hubjWaNiXR89-iWc3w3LoKRtfuevEN1d8_lHhsHfRaxhz-OeqQ-BhqZM7yVZqdzUG56c4oyI9XMad_arEJO1jR1LAo6RrNHlAFQVC-oD-640EPlkKOpdY9AsNx7r4QofNpmhgJ0jDqPE89boEXexQ_VWUpnDIW5x36skmsubJ4hgWmHpjgSPZ9gHP4rOsc1KU36LKT_LXIFPpVcuTdnPVY5ZHTi7TMWxNi3XsBMuN7QRSq4d-NNBASHP0hNK7zHGTsv32T0fT09UX4rvM0Ww8wDJiUJ1AGxq0yqUenDxvxMlXtCuIHCx849n3BMVhY4IL8TwTbonXVz_CXkU1EwAGkZLrDJgDNsM38TY40Mdz9YgX_nfg8WNNeoDQseji9c9g9Aym6D1EZqLLpqOMiR5lYaTmZ2XyI6yyAy1NZ7Jcjo_4wRMFH3ScJAGvVu5bu2nX2W3c58Y64DeSoLzxgpxYKr4e-J8r-K4WS6jFem9tfn-2IGG28tMnYgfNuKFBuXfbD_8x5nAXiYt-oAZ8lXCmGhl2DoC-g1Ju5mEcH7geRHTbJtNCccDybDYjKvqJvQoTRyjOdysaQTmFRLdc1zkmi2zTLeY6OW4bnSou1ePHbEJUgcDK9oOAtx3w824XCg2-xzrWGXf_zpkOA8ysQtdcqANF9S9E1_V7bCP4_MnupVQQwQ2y0bq1bilcscV966Ir0k0BcVPudm1y36Z39gT-1RIQopi9TcVtuW6DsPoo6_ewkRoM8BlZJS6D13feFECY.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/HvCzSJQ.png" group-title="Variado", Telefe | AR
-https://video-weaver.jfk04.hls.ttvnw.net/v1/playlist/CoAFZNhT9uDj8hf6ifY6jm0fylOC5NtPcvEr2jAvbxbJftvv4yQtIUlsdHGMjTrqvPCZSa0CcqYtILfqPw6rfB--0jUe5tI4uEA_9Rl0V09WPNnGZZVx6jyuA8NVrRotJlSR_i2ekg6Fg7Fan_1I8R5enY3MtheaGvqOq8C0-blONhLLpBJcD9vsBcNwu1RR_8u_MP06VMAbopaw_IgcpOk_tilZfDBhPxiM9yXX8Pzlh76oShgr35fi6sPgwT_5f9Lz0HwCgCGWREydfbGuTmDwmeF4MMRPFBcijyUN37n1Ny7qDxfXqH65ImK2yvgNl9k-eaHMh0szgWbtwFSaLsd_bTUlCjFXcv8jMoQRXZ0K-5oqgFaFATOfQdbgIMWu3CpTlSyXJHpPst4sYXgGpU4qsHwd1SZ8pScaoalPQ2Md5oCs2NxRD6-DxeWjyzrDSw2dzUroo6oLLIU40DqDUBRV7YsRtkxSFtFvEOfzE4G1gjITFU2ZRqz3GkDXwI-cckAeihqqct8jxJThecEcs0FM3JmndEw08ys1jN0wrI_-MJgAjb4kuKWJkupVmSDqMVSAQ18L6DO9bmG-6dbNQmK_Z8Dugdv5wVGEGwJsdKa0jkkEuYVaon3MMRTXB171splb7ZQJUr7zrremLasKrRgT1wY7xhlt6OyQgS8EsqQ4phG4-wUnEGsTJSBqYENiJw_1yVLej7otxyLfSDY_H58Wt73Gz86WLQzry8odzUnw_TTHpSrIbQZKMC3W0MO5eS4DqVPomWkeFuKhyyD2o5MQxZ6QYvJTpK6o40Y7lfuDN8n9ZjdstZWvsYiV8avoVH0ZLh3pFUA0-6tHLbhcCaH_2BIQMw73U8M37_tvzMKImBsmFRoMCiZS46kxh-B2zZ1d.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/HvCzSJQ.png" group-title="Variado", Telefe Santa Fe | AR
-https://m3u-editor.com/serve/televito85/299163938
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0064
 #EXTINF:-1 tvg-id="Variado" tvg-name="Telefe Rosario" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Telefe-Rosario-en-vivo-Online.png" group-title="Variado", Telefe Rosario | AR
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LV85.png" group-title="Variado", Telefe Cordoba | AR
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=TEAR0170
 #EXTINF:-1 tvg-id="Variado" tvg-name="America TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/americatvarg.png" group-title="Variado", America TV | AR
 https://dai.google.com/linear/hls/event/OY2i_lL4SMyXE5Zaj4ULEg/master.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LS85.png" group-title="Variado", El Trece | AR
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0063
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gWD553w.png" group-title="Variado", América Tucuman | AR
 http://45.6.4.154/americatuc/vivo.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="Ciudad Magazine" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/ciudadmagazine.png" group-title="Variado", Ciudad Magazine | AR
@@ -697,6 +699,8 @@ https://media2.cdnlayer.biz:8081/8008/index.m3u8?PlaylistM3UCL
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="703" tvg-name="Via Television Tarapoto" tvg-logo="https://www.m3u.cl/logo/703_Via_Television_Tarapoto.png" group-title="Variado", Via Television Tarapoto | PE
 https://5ee0faac3bbae.streamlock.net:443/viatv2021/viatv2021/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---RAI.png" group-title="Variado", Rai 3 | IT
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0030
 #EXTINF:-1 tvg-id="143" tvg-name="Canal Once Del Zulia" tvg-logo="https://www.m3u.cl/logo/143_Canal_Once_Del_Zulia.png" group-title="Variado", Canal Once Del Zulia | VE
 http://200.6.154.43:1935/canal11/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="148" tvg-name="Telearagua" tvg-logo="https://www.m3u.cl/logo/148_Telearagua.png" group-title="Variado", Telearagua | VE
@@ -795,8 +799,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a9c516a2-cd13-4321-a812-3ab72b0db482&deviceLat=-33.0728&deviceLon=-68.4627&deviceMake=Chrome%20Mobile&deviceModel=Chrome%20Mobile&deviceType=web&deviceVersion=80.0.3987.162&includeExtendedEvents=false&sid=38279f58-67e9-4189-874f-bc6305cd9296&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tv0d6eV.png" group-title="Pluto TV", Novelas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xncHPAF.png" group-title="Cine y Series", Cosmo | AR
-http://91.126.141.201:1935/live/cosmoHD/.m3u8
 #EXTINF:-90 tvg-logo="https://i.postimg.cc/RhmStg9H/run_time.png" group-title="Pluto TV", Run:time
 https://ammo-espanol-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=5f5132e362fe160040f26c15/hls/amagi_hls_data_plexAAAAA-ammo-espanol-plex/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="WOW TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/WOW%20TV.png" group-title="Cine y Series", WOW TV | SV
@@ -817,6 +819,14 @@ http://cm.hostlagarto.com:8081/Hmtv/hmtv.myStream/chunks.m3u8
 http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="GEN TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/gen%20tv.png" group-title="Cine y Series", GEN TV | AR
 https://videohd.live:19360/8010/8010.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-NEOTV.png" group-title="Cine y Series", NEO TV Digital | AR
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0079
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="Cine y Series", Go Max Premiere | AR
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0071
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xncHPAF.png" group-title="Cine y Series", Cosmo | AR
+http://91.126.141.201:1935/live/cosmoHD/.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIPLUSTV.png" group-title="Cine y Series",Plus TV | AR
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0152
 #EXTINF:-1 tvg-id="Variado" tvg-name="CineAr" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/cinear.jpg" group-title="Cine y Series", CineAr | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w708752802.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Telecreativa" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Telecreativa.png" group-title="Cine y Series", Telecreativa | AR
@@ -1043,6 +1053,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dc7480e3550009
 
 #EXTINF:-1 tvg-id="Cultural" tvg-name="Encuentro" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/encuentro.png" group-title="Cultural y Educativos", Encuentro | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist_w1213463464.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIVIAJAR.png" group-title="Cultural y Educativos", Viajar | AR
+http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0035
 #EXTINF:-1 tvg-id="Cultural" tvg-name="Tec TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/tectvarg.png" group-title="Cultural y Educativos", Tec TV | AR
 https://g3.mc-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
 #EXTINF:-1 tvg-id="Cultural" tvg-name="UTN TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/UTN%20TV.png" group-title="Cultural y Educativos", UTN TV | AR
