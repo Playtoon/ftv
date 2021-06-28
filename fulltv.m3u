@@ -17,7 +17,7 @@ https://rt-esp-gd.secure2.footprint.net/1102.m3u8
 #EXTINF:-1 tvg-id="Noticias" tvg-name="Canal 26" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/LogoCanal26.png" group-title="Noticias", Canal 26 | AR
 http://200.115.193.177/live/26hd-720/.m3u8?www.tecnotv.info
 #EXTINF:-1 tvg-id="Noticias" tvg-name="A24" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/A24_(2019-1).png" group-title="Noticias", A24 | AR
-https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/ad4c1ae6-a1ed-415b-8b2e-93da0ae40b2b:SCL/variant/0c9f77ea95444cbfd46a0108e4f60b04/bandwidth/1500000.m3u8
+https://dai.google.com/linear/hls/pa/event/Txk1vDlZR2CCfDuUZ0ylpw/stream/500d8391-feae-4173-a571-a688cd96d49d:SCL/variant/0c9f77ea95444cbfd46a0108e4f60b04/bandwidth/1500000.m3u8
 #EXTINF:-1 tvg-id="Noticias" tvg-name="IP" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/IPtv.jpg" group-title="Noticias", IP | AR
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=2000000.m3u8
 #EXTINF:-1 tvg-id="Noticias" tvg-name="Cronica" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/cronicahd.png" group-title="Noticias", Cronica | AR
