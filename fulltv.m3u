@@ -886,7 +886,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w708752802.m3
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Telecreativa" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Telecreativa.png" group-title="Cine y Series", Telecreativa | AR
 https://panel.dattalive.com:443/8012/8012/playlist.m3u8
 #EXTINF:-1 tvg-id="239" tvg-name="Fenix" tvg-logo="https://www.m3u.cl/logo/239_Fenix.jpg" group-title="Cine y Series", Fenix | AR
-https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8?PlaylistM3UCL
+http://stmv4.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
 #EXTINF:-1 tvg-id="820" tvg-name="El Palomar TV Tucuman" tvg-logo="https://www.m3u.cl/logo/820_El_Palomar_TV_Tucuman.jpg" group-title="Cine y Series", El Palomar TV Tucuman | AR
 https://video.streamtvradio.com:8443/uv038/uv038/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="METRO TV TUCUMAN" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/METRO%20TV%20TUCUMAN.png" group-title="Cine y Series", Metro TV | AR
