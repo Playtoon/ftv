@@ -1150,7 +1150,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282
 #EXTINF:-1 tvg-id="Cultural" tvg-name="Encuentro" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/encuentro.png" group-title="Cultural y Educativos", Encuentro | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist_w1213463464.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIVIAJAR.png" group-title="Cultural y Educativos", Viajar | AR
-http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0035
+https://dcunilive3-lh.akamaihd.net/i/dclive_1@390901/index_150_av-p.m3u8?sd=6&rebase=on&hdntl=exp=1625006642~acl=%2fi%2fdclive_1%40390901*~data=hdntl~hmac=a5f130c93f4071742ef4641c9fdf5b7cef85f64877eab52b8db862dff80f5e8a
 #EXTINF:-1 tvg-id="Cultural" tvg-name="Tec TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/tectvarg.png" group-title="Cultural y Educativos", Tec TV | AR
 https://g3.mc-hor.transport.edge-access.net/a09/ngrp:gcba_video3-100042_all/gcba_video3-100042_720p.m3u8
 #EXTINF:-1 tvg-id="Cultural" tvg-name="UTN TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/UTN%20TV.png" group-title="Cultural y Educativos", UTN TV | AR
