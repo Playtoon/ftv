@@ -60,7 +60,7 @@ http://inliveserver.com:1935/11010/11010/playlist.m3u8?PlaylistM3UCL
 - VARIADO -
 
 #EXTINF:-1 tvg-id="Variado" tvg-name="TV Pública" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/tvpuplica2.png" group-title="Variado", TV Pública | AR
-https://g3.vxral-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
+https://g5.vxral-hor.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="Mirador" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Mirador2.png" group-title="Variado", Mirador | AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/chunklist_w381242656.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIGOURME.png" group-title="Variado", El Gourmet | AR
@@ -412,15 +412,27 @@ https://cdn01.yowi.tv/GGGGGGGGGG/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/klE3Yf9.png" group-title="Variado", Mijas 3.40 TV | ES
 https://d1o1m0b8hn74yt.cloudfront.net/out/v1/dcd3c3ade6994cc9ba1f6e534ff4d1e8/index.m3u8 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wB82I4p.png" group-title="Variado",La Otra| ES
-https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/bitrate_2.m3u8
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/laotra_1/bitrate_1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/H7ghBaT.png" group-title="Variado", Trece | ES
 https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live-898/index.m3u8
 #EXTINF:-1 tvg-logo="https://eltorotv.com/wp-content/uploads/2020/01/logo-eltorotv.jpg" group-title="Variado", EL Toro| ES
 https://live1-eltorotv.flumotion.com/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Oy1GZJK.jpg" group-title="Variado", Ce TV | ES
 https://cdnlive.shooowit.net/rtvcelive/channel1.smil/chunklist_b4000000.m3u8
+#EXTINF:-1 tvg-logo="https://grupocadenamediatv.com/img/logo.png" group-title="Variado", GCM TV | ES
+https://cloud.streamingconnect.tv:455/tbmadrid/tbmadrid.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logofibwilive.jpg" group-title="Variado", Fibwi Live | ES
+http://109.232.71.249/fibwiLIVE_movil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.uhdspain.com/web/wp-content/uploads/2021/04/logo_uhd.png" group-title="Variado", UHD Spain SDR | ES
+http://18.168.248.67/webdav/SDRUHD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.uhdspain.com/web/wp-content/uploads/2021/04/logo_uhd.png" group-title="Variado", UHD Spain HDR | ES
+http://18.168.248.67/webdav/UHDSpain.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logotvmelilla.jpg" group-title="Variado", TV Melilla | ES
+https://tvmelilla-hls-rm-lw.flumotion.com/tvmelilla/live-fake-ori_high/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://estaticos.tdt1.com/canales/logoradiotvceuta.jpg" group-title="Variado", Rtvce | ES
+https://cdnlive.shooowit.net/rtvcelive/smil:channel1.smil/chunklist_b4000000.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="Azteca 7 Mexico" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/azteca-7_m.png" group-title="Variado", Azteca 7 | MX
-https://m3u-editor.com/serve/televito85/304571708
+https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TJnhGwX.png" group-title="Variado", Teleplay | MX
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mMqghA3.png" group-title="Variado", Telemar Campeche | MX
@@ -722,14 +734,24 @@ http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="Infantil" tvg-name="LOCOMOTION" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/LOCOMOTION.png" group-title="Infantiles", Locomotion | AR
 http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nn7NnI0.png" group-title="Infantiles", Kanade TV | CL
+http://96.30.193.226:81/hls/kanade.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Nn7NnI0.png" group-title="Infantiles", Kanade TV (alt.) | CL
+http://96.30.193.226:81/hls/kanadetv.m3u8
+#EXTINF:-1 tvg-id="Infantil" tvg-name="LOCOMOTION" tvg-logo="https://www.toonizaki.tk/wp-content/uploads/logo-toonizaki-2021-350x150px.png" group-title="Infantiles", Toonizaki | AR
+https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8
 #EXTINF:-1 tvg-id="Infantil" tvg-name="AZTV" tvg-logo="https://lh3.googleusercontent.com/-Y39xxVnyC-s/YGO9nUlOTfI/AAAAAAABBEA/Ibwzbtm-67UtK78dc75JoB1OPmUHFnh5ACK8BGAsYHg/s512/2021-03-30.png" group-title="Infantiles", AZ TV | AR
 http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="857" tvg-name="Aster" tvg-logo="https://www.m3u.cl/logo/857_Aster.png" group-title="Infantiles", Aster*
 http://96.30.193.226:81/hls/canalaster.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/76sJQeC.png" group-title="Infantiles", ETC TV | CL
-https://unlimited1-cl-movistar.dps.live/etctv/etctv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uXxAWGB.png" group-title="Infantiles", Magic Kids| AR
+https://unlimited1-cl-movistar.dps.live/etctv/etctv.smil/playlist.m3u8?WebM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uXxAWGB.png" group-title="Infantiles", Magic Kids | AR
 https://live.admefy.com/live/240/clean_peach_ef224.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jDhq0ds.jpg" group-title="Infantiles", El Patio TV | ES
+http://alchimie-elpatio-1-es.samsung.wurl.com/manifest/3000.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i2.paste.pics/a5c45485f920b3cb2b2e44b70059858a.png" group-title="Infantiles", Taltal TV | CL
+https://ed5ov.live.opencaster.com/xBwCmtEjAibA/index.m3u8
 #EXTINF:-1 tvg-id="Infantil" tvg-logo="https://lh3.googleusercontent.com/-ZMval3cz_EU/YF5ScdbzL4I/AAAAAAABA-E/rzacWcIi1A4jxiQ7CtFqpBhFH9HLASs4wCK8BGAsYHg/s512/2021-03-26.jpg" group-title="Infantiles", PLANETA JR | ES
 https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="Infantil" tvg-logo="https://i.imgur.com/V60dnOp.png" group-title="Infantiles", Boomerang TV | CL
@@ -820,7 +842,7 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w1490716877
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 #EXTINF:-1 tvg-id="Infantil" tvg-name="El Chavo TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/EL%20CHAVO%20TV.png" group-title="Infantiles", El Chavo TV | CL
 https://videostreaming.cloudserverlatam.com:443/chavotv/chavotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="Infantil" tvg-name="CSTV" tvg-logo="https://televisionlibre.net/img/logo_canal/Los_Simpsons.png" group-title="Infantiles", Simpsons TV | CL
+#EXTINF:-1 tvg-id="Infantil" tvg-name="CSTV" tvg-logo="https://i.imgur.com/4A4nhIx.png" group-title="Infantiles", Simpsons TV | CL
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Infantil" tvg-name="Cloud Server Kids" tvg-logo="https://www.lacartoons.com/system/series/fondos/000/000/181/original/aaahh_real_monsters.png" group-title="Infantiles", Aaahh!! Monstruos | CL
 https://videostreaming.cloudserverlatam.com:443/kids/kids/playlist.m3u8?PlaylistM3UCL
@@ -830,7 +852,7 @@ http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 https://cloud37.ecuatel.com/educa/educa/chunklist_w483213793.m3u8
 #EXTINF:-1 tvg-logo="https://i.vimeocdn.com/video/863382141_1280.jpg" group-title="Infantiles", Chiquilines | MX
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
-#EXTINF:-50 tvg-logo="https://www.levelup.com/images/logo.svg" group-title="Infantiles", Level UP TV
+#EXTINF:-50 tvg-logo="https://www.levelup.com/images/logoOG.png" group-title="Infantiles", Level UP TV
 https://d37s0md1fx4qof.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/LevelUp-Plex/5202b1d3-ec72-47ce-ba98-4a0046647ae2/0.m3u8
 #EXTINF:-51 tvg-logo="https://www.esrevolution.com/images/Logo2021_ESR_2Website1.png" group-title="Pluto TV", ESR 24/7
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb554d87a0c480007c8dada/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c11-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8c67fb7c-fcd9-41e1-baba-8fefef855e17&userId=&serverSideAds=true
@@ -850,7 +872,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca7f16c37b88b26947
 #EXTINF:-1 tvg-id="Infantil" tvg-name="Retro TV Palmares" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RETRO%20tv%20PALMERAS.png" group-title="Cine y Series", Retro TV Palmares | CR
 http://tvretropalmares.com:8090/hls/envivo.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Mi TV Televisión Clásica" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/MI%20TV%20CLASICA.png" group-title="Cine y Series", Mi TV Clásica | US
-http://162.244.80.176:8081/abr/stream/playlist.m3u8?PlaylistM3UCL
+https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8?WebM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J5ZEN2x.png" group-title="Pluto TV", Los Tres Chiflados
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
 #EXTINF:-1 tvg-logo="https://i.imgur.com/m9GKSyx.png" group-title="Pluto TV", Series
@@ -870,16 +892,16 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c00099
 #EXTINF:-35 tvg-logo="https://3dl0u21nnqk62nshp111jz32-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/NV_Web_Logo_3D_20180904_900.png" group-title="Pluto TV", Nuestra Visión
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6690befbdf780007f78158/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d880-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=26dab85a-c1e2-4023-9cde-864e1c0d5f94&userId=&serverSideAds=true
 #EXTINF:-90 tvg-logo="https://i.postimg.cc/CxPQXtDw/STNHP.png" group-title="Pluto TV", Sin tetas no hay Paraíso
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ae52e34a3700007000534/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a8e552-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f7a1d9b1-1365-4889-bb27-c286960039b6&userId=&serverSideAds=true
-#EXTINF:-90 tvg-logo="https://i.postimg.cc/CxPQXtDw/STNHP.png" group-title="Pluto TV", Sin tetas no hay Paraíso 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604bdf4e6d0abc0007ba77ad/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=25bdaa71-ada8-11eb-a3cb-eb027f348c5f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dc5aeb38-8de1-4922-821b-78e2296d5daa&userId=&serverSideAds=true
+#EXTINF:-90 tvg-logo="https://i.postimg.cc/CxPQXtDw/STNHP.png" group-title="Pluto TV", Sin tetas no hay Paraíso 2
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ae52e34a3700007000534/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a8e552-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f7a1d9b1-1365-4889-bb27-c286960039b6&userId=&serverSideAds=true
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tv0d6eV.png" group-title="Pluto TV", Novelas
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-#EXTINF:-90 tvg-logo="https://i.postimg.cc/brrSv3LH/novelas_clásicas.png" group-title="Pluto TV", Telemundo Telenovelas Clásico
+#EXTINF:-90 tvg-logo="https://i.postimg.cc/brrSv3LH/novelas_clásicas.png" group-title="Pluto TV", Telemundo Clásico Telenovelas
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0f0b220-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=79e9b33f-8cdd-440c-8503-74ea6fda2b73&userId=&serverSideAds=true
 #EXTINF:-90 tvg-logo="https://i.postimg.cc/Bb2bbkHF/romance.png" group-title="Pluto TV", Amantes del Romance
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c839cf2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9a7995e2-90ca-4ea0-82a2-c34af9dc3d4e&userId=&serverSideAds=true
-#EXTINF:-90 tvg-logo="" group-title="Pluto TV", Novelas Drama
+#EXTINF:-90 tvg-logo="https://racunalniske-novice.com/wp-content/uploads/2020/03/sng.jpg" group-title="Pluto TV", Novelas Drama
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c83c400-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1feeb0e2-4545-4706-9038-7ed5ff515781&userId=&serverSideAds=true
 #EXTINF:-90 tvg-logo="https://i.postimg.cc/vm80zdmQ/thrillers.png" group-title="Pluto TV", Novelas Thriller
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dc59026b9b000766f9a2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c83c401-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ffbb9a2c-01a5-4d7e-9f19-6c9247bdee77&userId=&serverSideAds=true
@@ -891,18 +913,28 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dc59026b9b00076
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84dbf4a838b60007ffbba1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a109df70-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=702cfffa-9f1d-4a32-86b2-fac554cec889&userId=&serverSideAds=true
 #EXTINF:-90 tvg-logo="https://i.postimg.cc/pdgPjk2J/nosotras.png" group-title="Pluto TV", Entre Nosotras
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492c67f4c48700075b5d37/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a120e9e0-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a6154e7b-2129-4d9d-8cda-6b75cd73e6c8&userId=&serverSideAds=true
-#EXTINF:-90 tvg-logo="https://i.postimg.cc/RhmStg9H/run_time.png" group-title="Pluto TV", Run:time
-https://ammo-espanol-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=5f5132e362fe160040f26c15/hls/amagi_hls_data_plexAAAAA-ammo-espanol-plex/CDN/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhmStg9H/run_time.png" group-title="Cine y Series", Run:time
+https://runtime-espana-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-90 tvg-logo="https://i.postimg.cc/RhmStg9H/run_time.png" group-title="Cine y Series", Run:time 2
+https://ammo-espanol-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RhmStg9H/run_time.png" group-title="Cine y Series", Run:time 3
+https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/ebo_tv_bo.png" group-title="Cine y Series", EBO TV | BO
+http://stmv1.questreaming.com/ebotv/ebotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="WOW TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/WOW%20TV.png" group-title="Cine y Series", WOW TV | SV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Vallevisión" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/vallevision.png" group-title="Cine y Series", Vallevisión | DO
 http://190.103.183.24:1935/Vallevision/ValleHD/chunklist_w1921252657.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mnJNkEE.png" group-title="Cine y Series", Microvisión | DO
 http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png" group-title="Cine y Series", Ready | DO
+http://190.103.183.24:1935/ReadyTV/ReadyHD/.m3u8
 #EXTINF:-130 tvg-logo="https://i.postimg.cc/y87RrVK3/PHTV.jpg" group-title="Variado", PHTV | DO
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="Cine y Series",Telenord 8 | DO
 http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="Cine y Series",Telenord 10 | DO
+http://newyorkstream.ddns.net:5854/telenord10/telenord10/telenord10.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iE1xhA5.png" group-title="Cine y Series",Telenord 12 | DO
 http://newyorkstream.ddns.net:5854/telenord12/telenord12/telenord12.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yC7s8Xm.jpg" group-title="Cine y Series", Vision NDV | DO
@@ -917,7 +949,7 @@ https://videohd.live:19360/8010/8010.m3u8
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0079
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="Cine y Series", Go Max Premiere | AR
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0071
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xncHPAF.png" group-title="Cine y Series", Cosmo | AR
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xncHPAF.png" group-title="Cine y Series", Cosmo | ES
 http://91.126.141.201:1935/live/cosmoHD/.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIPLUSTV.png" group-title="Cine y Series",Plus TV | AR
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0152
@@ -943,8 +975,28 @@ http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8?PlaylistM3UCL
 https://cp.sradiotv.com:1936/8064/8064/playlist.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="TVMas Chile" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TVMAS%20chile.png" group-title="Cine y Series", TVMas Chile | CL
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="Música" tvg-name="TV POP" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/TV%20POP.jpg" group-title="Musicales", TV POP | CL
+https://v4.tustreaming.cl/poptv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2upXrAZ.png" group-title="Cine y Series", ZPTV | CL
 https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://madrid.cines-verdi.com/storage/app/media/cinesverditv.jpg" group-title="Cine y Series", Canal Cinesverdi | ES 
+https://contracorriente-canalcinesverdi-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1361963964469493760/KjCFXNWp_400x400.jpg" group-title="Cine y Series", Feel Good Verdi | ES
+https://contracorriente-canalfeelgood-1-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="Cine y Series", My Time Movies 1 | ES
+https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ml.globenewswire.com/Resource/Download/99b1354d-8a98-478f-acb1-217f619405b4?size=2" group-title="Cine y Series", My Time Movies 2 | ES
+https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://clarion-totally-gaming.s3.eu-west-2.amazonaws.com/s3fs-public/legacy/logo/29/wms_wblade_2.jpg" group-title="Cine y Series", WMS
+https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://amecanal47.com/images/ame_47_sm.jpg" group-title="Cine y Series", Amé
+http://ss6.domint.net:2028/ame_str/amecanal47/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/02232021/Canela.TV_190x190_circle.jpg?raw=true" group-title="Cine y Series", Canela TV
+https://canelamedia-canelatv-1.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tvplus/all-channels/02232021/Canela.TV_190x190_circle.jpg?raw=true" group-title="Cine y Series", Canela TV 2
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=65&live=1&app_bundle=com.plexapp.desktop&did=&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=vX2gxiT5Q_vtARVYwbZa&content_series=5f5132e362fe160040f26c18&custom4=plex&gdpr=0&device_make=Windows&device_model=Opera&coppa=0&us_privacy=1---
+#EXTINF:-1 tvg-logo="http://barvatvplus.com/wp-content/uploads/2020/12/PicsArt_11-24-11.04.44.png" group-title="Cine y Series", Barva TV
+https://cp.sradiotv.com:1936/8076/8076/playlist.m3u8
 #EXTINF:-1 tvg-id="313" tvg-name="Puerta Norte" tvg-logo="https://www.m3u.cl/logo/313_Puerta_Norte.png" group-title="Cine y Series", Puerta Norte | CL
 https://593b04c4c5670.streamlock.net/8170/8170/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="315" tvg-name="Geovision" tvg-logo="https://www.m3u.cl/logo/315_Geovision.jpg" group-title="Cine y Series", Geovision | CL
@@ -954,7 +1006,7 @@ https://stmv.panel.mivideo.pro/evastream/evastream/chunklist_w1057596682.m3u8
 #EXTINF:-1 tvg-id="316" tvg-name="LRP Television" tvg-logo="https://www.m3u.cl/logo/316_LRP_Television.png" group-title="Cine y Series", LRP Television | CL
 https://v2.tustreaming.cl/lrp/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Sol TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/SOL%20TV.png" group-title="Cine y Series", SOL TV | US
-https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/playlist.m3u8
+https://soltvusa.com/soltvsp/ngrp:soltelevisionsp_all/chunklist_w918532059_b2723840_DVR.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Rec Online" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/REC%20ONLINE.png" group-title="Cine y Series", REC Online | BO
 https://master.tucableip.com/reconline/live/video.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="REC TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/REC%20TV.png" group-title="Cine y Series", REC TV | EC
@@ -987,8 +1039,14 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Flixtube" tvg-logo="https://www.flixtube.me/latinoamerica/wp-content/uploads/2020/08/logo-flix.png" group-title="Cine y Series", Flixtube | CL
 https://panel.streamingtv-mediacp.online:1936/8054/8054/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Claro_TV_wordmark.svg/245px-Claro_TV_wordmark.svg.png" group-title="Cine y Series", Canal Claro
+http://186.101.216.211:8000/play/a08e
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/gallery/category_7/gallery_5692_7_22692.png" group-title="Cine y Series", Claro Cinema
+http://209.91.213.10:8099/play/a00v
 #EXTINF:-1 tvg-id="Películas y Series" tvg-logo="https://i.imgur.com/mV4smeb.png" group-title="Cine y Series", Butaca TV | MX
 https://veranda-butacatv-1-es.samsung.wurl.com/manifest/3000.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/125px-Atreseries_2020_logo.svg.png" group-title="Cine y Series", A3S | ES
+http://186.101.216.211:8000/play/a0dv
 #EXTINF:-1 tvg-id="Películas y Series" tvg-logo="https://i.imgur.com/1fTcl43.png" group-title="Cine y Series", A3Cine | ES
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
 #EXTINF:-1 tvg-id="794" tvg-name="Canal CNR Jujuy" tvg-logo="https://www.m3u.cl/logo/794_Canal_CNR_Jujuy.png" group-title="Cine y Series", CNR TV | AR
@@ -1002,7 +1060,7 @@ https://59ce1298bfb98.streamlock.net/cablemas/cablemas/chunklist_w480314177.m3u8
 #EXTINF:-29 tvg-logo="https://1.bp.blogspot.com/-Jt9iLTl60OI/YFerCGX_48I/AAAAAAAAAE0/iMHDPAdTFF4uL1-uDqEq8kidNq40CCvwwCPcBGAYYCw/w1200-h630-p-k-no-nu/Emprende%2BTV%2Blogo.png" group-title="Cine y Series", EMPRENDE TV | PY
 https://59ce1298bfb98.streamlock.net/emprendetv/emprendetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.retroplaytv.club/img/logo-radio.png" group-title="Cine y Series", Retro Play TV | CL
-https://paneltv.online:1936/8138/8138/playlist.m3u8
+https://v2.tustreaming.cl/retroplaytv/index.m3u8?WebM3UCL
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Exprezion TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/EX%20TV.png" group-title="Cine y Series", EX TV | CL
 https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321" tvg-name="Huasco TV" tvg-logo="https://www.m3u.cl/logo/321_Huasco_TV.jpg" group-title="Cine y Series", Huasco TV | CL
@@ -2058,4 +2116,3 @@ http://media-ice.musicradio.com/LBCUKMP3Low
 http://media-ice.musicradio.com/LBC1152MP3Low
 #EXTINF:-1 radio="true" tvg-logo="https://i.imgur.com/Ov6LR8j.png" group-title="Radios", Vatican News | VA
 https://rvl.azureedge.net/channel5.mp3
-
