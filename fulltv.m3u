@@ -433,6 +433,8 @@ https://tvmelilla-hls-rm-lw.flumotion.com/tvmelilla/live-fake-ori_high/chunks.m3
 https://cdnlive.shooowit.net/rtvcelive/smil:channel1.smil/chunklist_b4000000.m3u8
 #EXTINF:-1 tvg-id="Variado" tvg-name="Azteca 7 Mexico" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/azteca-7_m.png" group-title="Variado", Azteca 7 | MX
 https://streams.the6tv.duckdns.org:2443/locals/SanDiego/xhtit-tdt.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/t9MWRvP.png" group-title="Variado", Azteca América | MX
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/341232465
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TJnhGwX.png" group-title="Variado", Teleplay | MX
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mMqghA3.png" group-title="Variado", Telemar Campeche | MX
@@ -1034,7 +1036,9 @@ https://rtmp02.portalexpress.es/fmtv3/fmtv3/playlist.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Orbit TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/ORBIT%20TV.png" group-title="Cine y Series", Orbit TV | DO
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="RETRO PLUS MOVIES" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RETRO%20PLUS%20MOVIES.png" group-title="Cine y Series", Retro Plus TV | CL
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/chunklist_w424464000.m3u8?WebM3UCL
+https://vdo.billingchs.com:3408/hybrid/play.m3u8?WebM3UCL
+#EXTINF:-1 tvg-id="Películas y Series" tvg-name="RETRO PLUS MOVIES" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/RETRO%20PLUS%20MOVIES.png" group-title="Cine y Series", Retro Plus TV Extra | CL
+https://video01.logicahost.com.br/retroplustv/retroplustv/playlist.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Zee Mundo" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/ZEE%20MUNDO.png" group-title="Cine y Series", Zee Mundo | US
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Flixtube" tvg-logo="https://www.flixtube.me/latinoamerica/wp-content/uploads/2020/08/logo-flix.png" group-title="Cine y Series", Flixtube | CL
