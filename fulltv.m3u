@@ -739,7 +739,7 @@ http://51.222.85.85:81/hls/loco/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nn7NnI0.png" group-title="Infantiles", Kanade TV | CL
 https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/347377023
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nn7NnI0.png" group-title="Infantiles", Kanade TV (alt.) | CL
-http://45.32.74.87:81/hls/kanadetv.m3u8
+https://tvstreaming.cl:1936/8062/8062/playlist.m3u8
 #EXTINF:-1 tvg-id="Infantil" tvg-name="LOCOMOTION" tvg-logo="https://www.toonizaki.tk/wp-content/uploads/logo-toonizaki-2021-350x150px.png" group-title="Infantiles", Toonizaki | AR
 https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8
 #EXTINF:-1 tvg-id="Infantil" tvg-name="AZTV" tvg-logo="https://lh3.googleusercontent.com/-Y39xxVnyC-s/YGO9nUlOTfI/AAAAAAABBEA/Ibwzbtm-67UtK78dc75JoB1OPmUHFnh5ACK8BGAsYHg/s512/2021-03-30.png" group-title="Infantiles", AZ TV | AR
@@ -929,6 +929,10 @@ https://runtime-espana-rakuten.amagi.tv/playlist.m3u8
 https://ammo-espanol-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/RhmStg9H/run_time.png" group-title="Cine y Series", Run:time 3
 https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eTjeTKh.png" group-title="Cine y Series", Sony Novelas | US
+https://spt-novelas-1-us.samsung.wurl.tv/3000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eTjeTKh.png" group-title="Cine y Series", Sony Comedias | US
+https://spt-comedias-1-us.samsung.wurl.tv/1200.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/ebo_tv_bo.png" group-title="Cine y Series", EBO TV | BO
 http://stmv1.questreaming.com/ebotv/ebotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="WOW TV" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/WOW%20TV.png" group-title="Cine y Series", WOW TV | SV
@@ -957,8 +961,16 @@ http://ss6.domint.net:2052/otv_str/tv10/chunklist_w1442080980.m3u8
 https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-NEOTV.png" group-title="Cine y Series", NEO TV Digital | AR
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/g3dSuTe.png" group-title="Cine y Series", Azteca Corazón | MX
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/399141176
+#EXTINF: -1 tvg-logo="https://i.imgur.com/kTEoEey.png" group-title="Cine y Series", Azteca Cinema | MX
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/399151096
+#EXTINF: -1 tvg-logo="https://i.imgur.com/O3lNzOM.png" group-title="Cine y Series", DHE | CO
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/399168434
+#EXTINF: -1 tvg-logo="https://i.imgur.com/s2yBI0o.png" group-title="Cine y Series", Europa Europa | AR
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/399168435
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xncHPAF.png" group-title="Cine y Series", Cosmo | ES
-http://91.126.141.201:1935/live/cosmoHD/.m3u8
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/341220487
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIPLUSTV.png" group-title="Cine y Series", Plus TV | AR
 https://59537faa0729a.streamlock.net/plustvmachagai/plustvmachagai/chunklist_w939002714.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIPLUSTV.png" group-title="Cine y Series", Plus TV 2 | AR
@@ -1017,6 +1029,8 @@ https://soltvusa.com/soltvsp/ngrp:soltelevisionsp_all/chunklist_w1944639628_b166
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a109b860-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=89e7768a-d856-44a6-ba93-5bff4d40757c&userId=&serverSideAds=true
 #EXTINF:-72 tvg-logo="https://i.postimg.cc/dVT7Tqsr/CSI.png" group-title="Pluto TV", CSI
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a11f8a50-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=38041b3f-c9d2-4524-8784-12dc0b2a0c11&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3bdjhhC.png" group-title="Pluto TV", Doctor Who
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60d3574e97f10800078455de/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a3bb2-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bec2cd61-c8bf-4269-8475-9b5cdf24d1f0&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="704" tvg-name="Central TV Chosica" tvg-logo="https://www.m3u.cl/logo/704_Central_TV_Chosica.png" group-title="Cine y Series", Central TV | PE
 http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="Películas y Series" tvg-name="Cine Club" tvg-logo="https://tvps.000webhostapp.com/familia/Logos/Cine_Club.png" group-title="Cine y Series", Cine Club TV | PE
@@ -1037,6 +1051,8 @@ https://f8e7y4c6.ssl.hwcdn.net/mundohd/tracks-v1a1/index-1631541372-now.m3u8
 https://panel.streamingtv-mediacp.online:1936/8054/8054/playlist.m3u8
 #EXTINF:-1 tvg-id="Películas y Series" tvg-logo="https://i.imgur.com/mV4smeb.png" group-title="Cine y Series", Butaca TV | MX
 https://veranda-butacatv-1-es.samsung.wurl.com/manifest/3000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q4e1NlB.png" group-title="Cine y Series", A3Series | HD | ES
+https://m3u-editor.com/serve/d5603ab0-cff4-11eb-be13-2f73e5948e69/341243325
 #EXTINF:-1 tvg-id="Películas y Series" tvg-logo="https://i.imgur.com/1fTcl43.png" group-title="Cine y Series", A3Cine | ES
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-1080.m3u8
 #EXTINF:-1 tvg-id="794" tvg-name="Canal CNR Jujuy" tvg-logo="https://www.m3u.cl/logo/794_Canal_CNR_Jujuy.png" group-title="Cine y Series", CNR TV | AR
@@ -1136,6 +1152,8 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600728952b17760007
 
 - HISTORIAS Y REALITIES -
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eTjeTKh.png" group-title="Cine y Series", Sony Competencias | US
+https://spt-competencias-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NEywAm3.png" group-title="Pluto TV", Reality | US
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde197f6591d0009839e04/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=1b593072-f695-11ea-b314-0242ac110002&userId=&serverSideAds=true 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/82Ii37M.png" group-title="Pluto TV", Realities en Español | MX
